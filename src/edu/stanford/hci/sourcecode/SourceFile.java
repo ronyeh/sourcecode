@@ -10,8 +10,6 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
-
 /**
  * <p>
  * Represents all aspects of a Java Source File. =) For Static Analysis.
@@ -28,10 +26,13 @@ import edu.stanford.hci.r3.util.DebugUtils;
  */
 public class SourceFile {
 
+	/**
+	 * Represents each line of code.
+	 */
 	private List<String> linesOfCode = new ArrayList<String>();
 
 	private int numBlankLines = -1;
-
+	
 	private int numCloseBraces = -1;
 
 	private int numComments = -1;
@@ -134,6 +135,10 @@ public class SourceFile {
 		numSystemOuts = numSysOuts;
 		numSystemErrs = numSysErrs;
 		// DebugUtils.println(numSystemOuts + " System.outs discovered.");
+	}
+
+	public List<String> getLinesOfCode() {
+		return linesOfCode;
 	}
 
 	public int getNumBlankLines() {
