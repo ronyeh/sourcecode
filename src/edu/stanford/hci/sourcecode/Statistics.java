@@ -25,6 +25,7 @@ public class Statistics {
 
 	public static void main(String[] args) {
 		countStatements();
+		countSystemOuts();
 	}
 
 	/**
@@ -93,8 +94,11 @@ public class Statistics {
 
 		boolean hasMore = true;
 
+		// three things we want to measure
 		int countOfSystemOuts = 0;
 		int countOfSystemErrs = 0;
+		int countOfOtherPrintlns = 0;
+		int countOfDebugs = 0;
 
 		int maxSystemPrintlns = Integer.MIN_VALUE;
 
@@ -106,12 +110,16 @@ public class Statistics {
 		while (hasMore) {
 			countOfFiles++;
 			SourceFile srcFile = sourceFileIterator.getCurrentSourceFile();
+			
 			linesOfCode += srcFile.getNumLines();
 
 			final int numSysOuts = srcFile.getNumSystemOuts();
 			final int numSysErrs = srcFile.getNumSystemErrs();
+			final int numOtherPrintlns = srcFile.getNumOtherPrintlns();
+			// 
+			final int numDebugs = srcFile.getNumDebugs();
 
-			final int numPrintlns = numSysOuts + numSysErrs;
+			final int numPrintlns = numSysOuts + numSysErrs + numOtherPrintlns;
 
 			if (numPrintlns > maxSystemPrintlns) {
 				maxSystemPrintlns = numPrintlns;
@@ -120,14 +128,20 @@ public class Statistics {
 
 			countOfSystemOuts += numSysOuts;
 			countOfSystemErrs += numSysErrs;
+			countOfOtherPrintlns += numOtherPrintlns; 
+			countOfDebugs += numDebugs;
+
 			hasMore = sourceFileIterator.nextSourceFile();
 		}
 
-		int countOfPrintlnStatements = countOfSystemErrs + countOfSystemOuts;
-
+		int countOfPrintlnStatements = countOfSystemErrs + countOfSystemOuts + countOfOtherPrintlns;
+		DebugUtils.println("");
 		DebugUtils.println("Over " + countOfFiles + " files, we found " + countOfPrintlnStatements
 				+ " different println statements, for an average of "
 				+ (countOfPrintlnStatements / (float) countOfFiles) + " per file.");
+		DebugUtils.println("Over " + countOfFiles + " files, we found " + countOfDebugs
+				+ " different \"debug\" statements that were not otherwise in println statements.");
+
 		DebugUtils.println(linesOfCode + " total lines of code (including imports and comments).");
 		DebugUtils.println(maxSystemPrintlns
 				+ " is the max number of System.*.printlns we found in " + maxSystemPrintlnsFile);

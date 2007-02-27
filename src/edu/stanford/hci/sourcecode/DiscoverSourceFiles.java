@@ -29,10 +29,7 @@ public class DiscoverSourceFiles {
 	}
 
 	public static void main(String[] args) {
-
 		String cs160Path = "C:\\Documents and Settings\\Ron Yeh\\My Documents\\Projects\\CS160";
-		String cs160JURMsPath = "C:\\Documents and Settings\\Ron Yeh\\My Documents\\Projects\\CS160\\JURMs";
-
 		DiscoverSourceFiles discoverSourceFiles = new DiscoverSourceFiles(new File(cs160Path));
 		discoverSourceFiles.writePathsToFile(new File("files/SortedSourceFilePaths.txt"));
 	}
