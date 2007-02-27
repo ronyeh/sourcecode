@@ -10,6 +10,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import edu.stanford.hci.r3.util.DebugUtils;
+
 /**
  * <p>
  * Represents all aspects of a Java Source File. =) For Static Analysis.
@@ -32,14 +34,18 @@ public class SourceFile {
 	private List<String> linesOfCode = new ArrayList<String>();
 
 	private int numBlankLines = -1;
-	
+
 	private int numCloseBraces = -1;
 
 	private int numComments = -1;
 
+	private int numDebugLines = -1;
+
 	private int numOpenBraces = -1;
 
 	private int numOtherLines = -1;
+
+	private int numOtherPrintlns = -1;
 
 	private int numSemicolons = -1;
 
@@ -120,20 +126,31 @@ public class SourceFile {
 	 * scanner/parser.
 	 * <li>TODO: Commented out is OK? Because it was once used.... really.
 	 */
-	private void countSystemOutsAndErrs() {
+	private void countSystemOutsAndErrsAndDebugs() {
 		int numSysOuts = 0;
 		int numSysErrs = 0;
+		int numPrintlns = 0;
+		int numDebugs = 0;
 		for (int i = 0; i < linesOfCode.size(); i++) {
 			String line = linesOfCode.get(i);
-			if (line.contains("System.out")) {
-				// DebugUtils.println("System.out found at line: " + (i + 1));
-				numSysOuts++;
-			} else if (line.contains("System.err")) {
-				numSysErrs++;
+//			if (line.contains("System.out")) {
+//				// DebugUtils.println("System.out found at line: " + (i + 1));
+//				numSysOuts++;
+//			} else if (line.contains("System.err")) {
+//				numSysErrs++;
+//			} else 
+				if (line.toLowerCase().contains("println")) {
+				// DebugUtils.println(path);
+				numPrintlns++;
+			} else if (line.toLowerCase().contains("debug")) {
+				// if it contains anything like "DebugUtils" or "debug this!"
+				numDebugs++;
 			}
 		}
 		numSystemOuts = numSysOuts;
 		numSystemErrs = numSysErrs;
+		numOtherPrintlns = numPrintlns;
+		numDebugLines = numDebugs;
 		// DebugUtils.println(numSystemOuts + " System.outs discovered.");
 	}
 
@@ -162,6 +179,13 @@ public class SourceFile {
 		return numComments;
 	}
 
+	public int getNumDebugs() {
+		if (numDebugLines == -1) {
+			countSystemOutsAndErrsAndDebugs();
+		}
+		return numDebugLines;
+	}
+
 	public int getNumLines() {
 		return linesOfCode.size();
 	}
@@ -180,6 +204,13 @@ public class SourceFile {
 		return numOtherLines;
 	}
 
+	public int getNumOtherPrintlns() {
+		if (numOtherPrintlns == -1) {
+			countSystemOutsAndErrsAndDebugs();
+		}
+		return numOtherPrintlns;
+	}
+
 	public int getNumSemicolons() {
 		if (numSemicolons == -1) {
 			countSemicolonsOpenBracesAndComments();
@@ -189,14 +220,14 @@ public class SourceFile {
 
 	public int getNumSystemErrs() {
 		if (numSystemErrs == -1) {
-			countSystemOutsAndErrs();
+			countSystemOutsAndErrsAndDebugs();
 		}
 		return numSystemErrs;
 	}
 
 	public int getNumSystemOuts() {
 		if (numSystemOuts == -1) {
-			countSystemOutsAndErrs();
+			countSystemOutsAndErrsAndDebugs();
 		}
 		return numSystemOuts;
 	}
