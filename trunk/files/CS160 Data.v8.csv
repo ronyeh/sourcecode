@@ -1,0 +1,1232 @@
+Team 42,BodyRegion.java (5 matches),method,Time,Method Entry,Read,No,No,No,No,
+Team 42,,,Value,Method Entry,Read,No,No,Yes,No,
+Team 42,,,Location,For Loop,Read,No,No,No,No,
+Team 42,,method,2D Location,Method Entry,Read,No,No,Yes,No,
+Team 42,,,Location,Method Entry,Read,No,No,Yes,No,
+Team 42,CS160PlannerApp.java (32 matches),constructor,Time,For Loop,Constructor,No,No,No,No,
+Team 42,,,Identifier,For Loop,Constructor,No,No,Yes,Yes,
+Team 42,,,Identifier; Time,Body,Constructor,No,No,Yes,No,
+Team 42,,,Identifier; Time,Body,Constructor,No,No,Yes,No,
+Team 42,,,Identifier; Time,Body,Constructor,No,No,Yes,No,
+Team 42,,,Identifier,For Loop,Constructor,No,No,Yes,Yes,134
+Team 42,,,Identifier,For Loop,Constructor,No,No,Yes,No,
+Team 42,,,Got Here,Body,Constructor,No,No,Yes,No,
+Team 42,,,Time,For Loop,Constructor,No,No,Yes,Yes,
+Team 42,,,Time,For Loop,Constructor,No,No,Yes,No,156
+Team 42,,,Value,Body,Constructor,No,No,Yes,No,161
+Team 42,,,Error Condition,For Loop,Constructor,No,No,Yes,No,
+Team 42,,method,Location; Time,Method Entry,Draw,No,No,No,No,182
+Team 42,,,Value,Method Entry,Draw,No,No,Yes,Yes,
+Team 42,,,Got Here,For Loop,Draw,No,No,No,No,
+Team 42,,,Time,For Loop,Draw,No,No,No,No,
+Team 42,,,Time,For Loop,Draw,No,No,No,No,
+Team 42,,,Error Condition,For Loop,Draw,No,No,Yes,No,
+Team 42,,,Error Condition,For Loop,Draw,No,No,Yes,No,195
+Team 42,,method,Location; Time,Method Entry,Draw,No,No,No,No,
+Team 42,,,Value,Method Entry,Draw,No,No,Yes,Yes,
+Team 42,,,Time,For Loop,Draw,No,No,No,Yes,
+Team 42,,method,Location; Time,Method Entry,Draw,No,No,No,No,
+Team 42,,,Value,Method Entry,Draw,No,No,Yes,Yes,
+Team 42,,method,Time,Method Entry,Read,No,No,No,No,
+Team 42,,,Value,Method Entry,Read,No,No,Yes,Yes,245
+Team 42,,method,Time,Method Entry,Read,No,No,No,No,
+Team 42,,,Value,Method Entry,Read,No,No,Yes,Yes,
+Team 42,,method,Time,Method Entry,Read,No,No,No,No,
+Team 42,,,Value,Method Entry,Read,No,No,Yes,Yes,
+Team 42,,method,Time,Method Entry,Read,No,No,No,No,
+Team 42,,,Value,Method Entry,Read,No,No,Yes,Yes,
+Team 42,CS160PlannerPaperUI.java (9 matches),method,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,52
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,CS160PlannerPaperUI2.java (10 matches),method,Time,Body,Create,No,No,No,No,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,Body,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,141
+Team 42,,,Time,For Loop,Create,No,No,No,Yes,
+Team 42,CS160PlannerSwingUI_FileWriter.java (39 matches),method,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,155
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,212
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,259
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Time,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,320
+Team 42,,,Error Condition; Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Team 42,,,Got Here,Body,GUI Event Handler,Yes,No,No,Yes,
+Team 42,,method,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,CS160PlannerSwingUI.java (9 matches),method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,,,Error Condition; Message,Body,Create,Yes,No,No,No,
+Team 42,CS160PlannerSwingUI2.java,method,Error Condition; Identifier,Body,Create,Yes,No,No,No,
+Team 42,HoursRegion.java (4 matches),method,Got Here; Identifier,Body,Read,No,No,No,No,
+Team 42,,,Value,Body,Read,No,No,Yes,No,
+Team 42,,,Message,Body,Read,No,No,No,No,
+Team 42,,,Identifier,Body,Read,No,No,No,No,
+Team 42,TimeRegion.java (19 matches),method,Got Here; Identifier,Body,Helper,No,No,No,Yes,49
+Team 42,,method,Got Here; Identifier,Method Entry,Draw,No,No,No,No,
+Team 42,,,Value,Method Entry,Draw,No,No,Yes,No,
+Team 42,,,Error Condition,Method Entry,Draw,No,No,Yes,No,66
+Team 42,,,Value,Body,Draw,No,Yes,Yes,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,Yes,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,Yes,No,108
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,Yes,No,137
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No,
+Team 42,,method,Error Condition,Method Entry,Helper,No,No,No,No,179
+Team 42,ToDoRegion.java (4 matches),method,Got Here; Identifier,Method Entry,Read,No,No,No,No
+Team 42,,,Value,Method Entry,Read,No,No,Yes,No
+Team 42,,method,Got Here; Identifier,Method Entry,Read,No,No,No,No
+Team 42,,,Value,Method Entry,Read,No,No,Yes,No
+Team 42,testDummy.java (17 matches),method,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No
+Team 42,,,Value,Body,Main,No,No,No,No,
+Team 42,,,Value,Body,Main,No,No,No,No,
+Team 42,,,Value,Body,Main,No,No,No,No,
+Team 42,,,Value,Body,Main,No,No,No,No,
+Team 42,,,Value,Body,Main,No,No,Yes,No,40
+4Corners,FourCornersPanel.java (91 matches),method,Location,Body,Constructor,Yes,No,No,No,127
+4Corners,,method,Error Condition; Value,Body,Create,No,No,Yes,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Error Condition; Value,Body,Create,No,No,Yes,No,225
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Error Condition; Value,Body,Create,No,No,Yes,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Error Condition; Value,Body,Create,No,No,Yes,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,412
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Error Condition; Value,Body,Create,No,No,Yes,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,495
+4Corners,,,Error Condition; Value,Body,Create,No,No,Yes,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,576
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,705
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,For Loop,GUI Event Handler,Yes,No,No,No,789
+4Corners,,,Got Here,For Loop,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,For Loop,GUI Event Handler,Yes,No,No,No,834
+4Corners,,method,Got Here,Method Entry,Write,No,No,No,No,
+4Corners,,method,Identifier,Method Entry,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,method,Identifier,Method Entry,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,method,Identifier,Method Entry,GUI Event Handler,Yes,No,No,Yes,935
+4Corners,,method,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Value,For Loop,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,1107
+4Corners,,,Value,Body,Create,Yes,No,No,No,
+4Corners,,,Got Here,Body,Create,Yes,No,No,No,
+4Corners,,,Got Here,Body,Create,Yes,No,No,No,
+4Corners,,,Value,Body,Create,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,1203
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,Yes,1268
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,1299
+4Corners,,,Value,Body,Create,Yes,No,No,No,1345
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,1548
+4Corners,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,1570
+4Corners,,method,Value,Body,Create,Yes,No,No,No,
+4Corners,,method,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,1652
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,1740
+4Corners,,,Value,Body,Create,Yes,No,No,Yes,
+4Corners,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Value,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Got Here,Body,GUI Event Handler,Yes,No,No,Yes,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,1988
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,method,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,method,Identifier,Body,Helper,No,No,No,No,2341
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,method,Identifier,Body,Helper,No,No,No,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,,Error Condition; Value,Body,Draw,No,No,Yes,No,
+4Corners,,method,Error Condition; Identifier,Body,Create,No,No,No,No,2445
+4Corners,,method,Location,Body,Helper,No,No,Yes,No,
+4Corners,,,Location,Body,Helper,No,No,Yes,No,
+4Corners,,,Location,Body,Helper,No,No,Yes,No,
+4Corners,,method,Location,For Loop,Helper,No,No,Yes,Yes,
+4Corners,,,Identifier,Body,Helper,No,No,Yes,Yes,
+4Corners,InkCollector.java (2 matches),method,Value,Body,R3 Event Handler,No,No,Yes,Yes,69
+4Corners,,,Value,Body,R3 Event Handler,No,No,Yes,Yes,
+4Corners,InkStroke.java (8 matches),method,Formatting,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Value,Body,Helper,No,No,Yes,No,
+4Corners,,,Formatting,Body,Helper,No,No,Yes,No,139
+4Corners,XMLParser.java (2 matches),method,Got Here,Method Entry,Main,No,No,Yes,No,
+4Corners,,,Value,Body,Main,No,No,Yes,No,
+Anototators,AMIA.java,method,Identifier,Body,Main,No,No,Yes,Yes,
+Anototators,AMIAImagePanel.java (7 matches),method,Identifier,Body,Helper,No,No,No,No,
+Anototators,,method,2D Location,Method Entry,Draw,Yes,No,No,No,65
+Anototators,,,Value,Body,Draw,No,No,Yes,Yes,
+Anototators,,,Value,Body,Draw,No,No,Yes,Yes,
+Anototators,,,Value,Body,Draw,No,No,Yes,Yes,
+Anototators,,,Value,Body,Draw,No,No,Yes,Yes,
+Anototators,,,2D Location,For Loop,Draw,No,No,Yes,Yes,109
+Anototators,AMIAImagePanel2.java (17 matches),method,Identifier,Method Entry,Helper,No,No,No,Yes,
+Anototators,,method,Value,Body,Draw,No,No,No,Yes,
+Anototators,,,Value,Body,Draw,No,No,No,Yes,
+Anototators,,,Value,Body,Draw,No,No,No,Yes,
+Anototators,,,Value,Body,Draw,No,No,No,Yes,92
+Anototators,,,2D Location,Body,Draw,Yes,No,No,No,
+Anototators,,,Value,Body,Draw,No,Yes,No,No,112
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,
+Anototators,,,Value,Body,Draw,Yes,Yes,No,No,134
+Anototators,,,2D Location,For Loop,Draw,Yes,No,Yes,Yes,
+Anototators,,,Formatting,For Loop,Draw,No,No,No,No,
+Anototators,,,Identifier,For Loop,Draw,No,No,No,No,159
+Anototators,AnotoImageFileFilter.java (3 matches),method,Value,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,No,15
+Anototators,ImageResizer.java,method,Error Condition,Body,Draw,No,Yes,No,No,
+Anototators,LoginPrompt.java (7 matches),javadocs,Value,Body,Helper,No,No,No,Yes,
+Anototators,,,Value,Body,Helper,No,No,No,Yes,
+Anototators,,,Got Here,Body,Helper,No,No,No,Yes,46
+Anototators,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+Anototators,,method,Value,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,No,
+Anototators,,,Got Here,Body,Main,No,No,No,No,440
+Anototators,MainWindow.java (20 matches),method,Error Condition,Body,Create,No,No,No,Yes,
+Anototators,,,Error Condition,Body,Create,No,No,No,No,196
+Anototators,,method,Value,Method Entry,GUI Event Handler,No,No,No,No,
+Anototators,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Identifier,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Identifier,For Loop,GUI Event Handler,No,No,No,No,
+Anototators,,,Got Here,Body,GUI Event Handler,No,No,No,No,268
+Anototators,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Error Condition; Identifier,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Error Condition,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Error Condition,Body,GUI Event Handler,No,No,No,No,
+Anototators,,,Identifier,Body,GUI Event Handler,No,No,Yes,No,340
+Anototators,,,Identifier,Body,GUI Event Handler,No,No,Yes,No,
+Anototators,,,Got Here,For Loop,GUI Event Handler,No,No,Yes,No,
+Anototators,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+Anototators,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+Anototators,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,376
+Anototators,,,Got Here,For Loop,GUI Event Handler,Yes,No,No,No,
+Anototators,,,Got Here,For Loop,GUI Event Handler,Yes,No,No,No,
+Anototators,MainWindow2.java (9 matches),method,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,88
+Anototators,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+Anototators,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+Anototators,,,Got Here,Body,Create,No,No,Yes,No,
+Anototators,,method,Error Condition,Body,Create,No,No,No,No,181
+Anototators,,,Error Condition,Body,Create,No,No,No,No,
+Anototators,,method,Identifier,For Loop,Helper,No,No,No,No,
+Anototators,,method,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+Anototators,,method,Error Condition,Body,Helper,Yes,No,No,No,267
+Anototators,PrintMedicalImage.java (2 matches),method,Got Here,Body,Create,No,No,Yes,No,
+Anototators,,method,Value,For Loop,Create,No,No,No,No,
+Anototators,PrintSingleMedicalImage.java (3 matches),method,Got Here,Body,Create,No,No,Yes,No,
+Anototators,,,Identifier,Method Entry,Create,No,No,No,No,
+Anototators,,,Value,Method Entry,Main,No,No,No,No,
+Anototators,SerializeableStroke.java (5 matches),method,Message; Error Condition,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,No,
+Anototators,,,Value,Body,Main,No,No,No,Yes,72
+Anototators,,,Message; Error Condition,Body,Main,No,No,No,No,
+Big Brother,ExitListener.java,method,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+Big Brother,MyListSelectionListener.java,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+Big Brother,postExamSwingUI.java (8 matches),method,Error Condition,Body,GUI Event Handler,No,No,No,No,117
+Big Brother,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+Big Brother,,,Value,Body,Helper,No,No,No,No,267
+Big Brother,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+Big Brother,,method,Value,Body,Draw,No,No,No,No,
+Big Brother,,,Value,Body,Draw,No,No,No,No,
+Big Brother,,method,Identifier,Body,Helper,No,No,No,Yes,
+Big Brother,,method,Identifier,Body,Helper,No,No,No,Yes,714
+Big Brother,ScrollDemo.java,method,Error Condition; Identifier,Body,Create,No,No,No,No,
+Big Brother,AnswerSheetSwingUI.java (3 matches),method,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+Big Brother,,,Got Here,Body,R3 Event Handler,No,No,Yes,Yes,84
+Big Brother,,method,Got Here,Method Entry,Helper,No,No,No,No,
+Big Brother,AskQuestions.java (3 matches),method,Identifier,Body,Main,No,No,Yes,No,
+Big Brother,,,Identifier,Body,Main,No,No,Yes,No,
+Big Brother,,,Got Here,Body,Main,No,No,No,No,44
+Big Brother,AskQuestionSwingUI.java (15 matches),method,Identifier,For Loop,Helper,No,No,Yes,No,
+Big Brother,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+Big Brother,,,Got Here,Body,Helper,No,No,Yes,No,
+Big Brother,,,Got Here,Body,Helper,No,No,Yes,No,
+Big Brother,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,122
+Big Brother,,method,Value,Body,Helper,No,No,No,No,
+Big Brother,,,Error Condition,Catch Block,Helper,No,No,No,No,
+Big Brother,,method,Value,Body,Helper,No,No,No,No,
+Big Brother,,,Value,For Loop,Helper,No,No,No,No
+Big Brother,,,Got Here,For Loop,Helper,No,No,No,No
+Big Brother,,,Value,Body,Helper,No,No,No,No
+Big Brother,,,Error Condition,Catch Block,Helper,No,No,No,No
+Big Brother,,method,Value,Body,Helper,No,No,No,Yes
+Big Brother,,method,Got Here,Body,GUI Event Handler,No,No,No,No
+Big Brother,,method,Got Here,Body,GUI Event Handler,No,No,No,No
+Big Brother,OurListSelectionListener.java (5 matches),method,Value,Body,GUI Event Handler,No,No,No,No
+Big Brother,,,Got Here,Body,GUI Event Handler,No,No,No,No
+Big Brother,,,Got Here,Body,GUI Event Handler,No,No,No,No
+Big Brother,,,Got Here,Body,GUI Event Handler,No,No,No,No
+Big Brother,,,Got Here; Identifier,Body,GUI Event Handler,No,No,No,No
+Big Brother,QuestionBoxContentFilterListener.java,method,Got Here,Body,R3 Event Handler,No,No,Yes,No
+BluJay,FlashCardBrowse.java (27 matches),constructor,Value,Body,Constructor,Yes,No,No,No
+BluJay,,,2D Location,Body,Constructor,Yes,No,No,Yes
+BluJay,,,2D Location,Body,Constructor,Yes,No,No,Yes
+BluJay,,method,Got Here,Body,Draw,Yes,No,No,No,
+BluJay,,,Identifier,For Loop,Draw,No,No,No,Yes,
+BluJay,,,Identifier,For Loop,Draw,No,No,No,Yes,
+BluJay,,,2D Location,For Loop,Draw,No,No,No,Yes,196
+BluJay,,,Got Here,Body,Draw,No,No,No,No,
+BluJay,,method,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,262
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,306
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Error Condition,Body,GUI Event Handler,No,No,No,No,319
+BluJay,,method,Value,Body,Helper,No,No,No,No,
+BluJay,,,Value,Body,Helper,No,No,No,No,
+BluJay,,method,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,method,Value,Body,Create,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,FlashCardCard.java,method,Identifier,Body,Write,No,No,No,No,
+BluJay,FlashCardFile.java (16 matches),method,Value,Body,Main,No,No,No,No,
+BluJay,,,Value,Body,Main,No,No,No,No,
+BluJay,,,Location,For Loop,Read,No,No,No,No,
+BluJay,,,Value,For Loop,Read,No,No,No,No,
+BluJay,,,Error Condition,Catch Block,Read,No,No,No,No,106
+BluJay,,,Error Condition,Catch Block,Write,No,No,No,No,
+BluJay,,method,Identifier,Method Entry,Helper,No,No,No,No,
+BluJay,,,Got Here,For Loop,Helper,No,No,No,No,
+BluJay,,method,Identifier,Method Entry,Helper,No,No,No,No,
+BluJay,,method,Identifier,Method Entry,Helper,No,No,No,No,
+BluJay,,,Value,For Loop,Helper,No,No,No,No,167
+BluJay,,method,Value,For Loop,Write,No,No,No,No,
+BluJay,FlashCardImport.java (3 matches),method,Value,Body,Create,No,No,No,Yes,
+BluJay,,method,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,method,Identifier,Body,Helper,No,No,No,No,
+BluJay,FlashCardQuiz.java (8 matches),method,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,No,No,No,No,130
+BluJay,,method,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No,
+BluJay,,method,Value,For Loop,Read,No,No,No,No,
+BluJay,FlashCardStudy.java (13 matches),method,Got Here,Body,Read,No,No,No,No,
+BluJay,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,234
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,method,Value,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,,,Value,Body,GUI Event Handler,Yes,No,No,No,
+BluJay,FlashCardSwingUI.java (11 matches),method,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+BluJay,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+BluJay,,,Value,Body,R3 Event Handler,No,No,Yes,No,170
+BluJay,,,Value,Body,GUI Event Handler,No,No,No,No
+BluJay,,method,2D Location,For Loop,Read,No,No,No,No
+BluJay,,method,Error Condition,Body,Draw,No,No,Yes,No
+BluJay,,method,Error Condition,Body,Draw,No,No,Yes,No
+BluJay,,,Identifier,Body,Draw,No,No,No,Yes
+BluJay,,,Got Here,Body,Draw,No,No,No,No
+BluJay,,,Error Condition,Catch Block,Draw,No,No,No,No
+BluJay,,method,Got Here,Body,Read,Yes,No,No,No
+BluJay,FlashCardWin.java,method,Identifier,Body,Create,No,No,No,Yes
+BluJay,FlashCardWorkingList.java (4 matches),method,Got Here,Body,GUI Event Handler,No,No,No,No
+BluJay,,method,Got Here,Body,GUI Event Handler,No,No,No,No
+BluJay,,method,Got Here,Body,GUI Event Handler,No,No,No,No
+BluJay,,method,Got Here,Body,GUI Event Handler,No,No,No,No
+BluJay,InkCollector.java (2 matches),method,Value,Body,R3 Event Handler,No,No,No,Yes
+BluJay,,,Value,Body,R3 Event Handler,No,No,No,Yes
+BluJay,InkPanel.java (4 matches),method,Value,For Loop,Draw,No,No,Yes,No
+BluJay,,,2D Location,For Loop,Draw,No,No,Yes,No,
+BluJay,,,2D Location,For Loop,Draw,No,No,Yes,Yes,
+BluJay,,,Value,Body,Draw,No,No,Yes,No,
+KMAT,CS160MapPaperUI.java,method,Got Here,Method Entry,Create,No,No,No,No,32
+KMAT,CS160MapSwingUI.java (88 matches),method,Identifier,For Loop,Constructor,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,179
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,For Loop,R3 Event Handler,No,No,No,Yes,
+KMAT,,,Location,For Loop,R3 Event Handler,No,No,No,Yes,
+KMAT,,,Location,For Loop,R3 Event Handler,No,No,No,Yes,252
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,261
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,329
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,334
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,374
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,413
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,452
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,491
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,569
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,647
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,725
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,776
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,811
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,825
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,859
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,873
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,921
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,969
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,991
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,1003
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,1011
+KMAT,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,1032
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,1063
+KMAT,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,2D Location,Body,R3 Event Handler,No,No,Yes,No,1074
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+KMAT,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,1095
+KMAT,,method,Value,Body,Read,Yes,No,No,No,1161
+KMAT,,,Error Condition,Body,Draw,No,No,Yes,No,
+KMAT,,method,Value,Body,Helper,No,No,No,No,
+KMAT,,,Value,Body,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,1222
+KMAT,DBParser.java (42 matches),method,Error Condition,Catch Block,Constructor,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Constructor,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Constructor,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Constructor,No,No,No,No,47
+KMAT,,method,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,68
+KMAT,,method,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,91
+KMAT,,method,2D Location,Body,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,181
+KMAT,,method,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,231
+KMAT,,method,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Read,No,No,No,No,264
+KMAT,,method,Location; Value,Body,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,289
+KMAT,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,310
+KMAT,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition; Message,Catch Block,Helper,No,No,No,No,321
+KMAT,,method,Value,Body,Main,No,No,No,No,
+KMAT,,,Value,Body,Main,No,No,No,No,
+KMAT,,,Value,Body,Main,No,No,No,No,
+KMAT,,,Value,Body,Main,No,No,No,No,
+KMAT,getURL.java (26 matches),method,Value,For Loop,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,57
+KMAT,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,80
+KMAT,,method,Got Here,Body,Helper,No,No,No,No,
+KMAT,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,116
+KMAT,,method,Got Here,Body,Helper,No,No,No,No,
+KMAT,,,Value,For Loop,Helper,No,No,No,No,
+KMAT,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,153
+KMAT,,method,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,
+KMAT,,method,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,260
+KMAT,,method,Value,Body,Helper,No,No,No,Yes,
+KMAT,,,Value,Body,Helper,No,No,No,Yes,
+KMAT,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Helper,No,No,No,No,345
+KMAT,,method,Value,Body,Main,No,No,No,Yes,352
+KMAT,,,Value,Body,Main,No,No,No,Yes,
+KMAT,,,Value,Body,Main,No,No,No,No,
+KMAT,,,Value,Body,Main,No,No,No,Yes,
+KMAT,InkCollector.java (2 matches),method,Value,Body,R3 Event Handler,No,No,Yes,Yes,
+KMAT,,,Value,Body,R3 Event Handler,No,No,Yes,Yes,76
+KMAT,Phone.java (7 matches),method,Value,Body,Main,No,No,No,No,
+KMAT,,method,Value,Body,Read,No,No,No,Yes,
+KMAT,,,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Error Condition,Catch Block,Read,No,No,No,No,
+KMAT,,,Value,Body,Read,No,No,No,No,53
+ET,AnswerKeyUI.java (3 matches),method,Value,Body,Helper,No,No,No,No,69
+ET,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+ET,,method,Error Condition,Body,Draw,No,No,Yes,No,
+ET,BrowseTest.java,method,Got Here; Value,Body,GUI Event Handler,Yes,No,No,No,
+ET,ClassSetupDeletePopup.java (3 matches),method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,,Value,Body,GUI Event Handler,No,No,No,No,
+ET,ClassSetupMain.java (7 matches),method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,400
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,435
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Value,Method Entry,GUI Event Handler,Yes,No,No,Yes,
+ET,,method,Value,Method Entry,GUI Event Handler,Yes,No,No,No,541
+ET,ExtractPagesAsThumbnails.java (26 matches),constructor,Error Condition; Value,Body,Constructor,No,No,No,No,
+ET,,,Error Condition,Body,Constructor,No,No,No,No,85
+ET,,,Error Condition,Body,Constructor,No,No,No,No,
+ET,,,Identifier,For Loop,Constructor,No,No,No,No,
+ET,,,Got Here,Body,Constructor,No,No,No,No,138
+ET,,method,Identifier,Body,Helper,No,No,No,No,
+ET,,,Error Condition,Catch Block,Helper,No,No,No,No,
+ET,,,Message,Body,Helper,No,No,No,No,
+ET,,,Message,Body,Helper,No,No,No,No,182
+ET,,,Identifier,Body,Helper,No,No,No,No,
+ET,,,Identifier,Body,Helper,No,No,No,No,202
+ET,,,Error Condition,Body,Helper,No,No,No,No,
+ET,,,Error Condition,Catch Block,Helper,No,No,No,No,282
+ET,,method,Got Here,Method Entry,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,,,Identifier,Body,Main,No,No,No,No,
+ET,,,Identifier,Body,Main,No,No,No,No,
+ET,,,Error Condition,Catch Block,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,332
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,344
+ET,,,Error Condition; Identifier,Body,Main,No,No,No,No,
+ET,,,Error Condition,Body,Main,No,No,No,No,
+ET,GradingMainPopup.java (8 matches),method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,244
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,ImportTest.java (5 matches),method,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ET,,,Error Condition,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ET,InkCollector.java (2 matches),method,Value,Body,R3 Event Handler,No,No,No,Yes,
+ET,,,Value,Body,R3 Event Handler,No,No,No,Yes,
+ET,MainPanel.java,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,ManualGradingMain.java (12 matches),method,Identifier,Body,Read,No,No,No,Yes,
+ET,,,Value,Body,Read,No,No,No,Yes,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,404
+ET,,,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,ManualGradingSelectTest.java,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,NewClassPopup.java (2 matches),method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here; Value,Method Entry,GUI Event Handler,Yes,No,No,No,
+ET,PrintTest.java (4 matches),method,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+ET,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ET,,,Error Condition,Body,GUI Event Handler,Yes,No,No,Yes,
+ET,,,Identifier,Body,GUI Event Handler,Yes,No,No,Yes,
+GeoPhoto,GoogleMaps.java (19 matches),method,Identifier,Method Entry,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,method,Identifier,Method Entry,Helper,No,No,No,No,44
+GeoPhoto,,,2D Location,Body,Helper,No,No,No,No,
+GeoPhoto,,,2D Location,Body,Helper,No,No,No,No,
+GeoPhoto,,,Value,For Loop,Helper,No,No,No,No,68
+GeoPhoto,,,Error Condition,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Helper,No,No,No,No,103
+GeoPhoto,,method,Identifier,Method Entry,Read,No,No,No,Yes,
+GeoPhoto,,,2D Location,Method Entry,Read,No,No,No,Yes,
+GeoPhoto,,,2D Location,Body,Read,No,No,No,Yes,
+GeoPhoto,,,Location,Body,Read,No,No,No,Yes
+GeoPhoto,,,Location,Body,Read,No,No,No,Yes
+GeoPhoto,,,Location,Body,Read,No,No,No,Yes
+GeoPhoto,,,Location,Body,Read,No,No,No,Yes
+GeoPhoto,,,2D Location,Body,Read,No,No,No,Yes
+GeoPhoto,,method,Formatting,Method Entry,Main,No,No,No,No
+GeoPhoto,,,Formatting,Body,Main,No,No,No,No
+GeoPhoto,BatchHandle.java (13 matches),constructor,Got Here,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Value,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Value,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Value,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes
+GeoPhoto,,,Location,Body,Constructor,No,No,Yes,Yes,60
+GeoPhoto,,method,Value,Body,R3 Event Handler,No,No,Yes,No,
+GeoPhoto,,,Got Here,For Loop,R3 Event Handler,No,No,Yes,No,
+GeoPhoto,,,Got Here; Value,For Loop,R3 Event Handler,No,No,Yes,No,
+GeoPhoto,FlickrPhoto.java (2 matches),method,Value,Body,Main,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Main,No,No,No,No,
+GeoPhoto,GeoPhotoHiFiPrototype.java (28 matches),method,Value,Body,Helper,No,No,No,No,
+GeoPhoto,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,method,Identifier,Body,Read,No,No,No,No,
+GeoPhoto,,,Error Condition,Body,Read,No,No,No,No,678
+GeoPhoto,,method,Identifier,Body,Helper,No,No,No,Yes,
+GeoPhoto,,method,Value,Method Entry,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Location,Body,GUI Event Handler,No,No,No,No,
+GeoPhoto,,method,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+GeoPhoto,,,Value,Body,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition,Body,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition,Body,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,GUI Event Handler,No,No,No,No,999
+GeoPhoto,,,Error Condition; Value,Catch Block,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,GUI Event Handler,No,No,No,No,
+GeoPhoto,,,Identifier,Body,GUI Event Handler,No,No,No,Yes,1059
+GeoPhoto,,method,Got Here,Method Entry,GUI Event Handler,No,No,No,No,
+GeoPhoto,,method,Error Condition; Value,Body,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Create,Yes,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,Yes,No,No,No,1190
+GeoPhoto,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,method,Error Condition,Catch Block,Create,No,No,No,No,
+GeoPhoto,MarkMatcher.java (9 matches),method,Location,For Loop,Helper,No,No,No,No,
+GeoPhoto,,,Location,For Loop,Helper,No,No,No,No,
+GeoPhoto,,method,Identifier,For Loop,Create,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,No,No,No,No,
+GeoPhoto,,,Time,For Loop,Create,No,No,No,No,
+GeoPhoto,,,Error Condition,For Loop,Create,No,No,No,No,137
+GeoPhoto,,,Time,Body,Create,No,No,No,No,
+GeoPhoto,,,Error Condition,Catch Block,Create,No,No,No,No,
+GeoPhoto,,,Error Condition,Body,Create,No,No,No,No,159
+GeoPhoto,Utils.java,method,Error Condition; Identifier,Body,Create,No,No,No,No,
+GeoPhoto,LongTask.java,method,Error Condition,Catch Block,Constructor,No,No,No,No,
+GeoPhoto,BrowserControl.java (4 matches),,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+GeoPhoto,,,Error Condition; Value,Catch Block,Helper,No,No,No,No,
+GGiD,H2JConverter.java (2 matches),method,Error Condition,Body,Main,No,No,No,No,
+GGiD,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+GGiD,P2JPanel.java,method,Error Condition,Catch Block,Draw,No,No,No,No,
+GGiD,P2JUI.java (4 matches),constructor,Value,Body,R3 Event Handler,No,No,Yes,No,
+GGiD,,,Value,Body,R3 Event Handler,No,No,Yes,No,221
+GGiD,,method,Error Condition,Body,Draw,No,No,Yes,No,
+GGiD,,method,Location,Body,Read,Yes,No,No,No,
+GGiD,ReadFastFacts.java (3 matches),method,Error Condition,Catch Block,Read,No,No,No,No,
+GGiD,,,Error Condition,Catch Block,Read,No,No,No,No,
+GGiD,,,Error Condition,Catch Block,Read,No,No,No,No,
+GGiD,WriteFastFacts.java (3 matches),method,Error Condition,Catch Block,Write,No,No,No,No,
+GGiD,,,Value,For Loop,Write,No,No,No,No,
+GGiD,,,Error Condition,Catch Block,Write,No,No,No,No,
+GGiD,Carrier.java (3 matches),method,Got Here,Body,Helper,No,No,No,No,
+GGiD,,,Error Condition,Catch Block,Helper,No,No,No,No,
+GGiD,,method,Got Here,Body,Main,No,No,No,Yes,
+GGiD,ContentPackage.java (3 matches),method,Error Condition,Body,Write,No,No,No,No,
+GGiD,,method,Error Condition,Body,Read,No,No,No,No,
+GGiD,,method,Error Condition,Body,Read,No,No,No,No,
+GGiD,ContentPage.java (2 matches),constructor,Error Condition,Body,Constructor,No,No,No,No,
+GGiD,,,Error Condition,Body,Constructor,No,No,No,No,
+Jigsaw,Jigsaw.java (24 matches),method,Got Here,Method Entry,GUI Event Handler,No,No,No,No,
+Jigsaw,,,Got Here,Method Entry,GUI Event Handler,No,No,No,No,
+Jigsaw,,method,Got Here,Method Entry,GUI Event Handler,No,No,No,No,
+Jigsaw,,method,Got Here,Method Entry,Helper,No,No,No,No,80
+Jigsaw,,method,Got Here,Body,GUI Event Handler,No,No,No,No,
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+Jigsaw,,method,Got Here; Value,Body,GUI Event Handler,No,No,No,No,469
+Jigsaw,,method,Value,Body,GUI Event Handler,No,No,No,No,
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,No,No,No,557
+Jigsaw,,method,Identifier,Body,Helper,No,No,No,No,
+Jigsaw,,,Got Here,Body,Helper,No,No,No,No,
+Jigsaw,,,Got Here,For Loop,Helper,No,No,No,No,
+Jigsaw,,,Value,For Loop,Helper,No,No,No,No,596
+Jigsaw,,method,Error Condition,Catch Block,Write,No,No,No,No,
+Jigsaw,,method,Error Condition,Body,Read,No,No,No,No,
+Jigsaw,,,Got Here,Body,Read,No,No,No,No,
+Jigsaw,,,Error Condition,Catch Block,Read,No,No,No,No,
+Jigsaw,,,Error Condition,Catch Block,Read,No,No,No,No,688
+Jigsaw,,method,Identifier,Body,Read,Yes,No,No,Yes,
+Jigsaw,,,Identifier,Body,Read,Yes,No,No,Yes,
+Jigsaw,,,Value,Body,Read,Yes,No,No,Yes,
+Jigsaw,,,Identifier,Body,Read,No,No,No,No,
+Jigsaw,,,Got Here,Body,Read,No,No,No,No,
+Jigsaw,JigsawCanvas.java (9 matches),method,Got Here,Method Entry,Draw,No,No,No,No,
+Jigsaw,,,Got Here,Body,Draw,No,No,No,No,
+Jigsaw,,constructor,Got Here,Method Entry,GUI Event Handler,No,No,No,Yes
+Jigsaw,,,Got Here; Value,Method Entry,GUI Event Handler,No,No,No,Yes
+Jigsaw,,method,Value,Method Entry,Helper,No,No,No,No
+Jigsaw,,method,Value,Body,GUI Event Handler,No,Yes,No,No
+Jigsaw,,method,Value,Body,GUI Event Handler,No,No,No,No
+Jigsaw,,method,Got Here,Method Entry,Draw,No,Yes,No,No
+Jigsaw,,method,Got Here,Method Entry,Helper,No,No,No,Yes
+Jigsaw,JigsawClickAdapter.java,method,Value; Identifier,Body,R3 Event Handler,No,No,Yes,No
+Jigsaw,JigsawConfig.java,method,Error Condition; Identifier,Catch Block,Read,No,No,No,No
+Jigsaw,JigsawHotspot.java (2 matches),method,Got Here,Body,GUI Event Handler,No,Yes,No,No
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,Yes,No,No
+Jigsaw,JigsawInkCollector.java,method,Got Here; Identifier,Method Entry,R3 Event Handler,No,No,Yes,No
+Jigsaw,JigsawPiece.java (10 matches),method,Value; Identifier,For Loop,Helper,No,No,No,No
+Jigsaw,,constructor,Got Here,Body,GUI Event Handler,No,Yes,No,No
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,Yes,No,No
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,No,No,Yes
+Jigsaw,,,Got Here,Body,GUI Event Handler,No,No,No,No
+Jigsaw,,,Identifier,Body,GUI Event Handler,No,No,No,No
+Jigsaw,,method,Identifier,Method Entry,Helper,No,No,No,No
+Jigsaw,,method,Identifier,Method Entry,Helper,No,No,No,No
+Jigsaw,,method,2D Location,For Loop,Draw,No,No,No,Yes
+Jigsaw,,,2D Location,For Loop,Draw,No,No,No,Yes
+Jigsaw,JigsawProject.java (9 matches),constructor,Identifier,Method Entry,Constructor,No,No,No,No
+Jigsaw,,,Error Condition,Catch Block,Constructor,No,No,No,No
+Jigsaw,,,Error Condition,Catch Block,Constructor,No,No,No,No
+Jigsaw,,,Error Condition,Catch Block,Constructor,No,No,No,No
+Jigsaw,,,Error Condition,Catch Block,Constructor,No,No,No,No
+Jigsaw,,constructor,Value,Method Entry,Constructor,No,No,No,No
+Jigsaw,,method,Value,Method Entry,Write,No,No,No,No
+Jigsaw,,method,Identifier,Body,Create,No,No,Yes,No
+Jigsaw,,method,Value,Body,Helper,No,No,No,Yes
+Jigsaw,JigsawProjectDataHandler.java (7 matches),method,Identifier,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Identifier,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,method,Value,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,JigsawStrokeDataHandler.java (7 matches),method,Value,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Value,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,method,Value,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,,,Got Here,Body,Helper,No,No,Yes,Yes
+Jigsaw,JigsawWorkbook.java (3 matches),constructor,Value,Method Entry,Constructor,No,No,No,No
+Jigsaw,,method,Identifier,Body,Create,No,No,No,No
+Jigsaw,,,Identifier,Body,Create,No,No,Yes,No
+Jigsaw,Utils.java,method,Identifier,Body,Helper,No,No,No,No,
+MELODY,CS160SwingUI.java (82 matches),constructor,Identifier,For Loop,Constructor,No,No,Yes,No,
+MELODY,,,Got Here,For Loop,Constructor,No,No,Yes,Yes,
+MELODY,,,Got Here; Value,Body,R3 Event Handler,No,No,Yes,No,
+MELODY,,,Got Here; Value,Body,R3 Event Handler,No,No,Yes,No,753
+MELODY,,method,Location,Body,Read,Yes,No,No,No,
+MELODY,,method,Got Here,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Error Condition,Body,Draw,No,No,Yes,Yes,801
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,,Error Condition,Body,Draw,No,No,Yes,No,847
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,895
+MELODY,,,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,,Error Condition,Catch Block,Draw,No,No,No,No,900
+MELODY,,method,Error Condition,Body,Draw,No,No,No,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,No,No,953
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,Yes,964
+MELODY,,,Got Here,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Time,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Time,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Time,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Location,Body,Draw,No,No,Yes,No,
+MELODY,,,Error Condition,Body,Draw,No,No,Yes,No,994
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Time,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Time,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,Yes,
+MELODY,,,Time,Body,Draw,No,No,Yes,Yes,1022
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Value,Body,Draw,No,No,Yes,No,
+MELODY,,,Formatting,Body,Draw,No,No,Yes,No,
+MELODY,,,Location,Body,Draw,No,No,Yes,No,
+MELODY,,,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1067
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,,Error Condition,Catch Block,Draw,No,No,No,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1141
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1174
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1207
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1240
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,1273
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,,method,Error Condition,Body,Draw,No,No,Yes,No,
+MELODY,InkCollector.java (2 matches),method,Value,Body,R3 Event Handler,No,No,Yes,Yes,
+MELODY,,,Value,Body,R3 Event Handler,No,No,Yes,Yes,
+O,InkPanel.java (2 matches),method,Got Here; Value,Body,Draw,No,Yes,No,Yes,
+O,,,Value,Body,Draw,No,Yes,No,Yes,
+O,Stroke.java (2 matches),constructor,Location,Body,Constructor,No,No,Yes,No,
+O,,,Value,Body,Constructor,No,No,Yes,No,
+O,UpReadFileUI.java (11 matches),method,Error Condition,Catch Block,GUI Event Handler,No,No,No,No,194
+O,,method,Error Condition,Body,Create,Yes,No,No,No,
+O,,,Identifier,Catch Block,Create,Yes,No,No,No,
+O,,,Message,Catch Block,Create,Yes,No,No,No,
+O,,,Message,Catch Block,Create,Yes,No,No,No,
+O,,,Identifier,Catch Block,Create,Yes,No,No,No,
+O,,,Message,Catch Block,Create,Yes,No,No,No,
+O,,,Identifier,Catch Block,Create,Yes,No,No,No,
+O,,,Message,Catch Block,Create,Yes,No,No,No,300
+O,,method,Got Here,Method Entry,Draw,No,Yes,No,No,
+O,,method,Error Condition,Body,Main,No,No,No,No,
+O,DotsAndBoxesDetails.java (18 matches),method,Value,Body,Helper,No,No,Yes,No,
+O,,,2D Location,Body,Helper,No,No,Yes,No,
+O,,,2D Location,For Loop,Helper,No,No,Yes,No,26
+O,,method,2D Location,Body,Helper,No,No,No,No,
+O,,,Got Here,Body,Helper,No,No,No,No,
+O,,method,2D Location,Body,Helper,No,No,No,No,363
+O,,method,2D Location,Body,Helper,No,No,No,No,
+O,,,2D Location,Body,Helper,No,No,No,No,
+O,,,Value,Body,Helper,No,No,No,No,646
+O,XMLImporter.java (8 matches),method,Error Condition,Body,Read,No,No,No,No,
+O,,,Error Condition,Body,Read,No,No,No,No,
+O,,,Error Condition,Body,Read,No,No,No,No,
+O,,,Identifier,For Loop,Read,No,No,Yes,No,
+O,,,Value,For Loop,Read,No,No,Yes,No,69
+O,,,Got Here,Body,Read,No,No,Yes,No,
+O,,,Identifier,Body,Read,No,No,Yes,No,
+O,,,Identifier,For Loop,Read,No,No,Yes,No,
+JURMs,GetRx.java,method,Identifier,Body,R3 Event Handler,No,No,Yes,No,50
+JURMs,MapFrame.java (6 matches),constructor,Value,Body,R3 Event Handler,No,No,Yes,No,
+JURMs,,,Value,Body,R3 Event Handler,No,No,Yes,Yes,127
+JURMs,,,Got Here,Body,Constructor,No,No,No,No,
+JURMs,,,Location,Body,Constructor,Yes,No,No,Yes,
+JURMs,,method,Got Here,Body,Draw,No,No,No,No,
+JURMs,,method,2D Location,Body,GUI Event Handler,Yes,No,No,No,
+JURMs,NextRxPanel.java,method,Got Here,Method Entry,Draw,No,No,No,Yes,
+JURMs,NextRxSwingUI.java (4 matches),constructor,Got Here,Method Entry,GUI Event Handler,No,No,Yes,No,
+JURMs,,,Got Here,Body,Constructor,No,No,No,No,
+JURMs,,,2D Location,Body,Constructor,Yes,No,No,No,
+JURMs,,method,2D Location,Body,Read,No,No,No,No,
+JURMs,PatientBrowser.java (34 matches),method,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,303
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,348
+JURMs,PatientBrowserBackup.java (34 matches),method,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,251
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,275
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,287
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,299
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,For Loop,GUI Event Handler,No,No,No,No,
+JURMs,PharmacyDBBrowser.java (4 matches),constructor,Value,Body,GUI Event Handler,No,No,No,No,119
+JURMs,,constructor,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,method,Value,Body,GUI Event Handler,No,No,No,Yes,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,Yes,
+JURMs,RxConfirm.java (9 matches),constructor,Identifier,Body,Constructor,No,No,Yes,No,
+JURMs,,method,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Got Here,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Value,Body,GUI Event Handler,No,No,No,No,
+JURMs,,,Error Condition,Catch Block,GUI Event Handler,No,No,No,No,
+PollPrecision,BallotViewerModel.java (5 matches),method,Identifier,For Loop,Helper,No,No,Yes,No,
+PollPrecision,,,Identifier,Body,Helper,No,No,Yes,No,
+PollPrecision,,method,Value; Identifier,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Value,Body,R3 Event Handler,No,No,Yes,No,73
+PollPrecision,BallotRegion.java,method,Value,Body,Helper,No,No,No,No,
+PollPrecision,PollGraph.java,method,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+PollPrecision,BallotMakerModel.java (8 matches),method,Value,Body,Helper,No,No,Yes,No,
+PollPrecision,,method,Value,Body,Helper,No,No,Yes,Yes,
+PollPrecision,,method,Formatting,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Value,Body,R3 Event Handler,No,No,Yes,No,248
+PollPrecision,,,Identifier,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,,,Value,Body,R3 Event Handler,No,No,Yes,No,
+PollPrecision,BallotViewerPiece.java (12 matches),method,Value,Body,Draw,No,No,Yes,No,
+PollPrecision,,,Error Condition,Body,Draw,No,No,No,No,179
+PollPrecision,,,Value,Body,Draw,No,No,No,Yes,
+PollPrecision,,,Value,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Value,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Value,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Got Here,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Got Here,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Error Condition,Body,Draw,No,No,No,No,
+PollPrecision,,method,Value,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Value,For Loop,Draw,No,No,No,Yes,
+PollPrecision,,,Got Here,For Loop,Draw,No,No,No,Yes,
+PollPrecision,PleaseWaitDialog.java,method,Value,Body,Helper,No,No,No,No,
+PollPrecision,SuperPdfSheetRenderer.java,method,Value,Body,Draw,No,No,Yes,No,
+PollPrecision,Ballot.java (4 matches),method,Got Here,Body,Draw,No,No,No,No,
+PollPrecision,,method,Got Here,Method Entry,Draw,No,No,Yes,No,61
+PollPrecision,,,Formatting,Body,Draw,No,No,No,No,
+PollPrecision,,,Formatting,Body,Draw,No,No,No,No,
+PollPrecision,BallotRegion.java,method,Value,Body,Helper,No,No,No,No,
+PollPrecision,PollGraph.java,method,Identifier,Body,GUI Event Handler,Yes,No,No,No,
+PollPrecision,Vote.java (2 matches),method,Value,Body,Helper,No,No,No,No,
+PollPrecision,,,Value,Body,Helper,No,No,No,No,
+SEKS,MainWindow.java (28 matches),method,Error Condition,Body,Read,No,No,Yes,No,143
+SEKS,,method,Identifier,Method Entry,GUI Event Handler,Yes,No,No,Yes,
+SEKS,,constructor,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,272
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,313
+SEKS,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Body,R3 Event Handler,No,No,Yes,No,327
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,R3 Event Handler,No,No,Yes,No,396
+SEKS,,,2D Location,For Loop,Constructor,No,No,Yes,No,
+SEKS,,,Got Here,Method Entry,GUI Event Handler,No,Yes,Yes,No,
+SEKS,,,Got Here,Method Entry,GUI Event Handler,No,Yes,Yes,No,
+SEKS,,,Got Here,Method Entry,GUI Event Handler,No,Yes,Yes,No,
+SEKS,,,Got Here,Method Entry,GUI Event Handler,No,Yes,Yes,No,494
+SEKS,,method,Value,Body,R3 Event Handler,No,No,Yes,No,
+SEKS,,,Error Condition,Body,R3 Event Handler,No,No,Yes,No,719
+SEKS,,method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+SEKS,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+SEKS,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,1015
+SEKS,,method,Error Condition,Body,Read,No,No,No,No,
+SEKS,ArrayListTransferHandler.java (3 matches),constructor,Error Condition,Catch Block,Constructor,No,No,No,No,
+SEKS,,method,Error Condition,Catch Block,Read,No,No,No,No,
+SEKS,,,Error Condition,Catch Block,Read,No,No,No,No,
+SEKS,Metadata.java,method,Error Condition,Body,Helper,No,No,No,No,
+SEKS,Note.java,method,2D Location,Body,Write,Yes,No,Yes,No,
+SEKS,Notebook.java,method,Error Condition; Identifier,Body,Read,No,No,No,No,
+SEKS,SendEmail.java (2 matches),method,Got Here,Body,Write,No,No,No,No,
+SEKS,,method,Error Condition,Body,Read,No,No,No,No,
+SEKS,SpringUtilities.java (5 matches),method,Value,Body,Helper,No,No,No,No,
+SEKS,,,Value,Body,Helper,No,No,No,No,
+SEKS,,,Value,Body,Helper,No,No,No,No,
+SEKS,,method,Error Condition,Body,Constructor,Yes,No,No,No,
+SEKS,,method,Error Condition,Body,Constructor,Yes,No,No,No,
+ThePenIsMightier,Wizard.java (2 matches),method,Error Condition,Body,Read,No,No,No,No,
+ThePenIsMightier,,method,Error Condition,Body,Helper,No,No,No,No,368
+ThePenIsMightier,BlogPad.java,method,Value,Body,Main,No,No,No,No,
+ThePenIsMightier,BPMainWindow.java (17 matches),method,Value,Body,Create,No,No,No,No,
+ThePenIsMightier,,method,Error Condition,Body,Read,No,No,No,No,
+ThePenIsMightier,,method,Got Here,Method Entry,Helper,No,No,No,Yes,181
+ThePenIsMightier,,method,Got Here,Method Entry,Helper,No,No,Yes,No,
+ThePenIsMightier,,method,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,321
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,338
+ThePenIsMightier,,,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,445
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Error Condition,Body,GUI Event Handler,Yes,No,No,No,484
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Got Here,Method Entry,GUI Event Handler,Yes,No,No,No,523
+ThePenIsMightier,,method,Error Condition,Body,Create,Yes,No,No,No,
+ThePenIsMightier,,method,Value,Body,Write,No,No,No,Yes,
+ThePenIsMightier,FileBlogPanelDescriptor.java (2 matches),method,Got Here,Body,Helper,Yes,No,No,Yes,
+ThePenIsMightier,,,Got Here,Body,Helper,Yes,No,No,Yes,
+ThePenIsMightier,ImportDialog.java (3 matches),constructor,Got Here,Body,Constructor,Yes,No,No,Yes,
+ThePenIsMightier,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+ThePenIsMightier,,method,Error Condition,Catch Block,Helper,No,No,No,No,
+ThePenIsMightier,PostToBlog.java (3 matches),method,Got Here,Body,GUI Event Handler,Yes,No,No,No,
+ThePenIsMightier,,,Identifier,Body,GUI Event Handler,No,No,No,No,
+ThePenIsMightier,,,Error Condition,Body,GUI Event Handler,No,No,No,No,54
+ThePenIsMightier,PostToBlogDescriptor.java (4 matches),method,Got Here,Method Entry,Read,No,No,No,Yes,
+ThePenIsMightier,,,Got Here,Body,Read,No,No,No,Yes,33
+ThePenIsMightier,,method,Value,Body,Helper,Yes,No,No,No,
+ThePenIsMightier,,,Value,Body,Helper,Yes,No,No,No,
+ThePenIsMightier,PublishWizard.java,method,Error Condition,Catch Block,Helper,No,No,No,No,
+ThePenIsMightier,Chunk.java (3 matches),javadocs,Value,Body,Helper,No,No,No,No,
+ThePenIsMightier,,javadocs,Value,Body,Helper,No,No,No,No,
+ThePenIsMightier,,javadocs,Value,Body,Helper,No,No,No,No,
+ThePenIsMightier,Config.java,method,Error Condition; Value,Body,Read,No,No,No,No,
+ThePenIsMightier,LiveJournal.java (18 matches),method,Value,Method Entry,Main,No,No,No,No,
+ThePenIsMightier,,method,Value,Body,Helper,No,No,No,No,
+ThePenIsMightier,,method,Formatting,Body,Helper,No,No,No,No,
+ThePenIsMightier,,,Value,For Loop,Helper,No,No,No,No,150
+ThePenIsMightier,,method,Value,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,Body,Helper,No,No,No,No,174
+ThePenIsMightier,,method,Value,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,For Loop,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,Body,Helper,No,No,No,Yes,245
+ThePenIsMightier,,,Value,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,For Loop,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,For Loop,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Error Condition,For Loop,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Got Here,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Value,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Got Here,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Error Condition,Body,Helper,No,No,No,Yes,
+ThePenIsMightier,,,Error Condition,Body,Helper,No,No,No,No,
+ThePenIsMightier,BatchParser.java (7 matches),method,Identifier,For Loop,Helper,No,No,No,No,
+ThePenIsMightier,,method,Identifier,For Loop,Helper,No,No,Yes,No,100
+ThePenIsMightier,,method,Value,Body,Main,No,No,Yes,No,
+ThePenIsMightier,,method,Identifier,Body,Read,No,No,Yes,Yes,
+ThePenIsMightier,,,Identifier,For Loop,Read,No,No,Yes,Yes,
+ThePenIsMightier,,,Value,For Loop,Read,No,No,Yes,Yes,
+ThePenIsMightier,,,Value,For Loop,Read,No,No,Yes,Yes,143
+ThePenIsMightier,BlogPadConfig.java,method,Error Condition,Body,Write,No,No,No,No,
+ThePenIsMightier,ImageArchive.java (6 matches),method,Message,Body,Main,No,No,No,No,
+ThePenIsMightier,,,Identifier,Body,Main,No,No,No,No
+ThePenIsMightier,,,Error Condition,Body,Main,No,No,No,No
+ThePenIsMightier,,method,Identifier,Body,Helper,No,No,No,No
+ThePenIsMightier,,,Error Condition,Catch Block,Helper,No,No,No,No
+ThePenIsMightier,,method,Error Condition; Identifier,Body,Write,No,No,No,No
+ThePenIsMightier,LibraryEntry.java (27 matches),method,Identifier,Body,Main,No,No,No,No
+ThePenIsMightier,,,Value,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,,Identifier,Body,Main,No,No,No,No
+ThePenIsMightier,,,Value,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,,Time,Body,Main,No,No,No,No
+ThePenIsMightier,,method,Got Here; Identifier,Method Entry,Write,No,No,No,No
