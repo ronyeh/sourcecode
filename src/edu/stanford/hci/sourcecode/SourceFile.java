@@ -83,6 +83,8 @@ public class SourceFile {
 	 * This is mostly just a good approximation... but doesn't cover all the corner cases. Uncomment
 	 * the else case to see all the corner cases fly by. There are also false positives, for example
 	 * in a large block comment, there may be statements with semicolons that I count. Oh well. =)
+	 * 
+	 * How should we handle import statements?
 	 */
 	private void countSemicolonsOpenBracesAndComments() {
 		int numSemis = 0;

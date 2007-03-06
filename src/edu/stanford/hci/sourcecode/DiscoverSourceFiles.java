@@ -38,6 +38,12 @@ public class DiscoverSourceFiles {
 
 	private File rootPath;
 
+	public void listAllFiles() {
+		for (File f : allSourceFiles) {
+			DebugUtils.println(f.getAbsolutePath());
+		}
+	}
+	
 	public DiscoverSourceFiles(File rootDir) {
 		rootPath = rootDir;
 
@@ -54,5 +60,9 @@ public class DiscoverSourceFiles {
 		String paths = allSourceFiles.toString();
 		paths = formatData(paths);
 		FileUtils.writeStringToFile(paths, destFile);
+	}
+
+	public List<File> getListOfFiles() {
+		return allSourceFiles;
 	}
 }
