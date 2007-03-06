@@ -2,9 +2,8 @@ package edu.stanford.hci.sourcecode;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
-
-import com.sun.org.apache.bcel.internal.generic.GETSTATIC;
 
 import edu.stanford.hci.r3.util.DebugUtils;
 
@@ -44,6 +43,15 @@ public class ProjectIterator {
 	private SourceFileIterator sourceIterator;
 
 	/**
+	 * Use this object in a different way, without a pregenerated SourceFilePaths.txt file
+	 * 
+	 * @param rootPath
+	 */
+	public ProjectIterator(File rootPath) {
+		root = rootPath.getAbsoluteFile();
+	}
+
+	/**
 	 * All project names are children of the root path. If there are 10 directories there, there are
 	 * 10 projects.
 	 * 
@@ -54,6 +62,10 @@ public class ProjectIterator {
 		root = rootPath.getAbsoluteFile();
 		sourceIterator = srcIterator;
 		sourceIterator.reset();
+	}
+
+	public List<File> getAllProjectPaths() {
+		return Arrays.asList(root.listFiles());
 	}
 
 	/**
@@ -102,7 +114,6 @@ public class ProjectIterator {
 		return new SourceFileIterator(filteredFiles);
 	}
 
-	
 	/**
 	 * @return true if we found a new project
 	 */
