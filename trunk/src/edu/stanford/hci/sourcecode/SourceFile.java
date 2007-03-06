@@ -9,8 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-
-import edu.stanford.hci.r3.util.DebugUtils;
+import java.util.regex.Pattern;
 
 /**
  * <p>
@@ -55,6 +54,9 @@ public class SourceFile {
 
 	private File path;
 
+	/**
+	 * @param srcFile
+	 */
 	public SourceFile(File srcFile) {
 		path = srcFile;
 
@@ -135,13 +137,13 @@ public class SourceFile {
 		int numDebugs = 0;
 		for (int i = 0; i < linesOfCode.size(); i++) {
 			String line = linesOfCode.get(i);
-//			if (line.contains("System.out")) {
-//				// DebugUtils.println("System.out found at line: " + (i + 1));
-//				numSysOuts++;
-//			} else if (line.contains("System.err")) {
-//				numSysErrs++;
-//			} else 
-				if (line.toLowerCase().contains("println")) {
+			// if (line.contains("System.out")) {
+			// // DebugUtils.println("System.out found at line: " + (i + 1));
+			// numSysOuts++;
+			// } else if (line.contains("System.err")) {
+			// numSysErrs++;
+			// } else
+			if (line.toLowerCase().contains("println")) {
 				// DebugUtils.println(path);
 				numPrintlns++;
 			} else if (line.toLowerCase().contains("debug")) {
@@ -158,6 +160,23 @@ public class SourceFile {
 
 	public List<String> getLinesOfCode() {
 		return linesOfCode;
+	}
+
+	/**
+	 * @param rejectTheseLines
+	 */
+	public StringBuilder getLinesOfCodeExceptThoseMatching(Pattern... rejectTheseLines) {
+		StringBuilder sb = new StringBuilder();
+		for (String line : linesOfCode) {
+			for (Pattern p : rejectTheseLines) {
+				if (p.matcher(line).matches()) {
+					// System.out.println("Rejected: " + line);
+				} else {
+					sb.append(line + "\n");
+				}
+			}
+		}
+		return sb;
 	}
 
 	public int getNumBlankLines() {
@@ -249,4 +268,52 @@ public class SourceFile {
 			e.printStackTrace();
 		}
 	}
+
+	/**
+	 * Display every line in the console.
+	 */
+	public void printLinesOfCode() {
+		for (String line : linesOfCode) {
+			System.out.println(line);
+		}
+	}
+
+	/**
+	 * Display every line except for those that match certain patterns...
+	 * 
+	 * @param rejectTheseLines
+	 *            Reject lines that match this regular expression (e.g., things that start with
+	 *            "import")
+	 */
+	public void printLinesOfCodeExceptThoseMatching(Pattern... rejectTheseLines) {
+		for (String line : linesOfCode) {
+			for (Pattern p : rejectTheseLines) {
+				if (p.matcher(line).matches()) {
+					// System.out.println("Rejected: " + line);
+				} else {
+					System.out.println(line);
+				}
+			}
+		}
+	}
+
+	/**
+	 * Display only lines that match certain patterns...
+	 * 
+	 * @param acceptTheseLines
+	 *            Reject lines that match this regular expression (e.g., things that start with
+	 *            "import")
+	 */
+	public void printLinesOfCodeMatching(Pattern... acceptTheseLines) {
+		for (String line : linesOfCode) {
+			for (Pattern p : acceptTheseLines) {
+				if (p.matcher(line).matches()) {
+					System.out.println(line);
+					// } else {
+					// System.out.println("Rejected: " + line);
+				}
+			}
+		}
+	}
+
 }
