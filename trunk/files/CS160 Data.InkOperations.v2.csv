@@ -1,0 +1,247 @@
+SEKS,InkPanelListModel.java (12 matches),InkPanel,Display,YES,NO,addInkToCurrentPanel,55
+SEKS,,InkPanel,Scale,YES,NO,newPanel,65
+SEKS,MainWindow.java (91 matches),InkPanel,Display,YES,NO,valueChanged,208
+SEKS,,InkPanel,Scale,YES,NO,Constructor,471
+SEKS,,InkPanel,Scale,YES,NO,actionPerformed,
+SEKS,,InkPanel,Scale,YES,NO,actionPerformed,
+SEKS,,InkPanel,Scale,YES,NO,actionPerformed,
+SEKS,,InkPanel,Scale,YES,NO,actionPerformed,511
+SEKS,,InkPanel,ExportImage,YES,NO,sendSingleEmail,653
+SEKS,,InkPanel,ExportImage,YES,NO,sendTeamEmail,
+SEKS,,Ink,DecorateColor,YES,NO,updateInkToUI,
+SEKS,,InkPanel,Display,YES,NO,updateInkToUI,728
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,getSubjectPanel,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,getToPanel,
+SEKS,Note.java (14 matches),InkPanel,ExportXML,YES,NO,save,57
+SEKS,,InkPanel,Display,YES,NO,load,78
+SEKS,CalendarWizard,HandwritingRecognizer,RecognizeHandwriting,YES,NO,retrieveAllTimes,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,retrieveAllTimes,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,retrieveAllTimes,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,retrieveAllTimes,
+SEKS,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,getJContentText,
+Big Brother,AnswerSheetSwingUI.java (33 matches),InkCollector,ExportXML,YES,NO,getAnswerShetJPEG,101
+Big Brother,,InkRenderer,ExportImage,YES,NO,getAnswerShetJPEG,107
+Big Brother,,InkCollector,DecorateColor,YES,NO,startGrading,11
+Big Brother,AskQuestionSwingUI.java (44 matches),InkPanel,Display,YES,NO,makeInternalFrame,224
+Big Brother,,InkPanel,Display,YES,NO,shouldAddFrame,
+Anototators,AMIAImagePanel.java (10 matches),Ink; InkStroke,Offset; Display; OverlayOnImage,NO,YES,paintComponent,100
+Anototators,AMIAImagePanel2.java (15 matches),Ink; InkStroke,Scale; Decorate; Offset; Display; OverlayOnImage,NO,YES,paintComponent,130
+Anototators,MainWindow.java (13 matches),InkPanel; InkCollector,Display,YES,NO,contentArrived,387
+Anototators,MainWindow2.java (17 matches),InkPanel; InkCollector,DecorateColor; Display,YES,NO,contentArrived,89
+Anototators,,InkPanel,Display,YES,NO,openThumb,291
+Melody,CS160MapPanel.java (7 matches),Ink; InkStroke,Decorate; Display; OverlayOnImage,NO,YES,paintComponent,58
+Melody,CS160SwingUI.java (313 matches),InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkCollector,Scale,NO,YES,Constructor,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen,797
+Melody,,InkStroke,GestureRecognitionTime; GestureRecognitionSize; GestureRecognitionDirection,NO,YES,updateInkToScreen,801-862
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen2,930
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen3,941
+Melody,,InkStroke,GestureRecognitionDebug,NO,YES,updateInkToScreen4,966
+Melody,,InkStroke,GestureRecognitionDebug,YES,NO,updateInkToScreen5,1006
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen6,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen7,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen8,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen9,
+Melody,,InkStroke,GestureRecognitionDirection,NO,YES,updateInkToScreen9,1083
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen10,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen11,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen12,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen13,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen14,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen15,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen16,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen17,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen18,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen19,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen20,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen21,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen22,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen23,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen24,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen25,
+Melody,,InkPanel,Display,YES,NO,updateInkToScreen26,
+Melody,InkCollector.java (22 matches),InkCollector; PenSample,Scale,NO,YES,filterEvent,71
+Melody,CS160MapPanel.java (7 matches),Ink; InkStroke,Scale; Decorate; OverlayOnImage; Display,NO,YES,paintComponent,
+BluJay,FlashCardSwingUI.java (29 matches),InkWell,Scale,NO,YES,Constructor,122
+BluJay,,InkWell,Scale,NO,YES,Constructor,136
+BluJay,,Ink,DecorateColor,YES,NO,updateInkToScreen,
+BluJay,,InkPanel,Display,NO,YES,updateInkToScreen,
+BluJay,,Ink,DecorateColor,YES,NO,updateInkToScreenb,
+BluJay,,InkPanel,Display,NO,YES,updateInkToScreenb,
+BluJay,,Ink; InkCollector,ExportImage,NO,YES,render2JPEG,310
+BluJay,InkPanel.java (13 matches),Ink; InkStroke,Offset; Display; DecorateColor,NO,YES,paintComponent,
+Jigsaw,JigsawPiece.java (14 matches),InkStroke,Display; Scale; Offset,NO,YES,drawStrokes,300
+Jigsaw,,PPath ,AddInteractivity,NO,YES,drawStrokes,
+Jigsaw,,Ink,ExportXML,NO,YES,toXML,
+Jigsaw,JigsawProjectDataHandler.java (7 matches),InkStroke,ImportXML,NO,YES,endElement,
+Jigsaw,JigsawStrokeDataHandler.java (7 matches),InkStroke,ImportXML,NO,YES,endElement,
+Jigsaw,JpegGenerator.java (4 matches),InkStroke,ExportImage; Offset; Scale,NO,YES,exportJPEG,
+ET,AnswerKeyUI.java (14 matches),Ink; InkPanel,DecorateColor; Display,YES,NO,updateInkToScreen,
+ET,AnswerKeyUIPanel.java (7 matches),Ink; InkStroke,Display; DecorateColor,NO,YES,paintComponent,
+ET,InkCollector.java (22 matches),PenSample,Scale,NO,YES,filterEvent,
+4Corners,FourCornersPanel.java (293 matches),InkStroke,ImportXML,NO,YES,makeBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,makeBlogPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,makeBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,makeBlogPanel,223
+4Corners,,InkStroke,ImportXML,NO,YES,makeBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,makeBlogPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,makeDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,makeDraftPanel,369
+4Corners,,InkStroke,ImportXML,NO,YES,makeDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,makeDraftPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,makeDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,makeDraftPanel,531
+4Corners,,InkPanel,Display,YES,NO,savePanelForCancel,878
+4Corners,,InkPanel,Display,YES,NO,restorePanelAfterCanel,
+4Corners,,Ink,DecorateColor,YES,NO,actionPerformed,
+4Corners,,Ink,DecorateColor,YES,NO,actionPerformed,
+4Corners,,InkStroke,Locate,NO,YES,checkTick,
+4Corners,,InkStroke,Locate,NO,YES,checkTick,1373
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,updateBlogPanel,2012
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,updateBlogPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,updateBlogPanel,2083
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,
+4Corners,,InkPanel,Display,YES,NO,updateBlogPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,updateBlogPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateBlogPanel,2131
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,updateDraftPanel,2194
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,updateDraftPanel,2229
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,updateDraftPanel,2286
+4Corners,,InkStroke,ImportXML,NO,YES,updateDraftPanel,
+4Corners,,InkPanel,DecorateColor,YES,NO,updateDraftPanel,
+4Corners,,InkPanel,Display,YES,NO,shiftBlogEntries,
+4Corners,,InkStroke,ImportXML,NO,YES,shiftBlogEntries,
+4Corners,,InkPanel,Display,YES,NO,shiftBlogEntries,
+4Corners,,InkStroke,ImportXML,NO,YES,shiftBlogEntries,
+4Corners,,InkPanel,Display,YES,NO,shiftBlogEntries,2379
+4Corners,,InkPanel,Display,YES,NO,newShiftBlogEntries,
+4Corners,,InkPanel,Display,YES,NO,newShiftBlogEntries,
+4Corners,,InkPanel,Display,YES,NO,newShiftBlogEntries,
+4Corners,,InkStroke,GestureRecognitionSize,NO,YES,addPicHotSpot,2451
+4Corners,,InkStroke,GestureRecognitionSize,NO,YES,getPointForPicInsertion,
+4Corners,InkCollector.java (25 matches),InkSample,Scale,NO,YES,filterEvent,
+4Corners,InkLabel.java (13 matches),Ink,DecorateColor,YES,NO,paintComponent,
+4Corners,,InkStroke,Display,NO,YES,paintComponent,
+4Corners,InkPanel.java (53 matches),InkStroke,DecorateColor; Display,NO,YES,paintComponent,
+4Corners,,InkStroke,SelectInSpace; DecorateColor,NO,YES,changeColorOfSelectedStroke,
+4Corners,,InkStroke,DecorateColor,NO,YES,changeColorOfAllStroke,
+4Corners,,InkStroke,SelectInSpace,NO,YES,cutSelectedStrokes,
+4Corners,,InkStroke,SelectInSpace; DecorateWidth,NO,YES,changeWidthOfSelectedStrokes,
+4Corners,,InkStroke,DecorateWidth,NO,YES,changeWidthOfAllStrokes,
+4Corners,XMLParser.java (9 matches),InkSample; InkStroke,ImportXML,NO,YES,load,
+KMAT,CS160MapPanel.java (7 matches),InkStroke,Display; Scale; OverlayOnImage,NO,YES,paintComponent,
+KMAT,CS160MapSwingUI.java (22 matches),Ink; InkPanel,DecorateColor; Display,YES,NO,updateMapInkToScreen,
+KMAT,InkCollector.java (21 matches),PenSample,Scale,NO,YES,filterEvent,
+O,Ink.java (9 matches),Stroke,SortTime,NO,YES,addStroke,
+O,InkPanel.java (28 matches),Ink,Display,NO,YES,addInk,
+O,,Ink,Animate,NO,YES,paintComponent,
+O,,Stroke,DecorateColor; Display,NO,YES,paintComponent,
+O,,Stroke,GestureRecognitionType,NO,YES,paintComponent,
+O,UploadFileUI.java (9 matches),Ink,CountStrokes,NO,YES,Constructor,
+O,,Ink,Display,YES,NO,setGame,
+O,,Ink,ImportXML,NO,YES,main,
+O,DotsAndBoxesDetails.java,Stroke,Locate,NO,YES,detectStrokeSpace,
+O,GameDetails.java (2 matches),Stroke,GestureRecognitionType,NO,YES,guessName,
+O,TicTacToeDetails.java,Stroke,LocateCenter,NO,YES,findStrokeCenter,
+O,XMLImporter.java (22 matches),Ink,ImportXML,NO,YES,load,85
+O,,Ink; Stroke,ClusterInSpace,NO,YES,matchBuckets,
+JURMs,MapFrame.java (147 matches),InkPanel; Ink,Display,YES,NO,updateInkToScreen,
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,HandwritingRecognizer,RecognizeHandwriting,YES,NO,contentArrived
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,NextRxPanel.java (7 matches),InkStroke,Display; OverlayOnImage,NO,YES,paintComponent
+JURMs,NextRxSwingUI.java (76 matches),InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+JURMs,,InkPanel; Ink,Display,YES,NO,updateInkToScreen
+Team42,BodyRegion.java (6 matches),InkStroke,Locate,NO,YES,getReminderTimes
+Team42,,InkSample,Offset,NO,YES,getReminderLine
+Team42,HoursRegion.java (6 matches),Ink; InkStroke,Locate,NO,YES,getHourBlocks
+Team42,TimeRegion.java (15 matches),InkStroke; Ink,DecorateColor; Display,NO,YES,drawImage
+Team42,ToDoRegion.java (10 matches),InkStroke,GestureRecognitionSize,NO,YES,getToDosDone
+Team42,,Ink; InkStroke,Locate,NO,YES,getToDos
+GGiD,P2JPanel.java (7 matches),Ink; InkStroke,DecorateColor; DecorateWidth,NO,YES,paintComponent
+GGiD,,Ink; InkStroke,Display; Scale,NO,YES,paintComponent
+GGiD,,Ink; InkStroke,OverlayOnImage; ExportImage,NO,YES,paintComponent
+GGiD,P2JUI.java (50 matches),Ink,ExportXML,YES,NO,clicked
+GGiD,,Ink,RecognizeHandwriting,YES,NO,clicked
+GGiD,,Ink,RecognizeHandwriting,YES,NO,clicked
+GGiD,,Ink,DecorateColor; Display,YES,NO,updateInkToScreen
+ThePenIsMightier,BatchParser.java (8 matches),InkStroke,ImportXML,NO,YES,parseBatchXML
+ThePenIsMightier,,InkStroke,ExportImage,NO,YES,makeImageFromStrokes
+ThePenIsMightier,,InkStroke,DecorateWidth,NO,YES,makeImageFromStrokes
+ThePenIsMightier,,InkStroke,Display,NO,YES,makeImageFromStrokes
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
+GeoPhoto,,InkStroke,Locate,NO,YES,CheckStroke
