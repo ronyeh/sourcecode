@@ -9,20 +9,28 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 
 import edu.stanford.hci.r3.util.DebugUtils;
+import edu.stanford.hci.r3.util.files.FileUtils;
 
+/**
+ * <p>
+ * Analyzes the Spreadsheet data that we have hand-coded.
+ * </p>
+ * <p>
+ * <span class="BSDLicense"> This software is distributed under the <a
+ * href="http://hci.stanford.edu/research/copyright.txt">BSD License</a>. </span>
+ * </p>
+ * 
+ * @author <a href="http://graphics.stanford.edu/~ronyeh">Ron B Yeh</a> (ronyeh(AT)cs.stanford.edu)
+ * 
+ */
 public class SpreadSheetAnalysis {
 
-	public static void main(String[] args) {
-		countTags();
-	}
-
-	private static void countGotHeresInEventHandlers() {
+	private static void countGotHeresInEventHandlers(File f) {
 		int numLines = 0;
 		int numLinesMatchingQuery = 0;
 		int numLinesMatchingGotHere = 0;
 		int numLinesMatchingEventHandler = 0;
 
-		File f = new File("files/CS160 Data.v8.csv");
 		try {
 			final BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(
 					f.getAbsoluteFile())));
@@ -40,11 +48,11 @@ public class SpreadSheetAnalysis {
 				if (eventHandler) {
 					numLinesMatchingEventHandler++;
 				}
-				
+
 				if (eventHandler && gotHere) {
 					numLinesMatchingQuery++;
 				}
-				
+
 				numLines++;
 			}
 			br.close();
@@ -58,16 +66,22 @@ public class SpreadSheetAnalysis {
 		DebugUtils.println("");
 		DebugUtils.println("Number of Debugging Printlns: " + numLines);
 		DebugUtils.println("Number of Printlns Matching Got Here: " + numLinesMatchingGotHere);
-		DebugUtils.println("Number of Printlns Matching Event Handler: " + numLinesMatchingEventHandler);
+		DebugUtils.println("Number of Printlns Matching Event Handler: "
+				+ numLinesMatchingEventHandler);
 		DebugUtils.println("Number of Printlns Matching Both: " + numLinesMatchingQuery);
 	}
 
-	private static void countTags() {
+	/**
+	 * Tags are separated by semicolons (;) and are found in column columnNumber (starting from 0)
+	 * 
+	 * @param f
+	 */
+	private static HashMap<String, Integer> countTags(File f, int columnNumber) {
 		int numLines = 0;
 
+		// save all the tags in the hash table
 		HashMap<String, Integer> tagsFound = new HashMap<String, Integer>();
 
-		File f = new File("files/CS160 Data.v8.csv");
 		try {
 			final BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(
 					f.getAbsoluteFile())));
@@ -75,8 +89,8 @@ public class SpreadSheetAnalysis {
 			while ((line = br.readLine()) != null) {
 				String[] columns = line.split(",");
 				DebugUtils.println(line);
-				// DebugUtils.println(columns[3]);
-				String[] tags = columns[3].split(";");
+				// DebugUtils.println(columns[columnNumber]);
+				String[] tags = columns[columnNumber].split(";");
 
 				for (String tag : tags) {
 					tag = tag.trim(); // kill whitespace
@@ -100,5 +114,26 @@ public class SpreadSheetAnalysis {
 		DebugUtils.println("");
 		DebugUtils.println("Number of Debugging Printlns: " + numLines);
 		DebugUtils.println(tagsFound);
+
+		return tagsFound;
+	}
+
+	public static void main(String[] args) {
+		// File f = new File("files/CS160 Data.SystemOuts.v8.csv");
+		// countTags(f, 3);
+
+		File f = new File("files/CS160 Data.InkOperations.v2.csv");
+		HashMap<String, Integer> tags = countTags(f, 3);
+
+		File outputFile = new File("files/CS160 Data.InkOperations.TagsOutput.csv");
+		outputTagsToSpreadSheet(outputFile, tags);
+	}
+
+	private static void outputTagsToSpreadSheet(File outputFile, HashMap<String, Integer> tags) {
+		StringBuilder sb = new StringBuilder();
+		for (String tag : tags.keySet()) {
+			sb.append(tag + ", " + tags.get(tag) + "\n");
+		}
+		FileUtils.writeStringToFile(sb.toString(), outputFile);
 	}
 }
