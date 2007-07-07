@@ -1,0 +1,14 @@
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\HandwritingRecService.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\HWRecForm.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\HWRecForm.Designer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\HWServer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\Properties\AssemblyInfo.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\Properties\Resources.Designer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\Properties\Settings.Designer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\handwritingRec\HWRecServer\Recognizer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Monitor\AssemblyInfo.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Monitor\MessageForm.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Monitor\MessageForm.Designer.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Monitor\Monitor.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Registration\AssemblyInfo.cs
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\penSynch\Registration\Register.cs
