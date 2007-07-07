@@ -1,0 +1,8 @@
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\docs\resources\header.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\firefox\contentScraper\chrome\content\code.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\flash\bin\AC_OETags.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\flash\bin\history.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\flash\html-template\AC_OETags.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\flash\html-template\history.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\javascript\designerPlugin\R3Designer.js
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\PaperToolkit\javascript\exampleCode\PDFTest.js
