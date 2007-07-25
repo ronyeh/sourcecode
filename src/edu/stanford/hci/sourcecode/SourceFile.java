@@ -11,6 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
+import edu.stanford.hci.r3.util.DebugUtils;
+
 /**
  * <p>
  * Represents all aspects of a Java Source File. =) For Static Analysis.
@@ -54,6 +56,12 @@ public class SourceFile {
 
 	private File path;
 
+	private int numClasses = -1;
+
+	private int numPublicClasses = -1;
+
+	private int numInterfaces = -1;
+
 	/**
 	 * @param srcFile
 	 */
@@ -62,8 +70,7 @@ public class SourceFile {
 
 		// read each line of code into a String
 		try {
-			final BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(
-					path)));
+			final BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(path)));
 			String line = "";
 			while ((line = br.readLine()) != null) {
 				linesOfCode.add(line);
@@ -79,12 +86,12 @@ public class SourceFile {
 	}
 
 	/**
-	 * I read that a nice way to count the number of Non-Comment Source Statements in a program is
-	 * to count the semi-colons (;) and open braces ({).
+	 * I read that a nice way to count the number of Non-Comment Source Statements in a program is to count
+	 * the semi-colons (;) and open braces ({).
 	 * 
-	 * This is mostly just a good approximation... but doesn't cover all the corner cases. Uncomment
-	 * the else case to see all the corner cases fly by. There are also false positives, for example
-	 * in a large block comment, there may be statements with semicolons that I count. Oh well. =)
+	 * This is mostly just a good approximation... but doesn't cover all the corner cases. Uncomment the else
+	 * case to see all the corner cases fly by. There are also false positives, for example in a large block
+	 * comment, there may be statements with semicolons that I count. Oh well. =)
 	 * 
 	 * How should we handle import statements?
 	 */
@@ -124,10 +131,32 @@ public class SourceFile {
 		// DebugUtils.println(numSemicolons + " semicolons discovered.");
 	}
 
+	private void countNumClasses() {
+		int numPublic = 0;
+		int numAnyClass = 0;
+		int numPubInterfaces = 0;
+
+		for (int i = 0; i < linesOfCode.size(); i++) {
+			String line = linesOfCode.get(i).trim(); // lose the whitespace
+			if (line.contains("class ")) {
+				numAnyClass++;
+				if (line.contains("public class ") || line.contains("public abstract class ") || line.contains("public static class ")) {
+					numPublic++;
+				} else {
+					System.err.println("Is this a valid class? " + path + " :: "+ line);
+				}
+			} else if (line.contains("public interface ")) {
+				numPubInterfaces++;
+			}
+		}
+		numPublicClasses = numPublic;
+		numClasses = numAnyClass;
+		numInterfaces = numPubInterfaces;
+	}
+
 	/**
 	 * <li>TODO: Return a list of the line numbers?
-	 * <li>TODO: Does not handle commented out statements. Really, I need a java statement
-	 * scanner/parser.
+	 * <li>TODO: Does not handle commented out statements. Really, I need a java statement scanner/parser.
 	 * <li>TODO: Commented out is OK? Because it was once used.... really.
 	 */
 	private void countSystemOutsAndErrsAndDebugs() {
@@ -239,6 +268,27 @@ public class SourceFile {
 		return numSemicolons;
 	}
 
+	public int getNumClasses() {
+		if (numClasses == -1) {
+			countNumClasses();
+		}
+		return numClasses;
+	}
+
+	public int getNumPublicClasses() {
+		if (numPublicClasses == -1) {
+			countNumClasses();
+		}
+		return numPublicClasses;
+	}
+
+	public int getNumPublicInterfaces() {
+		if (numInterfaces == -1) {
+			countNumClasses();
+		}
+		return numInterfaces;
+	}
+
 	public int getNumSystemErrs() {
 		if (numSystemErrs == -1) {
 			countSystemOutsAndErrsAndDebugs();
@@ -258,8 +308,8 @@ public class SourceFile {
 	}
 
 	/**
-	 * Open in the default editor. I have set my default *.java editor in Windows to Emacs, even
-	 * though I code in Eclipse.
+	 * Open in the default editor. I have set my default *.java editor in Windows to Emacs, even though I code
+	 * in Eclipse.
 	 */
 	public void openFile() {
 		try {
@@ -282,17 +332,17 @@ public class SourceFile {
 	 * Display every line except for those that match certain patterns...
 	 * 
 	 * @param rejectTheseLines
-	 *            Reject lines that match this regular expression (e.g., things that start with
-	 *            "import")
+	 *            Reject lines that match this regular expression (e.g., things that start with "import")
 	 */
 	public void printLinesOfCodeExceptThoseMatching(Pattern... rejectTheseLines) {
 		for (String line : linesOfCode) {
 			for (Pattern p : rejectTheseLines) {
-				if (p.matcher(line).matches()) {
-					// System.out.println("Rejected: " + line);
-				} else {
+				if (!p.matcher(line).matches()) {
 					System.out.println(line);
 				}
+				// else {
+				// System.out.println("Rejected: " + line);
+				// }
 			}
 		}
 	}
@@ -301,19 +351,22 @@ public class SourceFile {
 	 * Display only lines that match certain patterns...
 	 * 
 	 * @param acceptTheseLines
-	 *            Reject lines that match this regular expression (e.g., things that start with
-	 *            "import")
+	 *            Reject lines that match this regular expression (e.g., things that start with "import")
 	 */
 	public void printLinesOfCodeMatching(Pattern... acceptTheseLines) {
 		for (String line : linesOfCode) {
 			for (Pattern p : acceptTheseLines) {
 				if (p.matcher(line).matches()) {
 					System.out.println(line);
-					// } else {
-					// System.out.println("Rejected: " + line);
 				}
+				// else {
+				// System.out.println("Rejected: " + line);
+				// }
 			}
 		}
 	}
 
+	public int getNumStatements() {
+		return getNumSemicolons() + getNumOpenBraces();
+	}
 }

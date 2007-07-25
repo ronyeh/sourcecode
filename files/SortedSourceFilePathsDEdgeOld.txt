@@ -1,0 +1,35 @@
+14 Project Files
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\DiamondsEdge.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\diamondtouch\DiamondTouch.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\diamondtouch\DiamondTouchInputHandler.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\EventPublisher.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\Model.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\NotebookModel.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\PenStrokeModel.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\SubClipModel.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\models\TableModel.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\view\EventListener.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\view\NotebookLayer.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\view\PenStrokeView.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\view\SubClipView.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\view\TableLayer.java
+
+
+17 Toolkit Files
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\NotebookPenListener.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\PenSample_OLD.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\PenStreamingConnection_OLD.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\ClientServerType.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenClient.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenEvent.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenEventGenerator.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenEventListener.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenListener.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenSample.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenServer.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenServerOutput.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\PenStreamingConnection.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\ServerOutputJavaObjectXML.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\server\ServerOutputPlainText.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\Stroke.java
+C:\Documents and Settings\Ron Yeh\My Documents\Projects\DiamondsEdgeOld\edu\stanford\hci\diamondsedge\pen\StrokeRenderer.java
