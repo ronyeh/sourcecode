@@ -29,14 +29,14 @@ public class DiscoverSourceFiles {
 	}
 
 	public static void main(String[] args) {
-		String r3Path = "C:\\Documents and Settings\\Ron Yeh\\My Documents\\Projects\\PaperToolkit";
-		DiscoverSourceFiles discoverSourceFiles = new DiscoverSourceFiles(new File(r3Path), new String[] {"cs"});
-		discoverSourceFiles.writePathsToFile(new File("files/SortedSourceFilePathsPaperToolkitCS.txt"));
+		// String projectPath = "C:/Documents and Settings/Ron Yeh/My Documents/Projects/DiamondsEdge";
+		// String projectPath = "C:\\Documents and Settings\\Ron Yeh\\My Documents\\Projects\\CS160";
+		String projectPath = "C:/Documents and Settings/Ron Yeh/My Documents/Projects/PaperToolkit/src/edu/stanford/hci/r3/actions";
 
-	
-		//		String cs160Path = "C:\\Documents and Settings\\Ron Yeh\\My Documents\\Projects\\CS160";
-		//		DiscoverSourceFiles discoverSourceFiles = new DiscoverSourceFiles(new File(cs160Path));
-		//		discoverSourceFiles.writePathsToFile(new File("files/SortedSourceFilePaths.txt"));
+		DiscoverSourceFiles discoverSourceFiles = new DiscoverSourceFiles(new File(projectPath),
+				new String[] { "java" });
+		discoverSourceFiles.writePathsToFile(new File("files/SortedSourceFilePathsTMP.txt"));
+
 	}
 
 	private List<File> allSourceFiles;
@@ -48,14 +48,13 @@ public class DiscoverSourceFiles {
 			DebugUtils.println(f.getAbsolutePath());
 		}
 	}
-	
+
 	/**
 	 * @param rootDir
 	 */
 	public DiscoverSourceFiles(File rootDir) {
-		this(rootDir, new String[] {"java"});
+		this(rootDir, new String[] { "java" });
 	}
-
 
 	public DiscoverSourceFiles(File rootDir, String[] extensions) {
 		rootPath = rootDir;
@@ -64,12 +63,11 @@ public class DiscoverSourceFiles {
 		allSourceFiles = FileUtils.listVisibleFilesRecursively(rootPath, extensions);
 
 		Collections.sort(allSourceFiles);
-		
+
 		// How Many Source Files did I analyze?
 		DebugUtils.println(allSourceFiles.size() + " " + Arrays.toString(extensions) + " Source Files");
 	}
-	
-	
+
 	public void writePathsToFile(File destFile) {
 		String paths = allSourceFiles.toString();
 		paths = formatData(paths);

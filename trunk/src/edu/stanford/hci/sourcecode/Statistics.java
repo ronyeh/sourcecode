@@ -24,19 +24,61 @@ public class Statistics {
 	// what else?
 
 	public static void main(String[] args) {
-		countStatements();
+
+		// for now, run DiscoverSourceFiles... and then this class.
+
+		File sourceFileListing = new File("files/SortedSourceFilePathsTMP.txt");
+		countStatements(sourceFileListing);
+		countClasses(sourceFileListing);
+		// countSystemOuts(sourceFileListing);
+	}
+
+	public static void countClasses(File sourceFileListing) {
+		// look for " class " and/or "public class ", to estimate the number of classes implemented
+
+		DebugUtils.println("");
+		SourceFileIterator sourceFileIterator = new SourceFileIterator(sourceFileListing);
+
+		boolean hasMore = true;
+
+		int countOfFiles = 0;
+		int linesRead = 0;
+
+		int countOfClasses = 0;
+		int countOfPublicClasses = 0;
+		int countOfInterfaces = 0;
 		
+		while (hasMore) {
+			countOfFiles++;
+
+			SourceFile srcFile = sourceFileIterator.getCurrentSourceFile();
+			linesRead += srcFile.getNumLines();
+
+			countOfClasses += srcFile.getNumClasses();
+			countOfPublicClasses += srcFile.getNumPublicClasses();
+			countOfInterfaces += srcFile.getNumPublicInterfaces();
+
+			hasMore = sourceFileIterator.nextSourceFile();
+		}
+
+		DebugUtils.println("Num Files: " + countOfFiles);
 		
-		countSystemOuts();
+		DebugUtils.println("Num Classes: " + countOfClasses);
+		DebugUtils.println("Num Public Interfaces: " + countOfInterfaces);
+
+		DebugUtils.println("Num Public Classes: " + countOfPublicClasses);
+
+		DebugUtils.println(linesRead + " total lines read (including imports and comments).");
 	}
 
 	/**
-	 * A decent estimate. We overcount in some places... and may undercount in a few places. It
-	 * probably is a slight overestimate in the actual number of statements.
+	 * A decent estimate. We overcount in some places... and may undercount in a few places. It probably is a
+	 * slight overestimate in the actual number of statements.
+	 * 
+	 * @param sourceFileListing
 	 */
-	public static void countStatements() {
-		SourceFileIterator sourceFileIterator = new SourceFileIterator(new File(
-				"files/SortedSourceFilePaths.txt"));
+	public static void countStatements(File sourceFileListing) {
+		SourceFileIterator sourceFileIterator = new SourceFileIterator(sourceFileListing);
 
 		boolean hasMore = true;
 
@@ -58,10 +100,8 @@ public class Statistics {
 			SourceFile srcFile = sourceFileIterator.getCurrentSourceFile();
 			linesRead += srcFile.getNumLines();
 
-			final int numSemis = srcFile.getNumSemicolons();
-			final int numOpenBraces = srcFile.getNumOpenBraces();
-
-			final int numStatements = numSemis + numOpenBraces;
+			
+			final int numStatements = srcFile.getNumStatements();
 
 			if (numStatements > maxStatements) {
 				maxStatements = numStatements;
@@ -88,11 +128,12 @@ public class Statistics {
 		DebugUtils.println(linesRead + " total lines read (including imports and comments).");
 		DebugUtils.println(maxStatements + " is the max number of statements we found --> "
 				+ maxStatementsFile);
+		
+		DebugUtils.println("COCOMO measure of effort 2.4 * (KLOC ** 1.05): " + (2.4 * Math.pow(countOfStatements / 1000.0, 1.05)) + " person-months.");
 	}
 
-	public static void countSystemOuts() {
-		SourceFileIterator sourceFileIterator = new SourceFileIterator(new File(
-				"files/SortedSourceFilePaths.txt"));
+	public static void countSystemOuts(File sourceFileListing) {
+		SourceFileIterator sourceFileIterator = new SourceFileIterator(sourceFileListing);
 
 		boolean hasMore = true;
 
@@ -112,7 +153,7 @@ public class Statistics {
 		while (hasMore) {
 			countOfFiles++;
 			SourceFile srcFile = sourceFileIterator.getCurrentSourceFile();
-			
+
 			linesOfCode += srcFile.getNumLines();
 
 			final int numSysOuts = srcFile.getNumSystemOuts();
@@ -130,7 +171,7 @@ public class Statistics {
 
 			countOfSystemOuts += numSysOuts;
 			countOfSystemErrs += numSysErrs;
-			countOfOtherPrintlns += numOtherPrintlns; 
+			countOfOtherPrintlns += numOtherPrintlns;
 			countOfDebugs += numDebugs;
 
 			hasMore = sourceFileIterator.nextSourceFile();
@@ -145,8 +186,8 @@ public class Statistics {
 				+ " different \"debug\" statements that were not otherwise in println statements.");
 
 		DebugUtils.println(linesOfCode + " total lines of code (including imports and comments).");
-		DebugUtils.println(maxSystemPrintlns
-				+ " is the max number of System.*.printlns we found in " + maxSystemPrintlnsFile);
+		DebugUtils.println(maxSystemPrintlns + " is the max number of System.*.printlns we found in "
+				+ maxSystemPrintlnsFile);
 
 		DebugUtils.println(countOfSystemOuts + " is the number of System.out.printlns.");
 		DebugUtils.println(countOfSystemErrs + " is the number of System.err.printlns.");
