@@ -1,0 +1,260 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	JURMs_PatientDB	GetRx.java	line 1	1185321669848	2782
+The import edu cannot be resolved	JURMs_PatientDB	GetRx.java	line 2	1185321669848	2783
+Application cannot be resolved to a type	JURMs_PatientDB	GetRx.java	line 15	1185321669848	2784
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	GetRx.java	line 18	1185321669848	2785
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	GetRx.java	line 18	1185321669848	2786
+The constructor Object(String) is undefined	JURMs_PatientDB	GetRx.java	line 28	1185321669848	2787
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 15	1185321669848	2682
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 16	1185321669848	2683
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 17	1185321669848	2684
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 18	1185321669848	2685
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 19	1185321669848	2686
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 20	1185321669848	2687
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 21	1185321669848	2688
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 22	1185321669848	2689
+The import edu cannot be resolved	JURMs_PatientDB	MapFrame.java	line 23	1185321669848	2690
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 31	1185321669848	2691
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 32	1185321669848	2692
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 33	1185321669848	2693
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 34	1185321669848	2694
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 35	1185321669848	2695
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 36	1185321669848	2696
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 37	1185321669848	2697
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 38	1185321669848	2698
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 39	1185321669848	2699
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 40	1185321669848	2700
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 41	1185321669848	2701
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 42	1185321669848	2702
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 43	1185321669848	2703
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 44	1185321669848	2704
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 45	1185321669848	2705
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 46	1185321669848	2706
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 47	1185321669848	2707
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 48	1185321669848	2708
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 49	1185321669848	2709
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 50	1185321669848	2710
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 51	1185321669848	2711
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 52	1185321669848	2712
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 53	1185321669848	2713
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 54	1185321669848	2714
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 55	1185321669848	2715
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 56	1185321669848	2716
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 57	1185321669848	2717
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 58	1185321669848	2718
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 59	1185321669848	2719
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 60	1185321669848	2720
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 61	1185321669848	2721
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 62	1185321669848	2722
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 63	1185321669848	2723
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 64	1185321669848	2724
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 65	1185321669848	2725
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 66	1185321669848	2726
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 67	1185321669848	2727
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 68	1185321669848	2728
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 69	1185321669848	2729
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 70	1185321669848	2730
+InkCollector cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 71	1185321669848	2731
+InkPanel cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 72	1185321669848	2732
+HandwritingRecognizer cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 73	1185321669848	2733
+Sheet cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 85	1185321669848	2734
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 439	1185321669848	2735
+inkWellpnr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 439	1185321669848	2736
+inkPanelpnr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 441	1185321669848	2737
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 447	1185321669848	2738
+inkWellmrr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 447	1185321669848	2739
+inkPanelmrr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 449	1185321669848	2740
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 454	1185321669848	2741
+inkWelldr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 454	1185321669848	2742
+inkPaneldr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 456	1185321669848	2743
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 461	1185321669848	2744
+inkWelld1nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 461	1185321669848	2745
+inkPaneld1nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 463	1185321669848	2746
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 468	1185321669848	2747
+inkWelld2nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 468	1185321669848	2748
+inkPaneld2nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 470	1185321669848	2749
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 475	1185321669848	2750
+inkWelld3nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 475	1185321669848	2751
+inkPaneld3nr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 477	1185321669848	2752
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 482	1185321669848	2753
+inkWelld1sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 482	1185321669848	2754
+inkPaneld1sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 484	1185321669848	2755
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 489	1185321669848	2756
+inkWelld2sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 489	1185321669848	2757
+inkPaneld2sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 491	1185321669848	2758
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 496	1185321669848	2759
+inkWelld3sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 496	1185321669848	2760
+inkPaneld3sr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 498	1185321669848	2761
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 503	1185321669848	2762
+inkWelld1qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 503	1185321669848	2763
+inkPaneld1qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 505	1185321669848	2764
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 510	1185321669848	2765
+inkWelld2qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 510	1185321669848	2766
+inkPaneld2qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 512	1185321669848	2767
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 517	1185321669848	2768
+inkWelld3qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 517	1185321669848	2769
+inkPaneld3qr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 519	1185321669848	2770
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 525	1185321669848	2771
+inkWelld1rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 525	1185321669848	2772
+inkPaneld1rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 527	1185321669848	2773
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 532	1185321669848	2774
+inkWelld2rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 532	1185321669848	2775
+inkPaneld2rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 534	1185321669848	2776
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 539	1185321669848	2777
+inkWelld3rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 539	1185321669848	2778
+inkPaneld3rr cannot be resolved	JURMs_PatientDB	MapFrame.java	line 541	1185321669848	2779
+Ink cannot be resolved to a type	JURMs_PatientDB	MapFrame.java	line 546	1185321669848	2780
+inkWelldone cannot be resolved	JURMs_PatientDB	MapFrame.java	line 546	1185321669848	2781
+The import edu cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 10	1185321669833	2664
+The import edu cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 11	1185321669833	2665
+The import edu cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 12	1185321669833	2666
+The import edu cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 13	1185321669833	2667
+The import edu cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 14	1185321669833	2668
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 16	1185321669833	2669
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 19	1185321669833	2670
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 20	1185321669833	2671
+mapRegion cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 31	1185321669833	2672
+mapRegion cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 31	1185321669833	2673
+The method paintComponent(Graphics) of type NextRxPanel must override or implement a supertype method	JURMs_PatientDB	NextRxPanel.java	line 35	1185321669833	2674
+The method paintComponent(Graphics) is undefined for the type Object	JURMs_PatientDB	NextRxPanel.java	line 37	1185321669833	2675
+GraphicsUtils cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 39	1185321669833	2676
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, NextRxPanel)	JURMs_PatientDB	NextRxPanel.java	line 44	1185321669833	2677
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 45	1185321669833	2678
+inkWell cannot be resolved	JURMs_PatientDB	NextRxPanel.java	line 45	1185321669833	2679
+InkStroke cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 48	1185321669833	2680
+InkStroke cannot be resolved to a type	JURMs_PatientDB	NextRxPanel.java	line 49	1185321669833	2681
+The import edu cannot be resolved	JURMs_PatientDB	NextRxStart.java	line 2	1185321669833	2652
+The import edu cannot be resolved	JURMs_PatientDB	NextRxStart.java	line 3	1185321669833	2653
+The import edu cannot be resolved	JURMs_PatientDB	NextRxStart.java	line 4	1185321669833	2654
+The import edu cannot be resolved	JURMs_PatientDB	NextRxStart.java	line 5	1185321669833	2655
+Sheet cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 17	1185321669833	2656
+The method createMap() is undefined for the type NextRxUI	JURMs_PatientDB	NextRxStart.java	line 17	1185321669833	2657
+Application cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 18	1185321669833	2658
+Application cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 18	1185321669833	2659
+Pen cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 21	1185321669833	2660
+Pen cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 21	1185321669833	2661
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 27	1185321669833	2662
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	NextRxStart.java	line 27	1185321669833	2663
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 15	1185321669817	2552
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 16	1185321669817	2553
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 17	1185321669817	2554
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 18	1185321669817	2555
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 19	1185321669817	2556
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 20	1185321669817	2557
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 21	1185321669817	2558
+The import edu cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 22	1185321669817	2559
+Sheet cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 37	1185321669817	2560
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 48	1185321669817	2561
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 49	1185321669817	2562
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 50	1185321669817	2563
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 51	1185321669817	2564
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 52	1185321669817	2565
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 53	1185321669817	2566
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 54	1185321669817	2567
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 55	1185321669817	2568
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 56	1185321669817	2569
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 57	1185321669817	2570
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 58	1185321669817	2571
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 59	1185321669817	2572
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 60	1185321669817	2573
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 61	1185321669817	2574
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 62	1185321669817	2575
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 63	1185321669817	2576
+Sheet cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 66	1185321669817	2577
+Size cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 70	1185321669817	2578
+Region cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 87	1185321669817	2579
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 90	1185321669817	2580
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 91	1185321669817	2581
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 93	1185321669817	2583
+inkWellpnr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 93	1185321669817	2582
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 94	1185321669817	2585
+inkPanelpnr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 94	1185321669817	2584
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 95	1185321669817	2587
+inkWellpnr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 95	1185321669817	2586
+inkWellpnr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 100	1185321669817	2588
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 103	1185321669817	2590
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 103	1185321669817	2589
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 105	1185321669817	2592
+inkWellmrr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 105	1185321669817	2591
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 106	1185321669817	2594
+inkPanelmrr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 106	1185321669817	2593
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 107	1185321669817	2596
+inkWellmrr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 107	1185321669817	2595
+inkWellmrr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 112	1185321669817	2597
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 115	1185321669817	2599
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 115	1185321669817	2598
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 117	1185321669817	2601
+inkWelldr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 117	1185321669817	2600
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 118	1185321669817	2603
+inkPaneldr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 118	1185321669817	2602
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 119	1185321669817	2605
+inkWelldr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 119	1185321669817	2604
+inkWelldr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 124	1185321669817	2606
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 127	1185321669817	2608
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 127	1185321669817	2607
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 129	1185321669817	2610
+inkWelld1nr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 129	1185321669817	2609
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 130	1185321669817	2612
+inkPaneld1nr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 130	1185321669817	2611
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 131	1185321669817	2614
+inkWelld1nr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 131	1185321669817	2613
+inkWelld1nr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 137	1185321669817	2615
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 140	1185321669817	2617
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 140	1185321669817	2616
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 142	1185321669817	2619
+inkWelld1sr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 142	1185321669817	2618
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 143	1185321669817	2621
+inkPaneld1sr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 143	1185321669817	2620
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 144	1185321669817	2623
+inkWelld1sr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 144	1185321669817	2622
+inkWelld1sr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 149	1185321669817	2624
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 152	1185321669817	2626
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 152	1185321669817	2625
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 154	1185321669817	2628
+inkWelld1qr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 154	1185321669817	2627
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 155	1185321669817	2630
+inkPaneld1qr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 155	1185321669817	2629
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 156	1185321669817	2632
+inkWelld1qr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 156	1185321669817	2631
+inkWelld1qr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 161	1185321669817	2633
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 164	1185321669817	2635
+Type mismatch: cannot convert from NextRxPanel to JPanel	JURMs_PatientDB	NextRxSwingUI.java	line 164	1185321669817	2634
+InkCollector cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 166	1185321669817	2637
+inkWelld1rr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 166	1185321669817	2636
+InkPanel cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 167	1185321669817	2639
+inkPaneld1rr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 167	1185321669817	2638
+ContentFilterListener cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 168	1185321669817	2641
+inkWelld1rr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 168	1185321669817	2640
+inkWelld1rr cannot be resolved	JURMs_PatientDB	NextRxSwingUI.java	line 173	1185321669817	2642
+ImageRegion cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 177	1185321669817	2643
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 234	1185321669817	2644
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 242	1185321669817	2645
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 249	1185321669817	2646
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 256	1185321669817	2647
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 263	1185321669817	2648
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 270	1185321669817	2649
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 277	1185321669817	2650
+Ink cannot be resolved to a type	JURMs_PatientDB	NextRxSwingUI.java	line 284	1185321669817	2651
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 3	1185321669801	2541
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 4	1185321669801	2542
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 5	1185321669801	2543
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 6	1185321669801	2544
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 7	1185321669801	2545
+The import edu cannot be resolved	JURMs_PatientDB	NextRxUI.java	line 8	1185321669801	2546
+Sheet cannot be resolved to a type	JURMs_PatientDB	NextRxUI.java	line 27	1185321669801	2547
+The method createMap() is undefined for the type NextRxUI	JURMs_PatientDB	NextRxUI.java	line 27	1185321669801	2548
+SheetRenderer cannot be resolved to a type	JURMs_PatientDB	NextRxUI.java	line 28	1185321669801	2549
+SheetRenderer cannot be resolved to a type	JURMs_PatientDB	NextRxUI.java	line 28	1185321669801	2550
+Sheet cannot be resolved to a type	JURMs_PatientDB	NextRxUI.java	line 32	1185321669801	2551
+The import edu cannot be resolved	JURMs_PatientDB	RxConfirm.java	line 19	1185321669645	2381
+The import edu cannot be resolved	JURMs_PatientDB	RxConfirm.java	line 20	1185321669645	2382
+The import edu cannot be resolved	JURMs_PatientDB	RxConfirm.java	line 21	1185321669645	2383
+The import edu cannot be resolved	JURMs_PatientDB	RxConfirm.java	line 22	1185321669645	2384
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 34	1185321669645	2386
+PaperToolkit cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 34	1185321669645	2387
+Sheet cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 35	1185321669645	2388
+The method createMap() is undefined for the type NextRxUI	JURMs_PatientDB	RxConfirm.java	line 35	1185321669645	2389
+Application cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 37	1185321669645	2390
+Application cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 37	1185321669645	2391
+Pen cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 40	1185321669645	2392
+Pen cannot be resolved to a type	JURMs_PatientDB	RxConfirm.java	line 40	1185321669645	2393

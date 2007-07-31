@@ -1,0 +1,97 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	4Corners/src	FourCornersBlog.java	line 3	1185321653229	142
+The import edu cannot be resolved	4Corners/src	FourCornersBlog.java	line 4	1185321653229	143
+The import edu cannot be resolved	4Corners/src	FourCornersBlog.java	line 5	1185321653229	144
+The import edu cannot be resolved	4Corners/src	FourCornersBlog.java	line 6	1185321653229	145
+Sheet cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 16	1185321653229	146
+The method createBlog() is undefined for the type FourCornersPaperUI	4Corners/src	FourCornersBlog.java	line 16	1185321653229	147
+Application cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 17	1185321653229	148
+Application cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 17	1185321653229	149
+Pen cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 20	1185321653229	150
+Pen cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 20	1185321653229	151
+PaperToolkit cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 26	1185321653229	152
+PaperToolkit cannot be resolved to a type	4Corners/src	FourCornersBlog.java	line 26	1185321653229	153
+The import edu cannot be resolved	4Corners/src	FourCornersBlogSwingUI.java	line 8	1185321653229	135
+The import edu cannot be resolved	4Corners/src	FourCornersBlogSwingUI.java	line 9	1185321653229	136
+The import edu cannot be resolved	4Corners/src	FourCornersBlogSwingUI.java	line 10	1185321653229	137
+Sheet cannot be resolved to a type	4Corners/src	FourCornersBlogSwingUI.java	line 15	1185321653229	138
+Sheet cannot be resolved to a type	4Corners/src	FourCornersBlogSwingUI.java	line 27	1185321653229	140
+Size cannot be resolved to a type	4Corners/src	FourCornersBlogSwingUI.java	line 31	1185321653229	141
+The import edu cannot be resolved	4Corners/src	FourCornersPaperUI.java	line 2	1185321652761	75
+The import edu cannot be resolved	4Corners/src	FourCornersPaperUI.java	line 3	1185321652761	76
+The import edu cannot be resolved	4Corners/src	FourCornersPaperUI.java	line 4	1185321652761	77
+The import edu cannot be resolved	4Corners/src	FourCornersPaperUI.java	line 5	1185321652761	78
+The import edu cannot be resolved	4Corners/src	FourCornersPaperUI.java	line 6	1185321652761	79
+Sheet cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 14	1185321652761	80
+The method createBlog() is undefined for the type FourCornersPaperUI	4Corners/src	FourCornersPaperUI.java	line 14	1185321652761	81
+SheetRenderer cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 15	1185321652761	82
+SheetRenderer cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 15	1185321652761	83
+Sheet cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 18	1185321652761	84
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 24	1185321652761	87
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 24	1185321652761	88
+Sheet cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 24	1185321652761	85
+Sheet cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 24	1185321652761	86
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 26	1185321652761	91
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 26	1185321652761	92
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 26	1185321652761	89
+TextRegion cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 26	1185321652761	90
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 29	1185321652761	93
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 29	1185321652761	94
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 33	1185321652761	97
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 33	1185321652761	98
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 33	1185321652761	95
+TextRegion cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 33	1185321652761	96
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 36	1185321652761	99
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 36	1185321652761	100
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 40	1185321652761	103
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 40	1185321652761	104
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 40	1185321652761	101
+TextRegion cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 40	1185321652761	102
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 43	1185321652761	105
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 43	1185321652761	106
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 47	1185321652761	109
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 47	1185321652761	110
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 47	1185321652761	107
+TextRegion cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 47	1185321652761	108
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 51	1185321652761	113
+Inches cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 51	1185321652761	114
+Region cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 51	1185321652761	111
+TextRegion cannot be resolved to a type	4Corners/src	FourCornersPaperUI.java	line 51	1185321652761	112
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 5	1185321652745	52
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 6	1185321652745	53
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 7	1185321652745	54
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 8	1185321652745	55
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 9	1185321652745	56
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 10	1185321652745	57
+The import edu cannot be resolved	4Corners/src	InkCollector.java	line 11	1185321652745	58
+ContentFilter cannot be resolved to a type	4Corners/src	InkCollector.java	line 25	1185321652745	59
+PatternDots cannot be resolved to a type	4Corners/src	InkCollector.java	line 29	1185321652745	60
+PatternDots cannot be resolved to a type	4Corners/src	InkCollector.java	line 29	1185321652745	61
+Pixels cannot be resolved to a type	4Corners/src	InkCollector.java	line 30	1185321652745	62
+Pixels cannot be resolved to a type	4Corners/src	InkCollector.java	line 30	1185321652745	63
+PenEvent cannot be resolved to a type	4Corners/src	InkCollector.java	line 59	1185321652745	64
+PercentageCoordinates cannot be resolved to a type	4Corners/src	InkCollector.java	line 60	1185321652745	65
+Units cannot be resolved to a type	4Corners/src	InkCollector.java	line 61	1185321652745	66
+Units cannot be resolved to a type	4Corners/src	InkCollector.java	line 62	1185321652745	67
+PIXELS cannot be resolved	4Corners/src	InkCollector.java	line 67	1185321652745	68
+PIXELS cannot be resolved	4Corners/src	InkCollector.java	line 67	1185321652745	69
+DOTS cannot be resolved	4Corners/src	InkCollector.java	line 70	1185321652745	70
+The method notifyAllListenersOfNewContent() is undefined for the type InkCollector	4Corners/src	InkCollector.java	line 71	1185321652745	71
+PIXELS cannot be resolved	4Corners/src	InkCollector.java	line 74	1185321652745	72
+PIXELS cannot be resolved	4Corners/src	InkCollector.java	line 74	1185321652745	73
+PaperToolkit cannot be resolved	4Corners/src	InkCollector.java	line 107	1185321652745	74
+The import edu cannot be resolved	4Corners/src	InkLabel.java	line 9	1185321652729	47
+The import edu cannot be resolved	4Corners/src	InkLabel.java	line 10	1185321652729	48
+The import edu cannot be resolved	4Corners/src	InkLabel.java	line 11	1185321652729	49
+GraphicsUtils cannot be resolved	4Corners/src	InkLabel.java	line 46	1185321652729	51
+The import edu cannot be resolved	4Corners/src	InkPanel.java	line 13	1185321652729	39
+GraphicsUtils cannot be resolved	4Corners/src	InkPanel.java	line 60	1185321652729	41
+The import edu cannot be resolved	4Corners/src	InkStroke.java	line 4	1185321652667	31
+The import edu cannot be resolved	4Corners/src	InkStroke.java	line 5	1185321652667	32
+Units cannot be resolved to a type	4Corners/src	InkStroke.java	line 33	1185321652667	33
+Units cannot be resolved to a type	4Corners/src	InkStroke.java	line 53	1185321652667	34
+Units cannot be resolved to a type	4Corners/src	InkStroke.java	line 152	1185321652667	35
+MathUtils cannot be resolved	4Corners/src	InkStroke.java	line 170	1185321652667	36
+MathUtils cannot be resolved	4Corners/src	InkStroke.java	line 186	1185321652667	37
+The import edu cannot be resolved	4Corners/src	XMLParser.java	line 14	1185321652651	29
+PatternDots cannot be resolved to a type	4Corners/src	XMLParser.java	line 42	1185321652651	30

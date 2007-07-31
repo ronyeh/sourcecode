@@ -34,6 +34,9 @@ public class SourceFileIterator {
 
 	private List<File> pathsList;
 
+	/**
+	 * @param textFileContainingSourceFilePaths
+	 */
 	public SourceFileIterator(File textFileContainingSourceFilePaths) {
 		pathsList = new ArrayList<File>();
 
@@ -54,6 +57,9 @@ public class SourceFileIterator {
 		DebugUtils.println(pathsList.size() + " source file paths.");
 	}
 
+	/**
+	 * @param paths
+	 */
 	public SourceFileIterator(List<File> paths) {
 		pathsList = paths;
 	}
@@ -144,6 +150,9 @@ public class SourceFileIterator {
 		return true; // did not wrap, there's at least one more file to be found
 	}
 
+	/**
+	 * Reinitializes this iterator.
+	 */
 	public void reset() {
 		currentIndex = 0;
 	}

@@ -1,0 +1,133 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardImport.java	line 30	1185321670879	3011
+FlashCardRun.s cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardImport.java	line 75	1185321670879	3013
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 4	1185321670848	3001
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 5	1185321670848	3002
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 6	1185321670848	3003
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 7	1185321670848	3004
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 8	1185321670848	3005
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 14	1185321670848	3006
+The method createMap() is undefined for the type FlashCardPaperUI	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 14	1185321670848	3007
+SheetRenderer cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 16	1185321670848	3008
+SheetRenderer cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 16	1185321670848	3009
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardPaperUI.java	line 20	1185321670848	3010
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 3	1185321670817	2979
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 4	1185321670817	2980
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 5	1185321670817	2981
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 6	1185321670817	2982
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 11	1185321670817	2983
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 19	1185321670817	2984
+The method createMap() is undefined for the type FlashCardPaperUI	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 19	1185321670817	2985
+s cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 20	1185321670817	2986
+Application cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 21	1185321670817	2987
+Application cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 21	1185321670817	2988
+Pen cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 24	1185321670817	2989
+Pen cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 24	1185321670817	2990
+PaperToolkit cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 30	1185321670817	2991
+PaperToolkit cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardRun.java	line 30	1185321670832	2992
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 29	1185321670785	2947
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 30	1185321670785	2948
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 31	1185321670785	2949
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 32	1185321670785	2950
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 33	1185321670785	2951
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 34	1185321670785	2952
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 35	1185321670785	2953
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 36	1185321670785	2954
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 37	1185321670785	2955
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 52	1185321670785	2956
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 92	1185321670785	2960
+Size cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 97	1185321670785	2961
+Region cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 117	1185321670785	2962
+ContentFilterListener cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 123	1185321670785	2963
+ContentFilterListener cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 137	1185321670785	2964
+TextRegion cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 149	1185321670785	2965
+TextRegion cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 149	1185321670785	2966
+ClickAdapter cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 160	1185321670785	2967
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 267	1185321670785	2970
+The method getNewInkOnly() is undefined for the type InkCollector	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 267	1185321670785	2971
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 277	1185321670785	2972
+The method getNewInkOnly() is undefined for the type InkCollector	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 277	1185321670785	2973
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 296	1185321670785	2974
+The method getNewCardOnly() is undefined for the type InkCollector	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 299	1185321670785	2975
+The method getNewCardOnly() is undefined for the type InkCollector	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 303	1185321670785	2976
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 305	1185321670785	2977
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardSwingUI.java	line 306	1185321670785	2978
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardWin.java	line 8	1185321670770	2941
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardWin.java	line 13	1185321670770	2943
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardWin.java	line 16	1185321670770	2944
+s cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardWin.java	line 18	1185321670770	2945
+Sheet cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	FlashCardWin.java	line 39	1185321670770	2946
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 6	1185321670707	2881
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 7	1185321670707	2882
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 8	1185321670707	2883
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 9	1185321670707	2884
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 10	1185321670707	2885
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 11	1185321670707	2886
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 12	1185321670707	2887
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 13	1185321670707	2888
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 14	1185321670707	2889
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 15	1185321670707	2890
+ContentFilter cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 29	1185321670707	2891
+PatternDots cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 33	1185321670707	2892
+PatternDots cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 33	1185321670707	2893
+Pixels cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 34	1185321670707	2894
+Pixels cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 34	1185321670707	2895
+PenSample cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 38	1185321670707	2896
+PenSample cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 38	1185321670707	2897
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 47	1185321670707	2898
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 47	1185321670707	2899
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 53	1185321670707	2900
+currentStrokeSamples cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 54	1185321670707	2901
+PenEvent cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 65	1185321670707	2902
+PercentageCoordinates cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 66	1185321670707	2903
+Units cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 67	1185321670707	2904
+Units cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 68	1185321670707	2905
+currentStrokeSamples cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 72	1185321670707	2906
+currentStrokeSamples cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 73	1185321670707	2907
+PenSample cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 73	1185321670707	2908
+PIXELS cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 73	1185321670707	2909
+PIXELS cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 73	1185321670707	2910
+currentStrokeSamples cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 76	1185321670707	2913
+DOTS cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 76	1185321670707	2914
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 76	1185321670707	2912
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 76	1185321670707	2911
+The method notifyAllListenersOfNewContent() is undefined for the type InkCollector	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 77	1185321670707	2915
+currentStrokeSamples cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 80	1185321670707	2916
+PenSample cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 80	1185321670707	2917
+PIXELS cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 80	1185321670707	2918
+PIXELS cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 80	1185321670707	2919
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 86	1185321670707	2920
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 87	1185321670707	2921
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 87	1185321670707	2922
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 92	1185321670707	2923
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 93	1185321670707	2924
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 93	1185321670707	2925
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 93	1185321670707	2926
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 93	1185321670707	2927
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 93	1185321670707	2928
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 94	1185321670707	2929
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 97	1185321670707	2930
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 98	1185321670707	2931
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 98	1185321670707	2932
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 98	1185321670707	2933
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 98	1185321670707	2934
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 98	1185321670707	2935
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 99	1185321670707	2936
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 106	1185321670707	2937
+PaperToolkit cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 112	1185321670707	2938
+strokes cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkCollector.java	line 119	1185321670707	2939
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 2	1185321670707	2865
+The import edu.stanford cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 10	1185321670707	2866
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 27	1185321670707	2868
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 27	1185321670707	2869
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 39	1185321670707	2870
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 40	1185321670707	2871
+GraphicsUtils cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 47	1185321670707	2872
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 50	1185321670707	2873
+Ink cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 51	1185321670707	2874
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 51	1185321670707	2875
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 54	1185321670707	2876
+InkStroke cannot be resolved to a type	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 55	1185321670707	2877
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 88	1185321670707	2878
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 96	1185321670707	2879
+inkWell cannot be resolved	BluJay_FlashCards/src/edu/berkeley/cs160/blujay/prototype	InkPanel.java	line 97	1185321670707	2880

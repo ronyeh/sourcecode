@@ -1,0 +1,364 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	Team42_42Planner	CS160PlannerPaperUI.java	line 7	1185321676424	3975
+The import edu.stanford cannot be resolved	Team42_42Planner	CS160PlannerPaperUI.java	line 8	1185321676424	3976
+The import edu.stanford cannot be resolved	Team42_42Planner	CS160PlannerPaperUI.java	line 9	1185321676424	3977
+The import edu.stanford cannot be resolved	Team42_42Planner	CS160PlannerPaperUI.java	line 10	1185321676424	3978
+The import edu.stanford cannot be resolved	Team42_42Planner	CS160PlannerPaperUI.java	line 11	1185321676424	3979
+Sheet cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 27	1185321676424	3980
+The method createMap(int) is undefined for the type CS160PlannerPaperUI	Team42_42Planner	CS160PlannerPaperUI.java	line 27	1185321676424	3981
+SheetRenderer cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 28	1185321676424	3982
+SheetRenderer cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 28	1185321676424	3983
+Sheet cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 37	1185321676424	3984
+Sheet cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 46	1185321676424	3985
+Sheet cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 46	1185321676424	3986
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 86	1185321676424	3987
+TextRegion cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 86	1185321676424	3988
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 89	1185321676424	3989
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 89	1185321676424	3990
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 107	1185321676424	3993
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 107	1185321676424	3994
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 107	1185321676424	3991
+TextRegion cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 107	1185321676424	3992
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	3997
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	3998
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	3999
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	4000
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	3995
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 109	1185321676424	3996
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4003
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4004
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4005
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4006
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4001
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 112	1185321676424	4002
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4009
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4010
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4011
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4012
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4007
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 117	1185321676424	4008
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4015
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4016
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4017
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4018
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4013
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 122	1185321676424	4014
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4021
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4022
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4023
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4024
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4019
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 127	1185321676424	4020
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4027
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4028
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4029
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4030
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4025
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 132	1185321676424	4026
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 137	1185321676424	4033
+Inches cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 137	1185321676424	4034
+Region cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 137	1185321676424	4031
+TextRegion cannot be resolved to a type	Team42_42Planner	CS160PlannerPaperUI.java	line 137	1185321676424	4032
+The import edu.stanford cannot be resolved	Team42_42Planner	testDummy.java	line 1	1185321676284	3667
+InkCollector cannot be resolved to a type	Team42_42Planner	testDummy.java	line 35	1185321676284	3668
+InkCollector cannot be resolved to a type	Team42_42Planner	testDummy.java	line 35	1185321676284	3669
+InkCollector cannot be resolved to a type	Team42_42Planner	testDummy.java	line 36	1185321676284	3670
+InkCollector cannot be resolved to a type	Team42_42Planner	testDummy.java	line 36	1185321676284	3671
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	BodyRegion.java	line 5	1185321676424	3970
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	BodyRegion.java	line 6	1185321676424	3971
+Ink cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	BodyRegion.java	line 43	1185321676424	3972
+inkWell cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	BodyRegion.java	line 43	1185321676424	3973
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	BodyRegion.java	line 50	1185321676424	3974
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 8	1185321676409	3919
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 9	1185321676409	3920
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 10	1185321676409	3921
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 11	1185321676409	3922
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 12	1185321676409	3923
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 13	1185321676409	3924
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 14	1185321676409	3925
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 15	1185321676409	3926
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 16	1185321676409	3927
+Application cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 28	1185321676409	3928
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 45	1185321676409	3929
+Application cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 45	1185321676409	3930
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 51	1185321676409	3931
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 51	1185321676409	3932
+Bundle cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 52	1185321676409	3933
+Bundle cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 52	1185321676409	3934
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 60	1185321676409	3935
+The method createMap(GregorianCalendar) is undefined for the type CS160PlannerPaperUI2	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 60	1185321676409	3936
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 99	1185321676409	3937
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 100	1185321676409	3938
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 100	1185321676409	3939
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 106	1185321676409	3940
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 107	1185321676409	3941
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 107	1185321676409	3942
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 113	1185321676409	3943
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 114	1185321676409	3944
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 114	1185321676409	3945
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 127	1185321676409	3946
+TiledPatternGenerator cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 136	1185321676409	3947
+TiledPatternGenerator cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 136	1185321676409	3948
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 138	1185321676409	3949
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 140	1185321676409	3950
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 140	1185321676409	3951
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 144	1185321676409	3952
+The method getInk() is undefined for the type BodyRegion	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 154	1185321676409	3953
+The method getInk() is undefined for the type BodyRegion	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 154	1185321676409	3954
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 159	1185321676409	3955
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 160	1185321676409	3957
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 160	1185321676409	3956
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 161	1185321676409	3959
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 161	1185321676409	3958
+Pen cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 166	1185321676409	3960
+Pen cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 166	1185321676409	3961
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 167	1185321676409	3962
+PaperToolkit cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 169	1185321676409	3963
+PaperToolkit cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 169	1185321676409	3964
+app cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 170	1185321676409	3965
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 189	1185321676409	3966
+The method getInk() is undefined for the type BodyRegion	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 189	1185321676409	3967
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 191	1185321676409	3968
+The method getInk() is undefined for the type BodyRegion	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerApp.java	line 191	1185321676409	3969
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 7	1185321676393	3819
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 8	1185321676393	3820
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 9	1185321676393	3821
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 10	1185321676393	3822
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 11	1185321676393	3823
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 28	1185321676393	3824
+The method createMap(GregorianCalendar) is undefined for the type CS160PlannerPaperUI	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 28	1185321676393	3825
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 30	1185321676393	3826
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 30	1185321676393	3827
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 38	1185321676393	3828
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 58	1185321676393	3829
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 58	1185321676393	3830
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 128	1185321676393	3831
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 128	1185321676393	3832
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 131	1185321676393	3833
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 131	1185321676393	3834
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 133	1185321676393	3835
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 133	1185321676393	3836
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 135	1185321676393	3837
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 135	1185321676393	3838
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 160	1185321676409	3841
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 160	1185321676409	3842
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 160	1185321676409	3839
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 160	1185321676409	3840
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3845
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3846
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3847
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3848
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3843
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 163	1185321676409	3844
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3851
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3852
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3853
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3854
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3849
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 167	1185321676409	3850
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3857
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3858
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3859
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3860
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3855
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 171	1185321676409	3856
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3863
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3864
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3865
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3866
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3861
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 175	1185321676409	3862
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3869
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3870
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3871
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3872
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3867
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 179	1185321676409	3868
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3875
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3876
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3877
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3878
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3873
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 183	1185321676409	3874
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3881
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3882
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3883
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3884
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3879
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 195	1185321676409	3880
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 219	1185321676409	3887
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 219	1185321676409	3888
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 219	1185321676409	3885
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 219	1185321676409	3886
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3891
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3892
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3893
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3894
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3889
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 222	1185321676409	3890
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3897
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3898
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3899
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3900
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3895
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 226	1185321676409	3896
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3903
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3904
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3905
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3906
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3901
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 230	1185321676409	3902
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3909
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3910
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3911
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3912
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3907
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 234	1185321676409	3908
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3915
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3916
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3917
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3918
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3913
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI.java	line 238	1185321676409	3914
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 10	1185321676393	3719
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 11	1185321676393	3720
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 12	1185321676393	3721
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 13	1185321676393	3722
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 14	1185321676393	3723
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 15	1185321676393	3724
+TiledPatternGenerator cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 99	1185321676393	3725
+TiledPatternGenerator cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 99	1185321676393	3726
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 101	1185321676393	3727
+The method createMap(GregorianCalendar) is undefined for the type CS160PlannerPaperUI2	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 101	1185321676393	3728
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 102	1185321676393	3729
+SheetRenderer cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 102	1185321676393	3730
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 110	1185321676393	3731
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 121	1185321676393	3732
+Sheet cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 121	1185321676393	3733
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 198	1185321676393	3734
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 198	1185321676393	3735
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 201	1185321676393	3736
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 202	1185321676393	3737
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 204	1185321676393	3738
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 204	1185321676393	3739
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 207	1185321676393	3740
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 208	1185321676393	3741
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 227	1185321676393	3742
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 227	1185321676393	3743
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 230	1185321676393	3744
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 231	1185321676393	3745
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 235	1185321676393	3746
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 235	1185321676393	3747
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 236	1185321676393	3748
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 237	1185321676393	3749
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 238	1185321676393	3750
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 239	1185321676393	3751
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 244	1185321676393	3752
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 244	1185321676393	3753
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 245	1185321676393	3754
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 246	1185321676393	3755
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 247	1185321676393	3756
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 248	1185321676393	3757
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 253	1185321676393	3758
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 253	1185321676393	3759
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 254	1185321676393	3760
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 255	1185321676393	3761
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 256	1185321676393	3762
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 257	1185321676393	3763
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 261	1185321676393	3764
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 261	1185321676393	3765
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 262	1185321676393	3766
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 263	1185321676393	3767
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 264	1185321676393	3768
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 265	1185321676393	3769
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 270	1185321676393	3770
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 270	1185321676393	3771
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 271	1185321676393	3772
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 272	1185321676393	3773
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 273	1185321676393	3774
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 274	1185321676393	3775
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 279	1185321676393	3776
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 279	1185321676393	3777
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 280	1185321676393	3778
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 281	1185321676393	3779
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 282	1185321676393	3780
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 283	1185321676393	3781
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 297	1185321676393	3782
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 297	1185321676393	3783
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 298	1185321676393	3784
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 299	1185321676393	3785
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 300	1185321676393	3786
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 301	1185321676393	3787
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 320	1185321676393	3788
+TextRegion cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 320	1185321676393	3789
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 323	1185321676393	3790
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 324	1185321676393	3791
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 328	1185321676393	3792
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 328	1185321676393	3793
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 329	1185321676393	3794
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 330	1185321676393	3795
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 331	1185321676393	3796
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 332	1185321676393	3797
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 337	1185321676393	3798
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 337	1185321676393	3799
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 338	1185321676393	3800
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 339	1185321676393	3801
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 340	1185321676393	3802
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 341	1185321676393	3803
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 346	1185321676393	3804
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 346	1185321676393	3805
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 347	1185321676393	3806
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 348	1185321676393	3807
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 349	1185321676393	3808
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 350	1185321676393	3809
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 355	1185321676393	3810
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 355	1185321676393	3811
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 356	1185321676393	3812
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 357	1185321676393	3813
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 358	1185321676393	3814
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 359	1185321676393	3815
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 364	1185321676393	3816
+Region cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 364	1185321676393	3817
+Inches cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerPaperUI2.java	line 365	1185321676393	3818
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 8	1185321676346	3701
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 71	1185321676346	3702
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 76	1185321676346	3703
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 89	1185321676346	3704
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 93	1185321676346	3705
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 109	1185321676346	3706
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 113	1185321676346	3707
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 230	1185321676346	3708
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 234	1185321676346	3709
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 247	1185321676346	3710
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 251	1185321676346	3711
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 266	1185321676346	3712
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	CS160PlannerSwingUI_FileWriter.java	line 270	1185321676346	3713
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 5	1185321676299	3694
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 6	1185321676299	3695
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 7	1185321676299	3696
+Ink cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 42	1185321676299	3697
+inkWell cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 42	1185321676299	3698
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 46	1185321676299	3699
+MathUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	HoursRegion.java	line 70	1185321676299	3700
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 8	1185321676299	3681
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 9	1185321676299	3682
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 10	1185321676299	3683
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 11	1185321676299	3684
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 12	1185321676299	3685
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 25	1185321676299	3686
+Ink cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 63	1185321676299	3687
+inkWell cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 63	1185321676299	3688
+GraphicsUtils cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 70	1185321676299	3689
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 76	1185321676299	3690
+Units cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 80	1185321676299	3691
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 103	1185321676299	3692
+InkCollector cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	TimeRegion.java	line 137	1185321676299	3693
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 4	1185321676284	3672
+The import edu.stanford cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 5	1185321676284	3673
+Ink cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 31	1185321676284	3674
+inkWell cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 31	1185321676284	3675
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 42	1185321676284	3676
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 45	1185321676284	3677
+Ink cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 62	1185321676284	3678
+inkWell cannot be resolved	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 62	1185321676284	3679
+InkStroke cannot be resolved to a type	Team42_42Planner/edu/berkeley/cs160/planner	ToDoRegion.java	line 69	1185321676284	3680

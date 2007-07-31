@@ -43,19 +43,18 @@ public class DiscoverSourceFiles {
 
 	private File rootPath;
 
-	public void listAllFiles() {
-		for (File f : allSourceFiles) {
-			DebugUtils.println(f.getAbsolutePath());
-		}
-	}
-
 	/**
+	 * Default to Java Files.
 	 * @param rootDir
 	 */
 	public DiscoverSourceFiles(File rootDir) {
 		this(rootDir, new String[] { "java" });
 	}
 
+	/**
+	 * @param rootDir
+	 * @param extensions
+	 */
 	public DiscoverSourceFiles(File rootDir, String[] extensions) {
 		rootPath = rootDir;
 
@@ -65,16 +64,32 @@ public class DiscoverSourceFiles {
 		Collections.sort(allSourceFiles);
 
 		// How Many Source Files did I analyze?
-		DebugUtils.println(allSourceFiles.size() + " " + Arrays.toString(extensions) + " Source Files");
+		DebugUtils.println("Found " + allSourceFiles.size() + " " + Arrays.toString(extensions) + " Source Files");
 	}
 
+	/**
+	 * @return
+	 */
+	public List<File> getListOfFiles() {
+		return allSourceFiles;
+	}
+
+	public void listAllFiles() {
+		for (File f : allSourceFiles) {
+			DebugUtils.println(f.getAbsolutePath());
+		}
+	}
+
+	/**
+	 * @param destFile
+	 */
 	public void writePathsToFile(File destFile) {
 		String paths = allSourceFiles.toString();
 		paths = formatData(paths);
 		FileUtils.writeStringToFile(paths, destFile);
 	}
 
-	public List<File> getListOfFiles() {
-		return allSourceFiles;
+	public SourceFileIterator getIterator() {
+		return new SourceFileIterator(getListOfFiles());
 	}
 }

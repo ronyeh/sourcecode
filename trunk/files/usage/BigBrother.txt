@@ -1,0 +1,164 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 5	1185321653698	609
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 6	1185321653698	610
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 7	1185321653698	611
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 8	1185321653698	612
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 9	1185321653698	613
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 18	1185321653698	614
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 18	1185321653698	615
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 19	1185321653698	616
+SheetRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 20	1185321653698	617
+SheetRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 20	1185321653698	618
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 24	1185321653698	619
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetPaperUI.java	line 24	1185321653698	620
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 16	1185321653698	582
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 17	1185321653698	583
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 18	1185321653698	584
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 19	1185321653698	585
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 20	1185321653698	586
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 21	1185321653698	587
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 22	1185321653698	588
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 23	1185321653698	589
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 53	1185321653698	590
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 56	1185321653698	591
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 61	1185321653698	592
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 61	1185321653698	593
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 62	1185321653698	594
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 67	1185321653698	595
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 101	1185321653698	596
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 104	1185321653698	597
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 104	1185321653698	598
+InkRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 106	1185321653698	599
+InkRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 106	1185321653698	600
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 107	1185321653698	602
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 107	1185321653698	603
+Pixels cannot be resolved to a type	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 107	1185321653698	601
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	AnswerSheetSwingUI.java	line 111	1185321653698	604
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 32	1185321653682	549
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 33	1185321653682	550
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 34	1185321653682	551
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 35	1185321653682	552
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 36	1185321653682	553
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 37	1185321653682	554
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 38	1185321653682	555
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 50	1185321653682	556
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 50	1185321653682	557
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 62	1185321653682	558
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 70	1185321653682	559
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 101	1185321653682	560
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 222	1185321653682	561
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 243	1185321653682	562
+AskQuestions.app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 449	1185321653682	564
+Pen cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 449	1185321653682	563
+Pen cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 450	1185321653682	565
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionSwingUI.java	line 609	1185321653682	580
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 4	1185321653667	527
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 5	1185321653667	528
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 6	1185321653667	529
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 7	1185321653667	530
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 17	1185321653667	531
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 17	1185321653667	532
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 18	1185321653667	533
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 18	1185321653667	534
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 20	1185321653667	535
+The method renderTwoPDFs() is undefined for the type BigBrotherPaperUI	BigBrotherApp/proctoringUI	AskQuestions.java	line 20	1185321653667	536
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 21	1185321653667	537
+app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 30	1185321653667	538
+Application cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 30	1185321653667	539
+app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 31	1185321653667	540
+app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 32	1185321653667	541
+Pen cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 34	1185321653667	542
+Pen cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 34	1185321653667	543
+app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 35	1185321653667	544
+PaperToolkit cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 43	1185321653667	545
+PaperToolkit cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 43	1185321653667	546
+app cannot be resolved	BigBrotherApp/proctoringUI	AskQuestions.java	line 45	1185321653667	547
+Application cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestions.java	line 49	1185321653667	548
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 5	1185321653651	510
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 6	1185321653651	511
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 7	1185321653651	512
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 8	1185321653651	513
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 9	1185321653651	514
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 10	1185321653651	515
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 20	1185321653651	518
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 20	1185321653651	519
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 20	1185321653651	516
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 20	1185321653651	517
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 21	1185321653651	520
+SheetRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 22	1185321653651	521
+SheetRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 22	1185321653651	522
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 30	1185321653651	523
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	AskQuestionsPaperUI.java	line 30	1185321653651	524
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 5	1185321653651	496
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 6	1185321653651	497
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 7	1185321653651	498
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 8	1185321653651	499
+The method renderTwoPDFs() is undefined for the type BigBrotherPaperUI	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 15	1185321653651	500
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 21	1185321653651	501
+Bundle cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 22	1185321653651	502
+Bundle cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 22	1185321653651	503
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 23	1185321653651	504
+Inches cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 23	1185321653651	505
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 24	1185321653651	506
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 26	1185321653651	507
+BundleRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 33	1185321653651	508
+BundleRenderer cannot be resolved to a type	BigBrotherApp/proctoringUI	BigBrotherPaperUI.java	line 33	1185321653651	509
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 4	1185321653635	483
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 5	1185321653635	484
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 6	1185321653635	485
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 7	1185321653635	486
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 8	1185321653635	487
+ContentFilterListener cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 10	1185321653635	488
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 13	1185321653635	489
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 17	1185321653635	490
+The method getMySheet() is undefined for the type RegionSet	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 17	1185321653635	491
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 19	1185321653635	492
+The method getInkWell() is undefined for the type RegionSet	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 19	1185321653635	493
+Ink cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 20	1185321653635	494
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	ButtonContentFilterListener.java	line 39	1185321653635	495
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 10	1185321653620	471
+InkPanel cannot be resolved to a type	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 17	1185321653620	473
+InkPanel cannot be resolved to a type	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 19	1185321653620	474
+InkPanel cannot be resolved to a type	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 19	1185321653620	475
+InkPanel cannot be resolved to a type	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 35	1185321653620	476
+myPanel cannot be resolved	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 41	1185321653620	477
+inkpanelTable cannot be resolved	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 44	1185321653620	478
+InkPanel cannot be resolved to a type	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 88	1185321653620	479
+inkpanelTable cannot be resolved	BigBrotherApp/proctoringUI	MyInternalFrame.java	line 89	1185321653620	480
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 2	1185321653588	462
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 4	1185321653588	463
+ContentFilterListener cannot be resolved to a type	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 6	1185321653588	464
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 7	1185321653588	465
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 10	1185321653588	466
+region cannot be resolved	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 11	1185321653588	467
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 19	1185321653588	468
+region cannot be resolved	BigBrotherApp/proctoringUI	QuestionBoxContentFilterListener.java	line 20	1185321653588	469
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 2	1185321653588	433
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 3	1185321653588	434
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 4	1185321653588	435
+The import edu cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 5	1185321653588	436
+Region cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 7	1185321653588	437
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 9	1185321653588	438
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 11	1185321653588	439
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 12	1185321653588	441
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 12	1185321653588	440
+The constructor Object(String, double, double, double, double) is undefined	BigBrotherApp/proctoringUI	RegionSet.java	line 13	1185321653588	442
+mySheet cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 14	1185321653588	443
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 16	1185321653588	444
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	446
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	445
+Units cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	447
+Units cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	448
+Units cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	449
+Units cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 18	1185321653588	450
+mySheet cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 20	1185321653588	451
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 22	1185321653588	452
+The method getName() is undefined for the type RegionSet	BigBrotherApp/proctoringUI	RegionSet.java	line 25	1185321653588	453
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 27	1185321653588	454
+inkWell cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 28	1185321653588	455
+InkCollector cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 30	1185321653588	456
+inkWell cannot be resolved or is not a field	BigBrotherApp/proctoringUI	RegionSet.java	line 31	1185321653588	457
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 33	1185321653588	458
+mySheet cannot be resolved	BigBrotherApp/proctoringUI	RegionSet.java	line 34	1185321653588	459
+Sheet cannot be resolved to a type	BigBrotherApp/proctoringUI	RegionSet.java	line 36	1185321653588	460
+mySheet cannot be resolved or is not a field	BigBrotherApp/proctoringUI	RegionSet.java	line 37	1185321653588	461

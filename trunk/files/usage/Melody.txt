@@ -1,0 +1,287 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 12	1185321656259	2203
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 13	1185321656259	2204
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 14	1185321656259	2205
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 15	1185321656259	2206
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 16	1185321656259	2207
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 18	1185321656259	2208
+ImageRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 21	1185321656259	2209
+ImageRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 22	1185321656259	2210
+The method setBackground(Color) is undefined for the type CS160MapPanel	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 24	1185321656259	2211
+mapRegion cannot be resolved or is not a field	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 28	1185321656259	2212
+The method paintComponent(Graphics) of type CS160MapPanel must override a superclass method	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 35	1185321656259	2213
+The method paintComponent(Graphics) is undefined for the type Object	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 36	1185321656259	2214
+GraphicsUtils cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 38	1185321656259	2215
+mapRegion cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 44	1185321656259	2216
+mapRegion cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 44	1185321656259	2218
+The method getHeight(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 44	1185321656259	2219
+The method getWidth(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 44	1185321656259	2217
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 45	1185321656259	2220
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 46	1185321656259	2221
+inkWell cannot be resolved	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 46	1185321656259	2222
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 49	1185321656259	2223
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld	CS160MapPanel.java	line 50	1185321656259	2224
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 3	1185321656259	2191
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 4	1185321656259	2192
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 5	1185321656259	2193
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 6	1185321656259	2194
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 15	1185321656259	2195
+The method createSketch() is undefined for the type CS160SketchUI	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 15	1185321656259	2196
+Application cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 16	1185321656259	2197
+Application cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 16	1185321656259	2198
+Pen cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 19	1185321656259	2199
+Pen cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 19	1185321656259	2200
+PaperToolkit cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 25	1185321656259	2201
+PaperToolkit cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160HelloWorld.java	line 25	1185321656259	2202
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 12	1185321656259	2169
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 13	1185321656259	2170
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 14	1185321656259	2171
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 15	1185321656259	2172
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 16	1185321656259	2173
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 18	1185321656259	2174
+ImageRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 21	1185321656259	2175
+ImageRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 22	1185321656259	2176
+The method setBackground(Color) is undefined for the type CS160MapPanel	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 24	1185321656259	2177
+mapRegion cannot be resolved or is not a field	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 28	1185321656259	2178
+The method paintComponent(Graphics) of type CS160MapPanel must override a superclass method	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 35	1185321656259	2179
+The method paintComponent(Graphics) is undefined for the type Object	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 36	1185321656259	2180
+GraphicsUtils cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 38	1185321656259	2181
+mapRegion cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 44	1185321656259	2182
+mapRegion cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 44	1185321656259	2184
+The method getHeight(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 44	1185321656259	2185
+The method getWidth(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 44	1185321656259	2183
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, CS160MapPanel)	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 45	1185321656259	2186
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 46	1185321656259	2187
+inkWell cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 46	1185321656259	2188
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 49	1185321656259	2189
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160MapPanel.java	line 50	1185321656259	2190
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 5	1185321656244	2091
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 6	1185321656244	2092
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 7	1185321656244	2093
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 8	1185321656244	2094
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 9	1185321656244	2095
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 33	1185321656244	2096
+The method createSketch() is undefined for the type CS160SketchUI	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 33	1185321656244	2097
+SheetRenderer cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 35	1185321656244	2098
+SheetRenderer cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 35	1185321656244	2099
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 41	1185321656244	2100
+The method createSketch() is undefined for the type CS160SketchUI	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 41	1185321656244	2101
+SheetRenderer cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 43	1185321656244	2102
+SheetRenderer cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 43	1185321656244	2103
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 52	1185321656244	2104
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 71	1185321656244	2105
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 71	1185321656244	2106
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 73	1185321656244	2109
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 73	1185321656244	2110
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 73	1185321656244	2107
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 73	1185321656244	2108
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 76	1185321656244	2113
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 76	1185321656244	2114
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 76	1185321656244	2111
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 76	1185321656244	2112
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 79	1185321656244	2115
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 79	1185321656244	2116
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 83	1185321656244	2119
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 83	1185321656244	2120
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 83	1185321656244	2117
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 83	1185321656244	2118
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 86	1185321656244	2121
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 86	1185321656244	2122
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 90	1185321656244	2123
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 90	1185321656244	2124
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 94	1185321656244	2125
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 94	1185321656244	2126
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 98	1185321656244	2127
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 98	1185321656244	2128
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 102	1185321656244	2129
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 102	1185321656244	2130
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 120	1185321656244	2133
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 120	1185321656244	2134
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 120	1185321656244	2131
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 120	1185321656244	2132
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 123	1185321656244	2135
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 123	1185321656244	2136
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 128	1185321656244	2137
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 128	1185321656244	2138
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 132	1185321656244	2139
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 132	1185321656244	2140
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 137	1185321656244	2141
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 137	1185321656244	2142
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 141	1185321656244	2143
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 141	1185321656244	2144
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 146	1185321656244	2145
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 146	1185321656244	2146
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 150	1185321656244	2147
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 150	1185321656244	2148
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 155	1185321656244	2149
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 155	1185321656244	2150
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 159	1185321656244	2151
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 159	1185321656244	2152
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 164	1185321656244	2153
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 164	1185321656244	2154
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 192	1185321656244	2155
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 192	1185321656244	2156
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 196	1185321656244	2157
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 196	1185321656244	2158
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 200	1185321656244	2161
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 200	1185321656244	2162
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 200	1185321656244	2159
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 200	1185321656244	2160
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 203	1185321656244	2163
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 203	1185321656244	2164
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 207	1185321656244	2167
+Inches cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 207	1185321656244	2168
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 207	1185321656244	2165
+TextRegion cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SketchUI.java	line 207	1185321656244	2166
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 20	1185321656228	1991
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 21	1185321656228	1992
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 22	1185321656228	1993
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 23	1185321656228	1994
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 24	1185321656228	1995
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 25	1185321656228	1996
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 26	1185321656228	1997
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 27	1185321656228	1998
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 28	1185321656228	1999
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 29	1185321656228	2000
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 42	1185321656228	2001
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 56	1185321656228	2002
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 57	1185321656228	2003
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 58	1185321656228	2004
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 59	1185321656228	2005
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 60	1185321656228	2006
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 61	1185321656228	2007
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 62	1185321656228	2008
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 63	1185321656228	2009
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 64	1185321656228	2010
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 65	1185321656228	2011
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 66	1185321656228	2012
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 67	1185321656228	2013
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 68	1185321656228	2014
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 69	1185321656228	2015
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 70	1185321656228	2016
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 71	1185321656228	2017
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 72	1185321656228	2018
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 73	1185321656228	2019
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 74	1185321656228	2020
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 75	1185321656228	2021
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 76	1185321656228	2022
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 77	1185321656228	2023
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 78	1185321656228	2024
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 79	1185321656228	2025
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 80	1185321656228	2026
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 81	1185321656228	2027
+Sheet cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 122	1185321656228	2028
+Size cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 126	1185321656228	2029
+Region cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 144	1185321656228	2030
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 186	1185321656228	2031
+inkPanel cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 189	1185321656228	2032
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 189	1185321656228	2033
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 192	1185321656228	2034
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 229	1185321656228	2035
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 232	1185321656228	2037
+inkPanel2 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 232	1185321656228	2036
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 235	1185321656228	2038
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 249	1185321656228	2039
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 253	1185321656228	2041
+inkPanel3 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 253	1185321656228	2040
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 256	1185321656228	2042
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 270	1185321656228	2043
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 274	1185321656228	2045
+inkPanel4 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 274	1185321656228	2044
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 277	1185321656228	2046
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 291	1185321656228	2047
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 295	1185321656228	2049
+inkPanel5 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 295	1185321656228	2048
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 298	1185321656228	2050
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 312	1185321656228	2051
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 316	1185321656228	2053
+inkPanel6 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 316	1185321656228	2052
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 319	1185321656228	2054
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 333	1185321656228	2055
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 337	1185321656228	2057
+inkPanel7 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 337	1185321656228	2056
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 340	1185321656228	2058
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 354	1185321656228	2059
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 358	1185321656228	2061
+inkPanel8 cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 358	1185321656228	2060
+ContentFilterListener cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 361	1185321656228	2062
+InkPanel cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 374	1185321656228	2063
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 794	1185321656228	2064
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 927	1185321656228	2065
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 938	1185321656228	2066
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 956	1185321656228	2067
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 997	1185321656228	2068
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1030	1185321656228	2069
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1041	1185321656228	2070
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1052	1185321656228	2071
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1063	1185321656228	2072
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1104	1185321656228	2073
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1115	1185321656228	2074
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1126	1185321656228	2075
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1137	1185321656228	2076
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1148	1185321656228	2077
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1159	1185321656228	2078
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1170	1185321656228	2079
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1181	1185321656228	2080
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1192	1185321656228	2081
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1203	1185321656228	2082
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1214	1185321656228	2083
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1225	1185321656228	2084
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1236	1185321656228	2085
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1247	1185321656228	2086
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1258	1185321656228	2087
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1269	1185321656228	2088
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1280	1185321656228	2089
+inkPanel cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	CS160SwingUI.java	line 1293	1185321656228	2090
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 6	1185321656181	1939
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 7	1185321656181	1940
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 8	1185321656181	1941
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 9	1185321656181	1942
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 10	1185321656181	1943
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 11	1185321656181	1944
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 12	1185321656181	1945
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 13	1185321656181	1946
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 14	1185321656181	1947
+The import edu.stanford cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 15	1185321656181	1948
+ContentFilter cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 29	1185321656181	1949
+PatternDots cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 33	1185321656181	1950
+PatternDots cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 33	1185321656181	1951
+Pixels cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 34	1185321656181	1952
+Pixels cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 34	1185321656181	1953
+PenSample cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 38	1185321656181	1954
+PenSample cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 38	1185321656181	1955
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 46	1185321656181	1956
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 46	1185321656181	1957
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 52	1185321656181	1958
+currentStrokeSamples cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 53	1185321656181	1959
+PenEvent cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 63	1185321656181	1960
+PercentageCoordinates cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 64	1185321656181	1961
+Units cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 65	1185321656181	1962
+Units cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 66	1185321656181	1963
+currentStrokeSamples cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 70	1185321656181	1964
+currentStrokeSamples cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 71	1185321656181	1965
+PenSample cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 71	1185321656181	1966
+PIXELS cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 71	1185321656181	1967
+PIXELS cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 71	1185321656181	1968
+currentStrokeSamples cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 74	1185321656181	1971
+DOTS cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 74	1185321656181	1972
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 74	1185321656181	1970
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 74	1185321656181	1969
+The method notifyAllListenersOfNewContent() is undefined for the type InkCollector	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 75	1185321656181	1973
+currentStrokeSamples cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 78	1185321656181	1974
+PenSample cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 78	1185321656181	1975
+PIXELS cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 78	1185321656181	1976
+PIXELS cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 78	1185321656181	1977
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 84	1185321656181	1978
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 85	1185321656181	1979
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 85	1185321656181	1980
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 90	1185321656181	1981
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 91	1185321656181	1982
+Ink cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 91	1185321656181	1983
+InkStroke cannot be resolved to a type	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 91	1185321656181	1984
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 91	1185321656181	1985
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 91	1185321656181	1986
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 92	1185321656181	1987
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 99	1185321656181	1988
+PaperToolkit cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 105	1185321656181	1989
+strokes cannot be resolved	Melody/edu/berkeley/cs160/helloworld/sketch	InkCollector.java	line 112	1185321656181	1990

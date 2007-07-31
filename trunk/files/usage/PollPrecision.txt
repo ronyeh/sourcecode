@@ -1,0 +1,157 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 6	1185321675565	3348
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 7	1185321675565	3349
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 8	1185321675565	3350
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 9	1185321675565	3351
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 10	1185321675565	3352
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 11	1185321675565	3353
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 12	1185321675565	3354
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 13	1185321675565	3355
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 14	1185321675565	3356
+Application cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 24	1185321675565	3357
+Application cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 24	1185321675565	3358
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 38	1185321675565	3359
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 38	1185321675565	3360
+Sheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 40	1185321675565	3361
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 42	1185321675565	3362
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 43	1185321675565	3363
+Pen cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 54	1185321675565	3365
+PaperToolkit cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 55	1185321675565	3366
+PaperToolkit cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 55	1185321675565	3367
+EventHandler cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 59	1185321675565	3368
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 59	1185321675565	3369
+ClickAdapter cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/ballotViewer	BallotViewerModel.java	line 60	1185321675565	3370
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision	BallotDesign.java	line 3	1185321675393	3291
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision	BallotDesign.java	line 10	1185321675393	3292
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision	BallotDesign.java	line 15	1185321675393	3293
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision	BallotDesign.java	line 27	1185321675393	3294
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision	BallotDesign.java	line 44	1185321675393	3295
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 32	1185321675315	3247
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 33	1185321675315	3248
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 34	1185321675315	3249
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 35	1185321675315	3250
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 36	1185321675315	3251
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 37	1185321675315	3252
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 38	1185321675315	3253
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 39	1185321675315	3254
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 40	1185321675315	3255
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 41	1185321675315	3256
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 42	1185321675315	3257
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 67	1185321675315	3258
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 157	1185321675315	3259
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 157	1185321675315	3260
+Sheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 159	1185321675315	3261
+Application cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 171	1185321675315	3263
+Application cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 171	1185321675315	3264
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 180	1185321675315	3265
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 180	1185321675315	3266
+Sheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 182	1185321675315	3267
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 185	1185321675315	3268
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 186	1185321675315	3269
+Pen cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 196	1185321675315	3271
+PaperToolkit cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 197	1185321675315	3272
+PaperToolkit cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 197	1185321675315	3273
+Sheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 215	1185321675315	3274
+The method getBundle() is undefined for the type BallotDesign	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 215	1185321675315	3275
+PDFSheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 216	1185321675315	3276
+PDFSheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 216	1185321675315	3277
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 217	1185321675315	3278
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 232	1185321675315	3279
+EventHandler cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 248	1185321675315	3280
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotMakerModel.java	line 248	1185321675315	3281
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerEditor.java	line 7	1185321675175	3226
+The method getBundle() is undefined for the type BallotViewerPiece	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerEditor.java	line 37	1185321675175	3229
+The method getBundle() is undefined for the type BallotViewerPiece	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerEditor.java	line 68	1185321675175	3231
+The method getBundle() is undefined for the type BallotViewerPiece	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerEditor.java	line 88	1185321675175	3232
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 33	1185321675143	3154
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 34	1185321675143	3155
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 35	1185321675143	3156
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 36	1185321675143	3157
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 37	1185321675143	3158
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 38	1185321675143	3159
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 45	1185321675143	3161
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 55	1185321675143	3162
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 90	1185321675143	3163
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 100	1185321675143	3164
+The method getBundle() is undefined for the type BallotDesign	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 100	1185321675143	3165
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 110	1185321675143	3166
+The method getBundle() is undefined for the type BallotDesign	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 110	1185321675143	3167
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 111	1185321675143	3168
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 114	1185321675143	3169
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 148	1185321675143	3171
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 148	1185321675143	3170
+Coordinates cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 150	1185321675159	3172
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 150	1185321675159	3173
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 155	1185321675159	3174
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 161	1185321675159	3175
+Coordinates cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 179	1185321675159	3176
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 179	1185321675159	3177
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 209	1185321675159	3178
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 212	1185321675159	3179
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 213	1185321675159	3181
+Sheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 213	1185321675159	3180
+Points cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 214	1185321675159	3184
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 214	1185321675159	3182
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 214	1185321675159	3183
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 221	1185321675159	3185
+The method makeRegion(String, int, int, int, int) is undefined for the type BallotViewerPiece	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 222	1185321675159	3186
+Bundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 246	1185321675159	3187
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 247	1185321675159	3188
+PDFBundle cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 249	1185321675159	3189
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 250	1185321675159	3190
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 281	1185321675159	3191
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 316	1185321675159	3192
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 317	1185321675159	3193
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 319	1185321675159	3195
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 319	1185321675159	3194
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 335	1185321675159	3196
+The method regionHitTest(int, int) is undefined for the type BallotViewerPiece	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 335	1185321675159	3197
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 336	1185321675159	3198
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 336	1185321675159	3199
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 344	1185321675159	3200
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 352	1185321675159	3201
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 354	1185321675159	3202
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 357	1185321675159	3203
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 359	1185321675159	3204
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 360	1185321675159	3206
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 360	1185321675159	3205
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 361	1185321675159	3207
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 367	1185321675159	3208
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 458	1185321675159	3209
+The method makeRegion(int, int, int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 458	1185321675159	3210
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 459	1185321675159	3211
+The method regionHitTest(int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 459	1185321675159	3212
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 463	1185321675159	3213
+The method regionHitTest(int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 463	1185321675159	3214
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 464	1185321675159	3215
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 477	1185321675159	3216
+The method regionHitTest(int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 477	1185321675159	3217
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 478	1185321675159	3218
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 480	1185321675159	3219
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 492	1185321675159	3220
+The method makeRegion(int, int, int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 492	1185321675159	3221
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 503	1185321675159	3222
+The method regionHitTest(int, int) is undefined for the type BallotViewerPiece.BVPMouseListener	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 503	1185321675159	3223
+myBundle cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 507	1185321675159	3224
+activeRegion cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	BallotViewerPiece.java	line 508	1185321675159	3225
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 18	1185321674972	3122
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 19	1185321674972	3123
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 20	1185321674972	3124
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 21	1185321674972	3125
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 22	1185321674972	3126
+The import edu cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 23	1185321674972	3127
+SheetRenderer cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 35	1185321674972	3128
+PDFSheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 39	1185321674972	3129
+PDFSheet cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 44	1185321674972	3130
+pdfSheet cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 46	1185321674972	3131
+pdfSheet cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 68	1185321674972	3132
+DebugUtils cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 69	1185321674972	3133
+The method renderToPDFContentLayers(File, PdfContentByte, PdfContentByte) is undefined for the type SuperPdfSheetRenderer	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 76	1185321674972	3134
+The method savePatternInformation(File) is undefined for the type SuperPdfSheetRenderer	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 79	1185321674972	3135
+RegionConfiguration cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 81	1185321674972	3136
+RegionConfiguration cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 81	1185321674972	3137
+pdfSheet cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 82	1185321674972	3138
+pdfSheet cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 83	1185321674972	3139
+pdfSheet cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 84	1185321674972	3141
+Region cannot be resolved to a type	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 84	1185321674972	3140
+PaperToolkit cannot be resolved	PollPrecision/PollPrecisionBallotMaker/src/pollPrecision/ballotMaker	SuperPdfSheetRenderer.java	line 87	1185321674972	3142

@@ -1,0 +1,243 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 3	1185321656119	1926
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 4	1185321656119	1927
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 5	1185321656119	1928
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 6	1185321656119	1929
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 7	1185321656119	1930
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 19	1185321656119	1931
+The method createMap() is undefined for the type CS160MapPaperUI	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 19	1185321656119	1932
+Application cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 20	1185321656119	1933
+Application cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 20	1185321656119	1934
+Pen cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 25	1185321656119	1935
+Pen cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 25	1185321656119	1936
+PaperToolkit cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 34	1185321656119	1937
+PaperToolkit cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160KmatMap.java	line 34	1185321656119	1938
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 12	1185321656119	1906
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 13	1185321656119	1907
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 14	1185321656119	1908
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 15	1185321656119	1909
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 16	1185321656119	1910
+InkPanel cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 18	1185321656119	1911
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 21	1185321656119	1912
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 25	1185321656119	1913
+The method paintComponent(Graphics) of type CS160MapPanel must override a superclass method	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 40	1185321656119	1914
+The method paintComponent(Graphics) is undefined for the type Object	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 41	1185321656119	1915
+GraphicsUtils cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 43	1185321656119	1916
+mapRegion cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 55	1185321656119	1917
+mapRegion cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 55	1185321656119	1919
+The method getHeight(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 55	1185321656119	1920
+The method getWidth(ImageObserver) in the type Image is not applicable for the arguments (CS160MapPanel)	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 55	1185321656119	1918
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, CS160MapPanel)	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 56	1185321656119	1921
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 57	1185321656119	1922
+inkWell cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 57	1185321656119	1923
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 60	1185321656119	1924
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPanel.java	line 61	1185321656119	1925
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 2	1185321656103	1806
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 3	1185321656103	1807
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 4	1185321656103	1808
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 5	1185321656103	1809
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 6	1185321656103	1810
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 7	1185321656103	1811
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 8	1185321656103	1812
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 9	1185321656103	1813
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 26	1185321656103	1814
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 26	1185321656103	1815
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 36	1185321656103	1816
+The method createMap() is undefined for the type CS160MapPaperUI	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 36	1185321656103	1817
+BundleRenderer cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 40	1185321656103	1818
+BundleRenderer cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 40	1185321656103	1819
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 50	1185321656103	1820
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 51	1185321656103	1821
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 51	1185321656103	1822
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 56	1185321656103	1823
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 56	1185321656103	1824
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 59	1185321656103	1827
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 59	1185321656103	1828
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 59	1185321656103	1825
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 59	1185321656103	1826
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 63	1185321656103	1830
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 63	1185321656103	1831
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 63	1185321656103	1832
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 63	1185321656103	1833
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 63	1185321656103	1829
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 80	1185321656103	1835
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 80	1185321656103	1836
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 80	1185321656103	1837
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 80	1185321656103	1838
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 80	1185321656103	1834
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 85	1185321656103	1841
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 85	1185321656103	1842
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 85	1185321656103	1839
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 85	1185321656103	1840
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 88	1185321656103	1845
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 88	1185321656103	1846
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 88	1185321656103	1843
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 88	1185321656103	1844
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 91	1185321656103	1849
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 91	1185321656103	1850
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 91	1185321656103	1847
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 91	1185321656103	1848
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 96	1185321656103	1852
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 96	1185321656103	1853
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 96	1185321656103	1854
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 96	1185321656103	1855
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 96	1185321656103	1851
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 100	1185321656103	1858
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 100	1185321656103	1859
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 100	1185321656103	1856
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 100	1185321656103	1857
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 105	1185321656103	1861
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 105	1185321656103	1862
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 105	1185321656103	1863
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 105	1185321656103	1864
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 105	1185321656103	1860
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 109	1185321656103	1867
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 109	1185321656103	1868
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 109	1185321656103	1865
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 109	1185321656103	1866
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 114	1185321656103	1870
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 114	1185321656103	1871
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 114	1185321656103	1872
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 114	1185321656103	1873
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 114	1185321656103	1869
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 118	1185321656103	1876
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 118	1185321656103	1877
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 118	1185321656103	1874
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 118	1185321656103	1875
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 123	1185321656103	1879
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 123	1185321656103	1880
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 123	1185321656103	1881
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 123	1185321656103	1882
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 123	1185321656103	1878
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 127	1185321656103	1885
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 127	1185321656103	1886
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 127	1185321656103	1883
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 127	1185321656103	1884
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 130	1185321656103	1889
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 130	1185321656103	1890
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 130	1185321656103	1887
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 130	1185321656103	1888
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 135	1185321656103	1892
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 135	1185321656103	1893
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 135	1185321656103	1894
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 135	1185321656103	1895
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 135	1185321656103	1891
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 139	1185321656103	1898
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 139	1185321656103	1899
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 139	1185321656103	1896
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 139	1185321656103	1897
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 144	1185321656103	1901
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 144	1185321656103	1902
+Inches cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 144	1185321656103	1903
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 144	1185321656103	1904
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 144	1185321656103	1900
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapPaperUI.java	line 168	1185321656103	1905
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 21	1185321656088	1744
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 22	1185321656088	1745
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 23	1185321656088	1746
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 24	1185321656088	1747
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 25	1185321656088	1748
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 26	1185321656088	1749
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 27	1185321656088	1750
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 28	1185321656088	1751
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 29	1185321656088	1752
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 30	1185321656088	1753
+Bundle cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 68	1185321656088	1755
+Sheet cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 115	1185321656088	1757
+Size cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 119	1185321656088	1758
+Region cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 149	1185321656088	1759
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 151	1185321656088	1760
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 152	1185321656088	1761
+ContentFilterListener cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 164	1185321656088	1762
+ImageRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 177	1185321656088	1764
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 180	1185321656088	1765
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 182	1185321656088	1766
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 184	1185321656088	1767
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 186	1185321656088	1768
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 188	1185321656088	1769
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 190	1185321656088	1770
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 192	1185321656088	1771
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 194	1185321656088	1772
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 196	1185321656088	1773
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 198	1185321656088	1774
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 200	1185321656088	1775
+Type mismatch: cannot convert from CS160MapPanel to JPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 202	1185321656088	1776
+ContentFilterListener cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 215	1185321656088	1777
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 224	1185321656088	1779
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 264	1185321656088	1780
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 303	1185321656088	1781
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 343	1185321656088	1782
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 382	1185321656088	1783
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 421	1185321656088	1784
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 460	1185321656088	1785
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 499	1185321656088	1786
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 538	1185321656088	1787
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 577	1185321656088	1788
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 616	1185321656088	1789
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 655	1185321656088	1790
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 694	1185321656088	1791
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 736	1185321656088	1792
+TextRegion cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 736	1185321656088	1793
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 750	1185321656088	1794
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 775	1185321656088	1795
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 823	1185321656088	1796
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 871	1185321656088	1797
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 919	1185321656088	1798
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 967	1185321656088	1799
+ClickAdapter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 1030	1185321656088	1800
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 1159	1185321656088	1802
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 1160	1185321656088	1803
+The method getNewInkOnly() is undefined for the type InkCollector	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 1160	1185321656088	1804
+The method clear() is undefined for the type CS160MapPanel	KMAT/edu/berkeley/cs160/kmat/map/shell	CS160MapSwingUI.java	line 1176	1185321656088	1805
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 6	1185321656025	1689
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 7	1185321656025	1690
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 8	1185321656025	1691
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 9	1185321656025	1692
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 10	1185321656025	1693
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 11	1185321656025	1694
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 12	1185321656025	1695
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 13	1185321656025	1696
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 14	1185321656025	1697
+The import edu.stanford cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 15	1185321656025	1698
+ContentFilter cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 29	1185321656025	1699
+PatternDots cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 33	1185321656025	1700
+PatternDots cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 33	1185321656025	1701
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 34	1185321656025	1702
+Pixels cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 34	1185321656025	1703
+PenSample cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 38	1185321656025	1704
+PenSample cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 38	1185321656025	1705
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 46	1185321656025	1706
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 46	1185321656025	1707
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 52	1185321656025	1708
+currentStrokeSamples cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 53	1185321656025	1709
+PenEvent cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 63	1185321656025	1710
+PercentageCoordinates cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 64	1185321656025	1711
+Units cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 65	1185321656025	1712
+Units cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 66	1185321656025	1713
+currentStrokeSamples cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 70	1185321656025	1714
+currentStrokeSamples cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 71	1185321656025	1715
+PenSample cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 71	1185321656025	1716
+PIXELS cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 71	1185321656025	1717
+PIXELS cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 71	1185321656025	1718
+currentStrokeSamples cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 74	1185321656025	1721
+DOTS cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 74	1185321656025	1722
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 74	1185321656025	1720
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 74	1185321656025	1719
+The method notifyAllListenersOfNewContent() is undefined for the type InkCollector	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 75	1185321656025	1723
+currentStrokeSamples cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 78	1185321656025	1724
+PenSample cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 78	1185321656025	1725
+PIXELS cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 78	1185321656025	1726
+PIXELS cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 78	1185321656025	1727
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 84	1185321656025	1728
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 85	1185321656025	1729
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 85	1185321656025	1730
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 90	1185321656025	1731
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 91	1185321656025	1732
+Ink cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 91	1185321656025	1733
+InkStroke cannot be resolved to a type	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 91	1185321656025	1734
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 91	1185321656025	1735
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 91	1185321656025	1736
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 92	1185321656025	1737
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 99	1185321656025	1738
+PaperToolkit cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 105	1185321656025	1739
+strokes cannot be resolved	KMAT/edu/berkeley/cs160/kmat/map/shell	InkCollector.java	line 112	1185321656025	1740

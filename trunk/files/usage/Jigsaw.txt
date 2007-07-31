@@ -1,0 +1,199 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 35	1185321655900	1649
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 36	1185321655900	1650
+PaperToolkit cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 80	1185321655900	1651
+The method getAllStrokes() is undefined for the type JigsawPiece	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 586	1185321655900	1662
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 687	1185321655900	1665
+The method getR3Application() is undefined for the type JigsawProject	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 687	1185321655900	1666
+r3 cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 688	1185321655900	1667
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 734	1185321655900	1668
+The method getR3Application() is undefined for the type JigsawProject	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 734	1185321655900	1669
+r3 cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 735	1185321655900	1670
+Jigsaw.r3 cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 747	1185321655900	1671
+The method getR3Application() is undefined for the type JigsawProject	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 747	1185321655900	1672
+Jigsaw.r3 cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 769	1185321655900	1674
+PaperToolkit cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	Jigsaw.java	line 769	1185321655900	1675
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawClickAdapter.java	line 2	1185321655853	1636
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawClickAdapter.java	line 3	1185321655853	1637
+ClickAdapter cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawClickAdapter.java	line 5	1185321655853	1638
+PenEvent cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawClickAdapter.java	line 15	1185321655853	1639
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawInkCollector.java	line 2	1185321655806	1628
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawInkCollector.java	line 3	1185321655806	1629
+InkCollector cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawInkCollector.java	line 5	1185321655806	1630
+Ink cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawInkCollector.java	line 15	1185321655806	1631
+The method getNewInkOnly() is undefined for the type JigsawInkCollector	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawInkCollector.java	line 15	1185321655806	1632
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 20	1185321655791	1609
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 21	1185321655791	1610
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 37	1185321655791	1612
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 38	1185321655791	1613
+allStrokes cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 110	1185321655791	1614
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 110	1185321655791	1615
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 288	1185321655791	1616
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 294	1185321655791	1617
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 322	1185321655791	1618
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 325	1185321655791	1619
+allStrokes cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 329	1185321655791	1622
+Ink cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 329	1185321655791	1620
+Ink cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 329	1185321655791	1621
+allStrokes cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 333	1185321655791	1625
+Ink cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 333	1185321655791	1623
+Ink cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawPiece.java	line 333	1185321655791	1624
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 16	1185321655760	1587
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 17	1185321655760	1588
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 18	1185321655760	1589
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 49	1185321655760	1590
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 194	1185321655760	1591
+The method getSheetIterator() is undefined for the type JigsawWorkbook	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 194	1185321655760	1592
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 197	1185321655760	1593
+The method getRegion(String) is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 218	1185321655760	1594
+The method getRegion(String) is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 220	1185321655760	1595
+The method getRegion(String) is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 222	1185321655760	1596
+The method getRegion(String) is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 224	1185321655760	1597
+The method getRegion(String) is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 227	1185321655760	1598
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 236	1185321655760	1599
+r3App cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 237	1185321655760	1600
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 239	1185321655760	1601
+Application cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 239	1185321655760	1602
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 243	1185321655760	1603
+The method getSheetIterator() is undefined for the type JigsawWorkbook	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 243	1185321655760	1604
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 244	1185321655760	1605
+r3App cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 257	1185321655760	1606
+r3App cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProject.java	line 259	1185321655760	1607
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 9	1185321655744	1556
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 10	1185321655744	1557
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 11	1185321655744	1558
+PatternDots cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 17	1185321655744	1559
+PatternDots cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 17	1185321655744	1560
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 18	1185321655744	1561
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 19	1185321655744	1562
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 20	1185321655744	1563
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 40	1185321655744	1564
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 40	1185321655744	1565
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 40	1185321655744	1566
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 40	1185321655744	1567
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 40	1185321655744	1568
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 41	1185321655744	1569
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 41	1185321655744	1570
+inkSamples cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 42	1185321655744	1571
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 43	1185321655744	1572
+inkSamples cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 50	1185321655744	1573
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 50	1185321655744	1574
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 55	1185321655744	1576
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 55	1185321655744	1575
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 97	1185321655744	1577
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 97	1185321655744	1578
+DOTS cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 98	1185321655744	1582
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 98	1185321655744	1581
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 98	1185321655744	1579
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 98	1185321655744	1580
+inkStrokes cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 99	1185321655744	1583
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 105	1185321655744	1584
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 105	1185321655744	1585
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawProjectDataHandler.java	line 106	1185321655744	1586
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 4	1185321655713	1499
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 5	1185321655713	1500
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 6	1185321655713	1501
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 7	1185321655713	1502
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 8	1185321655713	1503
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 16	1185321655713	1504
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 37	1185321655713	1505
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 37	1185321655713	1506
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 39	1185321655713	1507
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 39	1185321655713	1508
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 48	1185321655713	1509
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 66	1185321655713	1511
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 66	1185321655713	1512
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 66	1185321655713	1510
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 68	1185321655713	1514
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 68	1185321655713	1515
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 68	1185321655713	1513
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 71	1185321655713	1517
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 71	1185321655713	1518
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 71	1185321655713	1519
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 71	1185321655713	1520
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 71	1185321655713	1516
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 74	1185321655713	1522
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 74	1185321655713	1523
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 74	1185321655713	1524
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 74	1185321655713	1525
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 74	1185321655713	1521
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 77	1185321655713	1527
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 77	1185321655728	1528
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 77	1185321655728	1529
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 77	1185321655728	1530
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 77	1185321655713	1526
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 80	1185321655728	1532
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 80	1185321655728	1533
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 80	1185321655728	1534
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 80	1185321655728	1535
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 80	1185321655728	1531
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 84	1185321655728	1537
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 84	1185321655728	1538
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 84	1185321655728	1536
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 86	1185321655728	1540
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 86	1185321655728	1541
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 86	1185321655728	1539
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 88	1185321655728	1543
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 88	1185321655728	1544
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 88	1185321655728	1542
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 90	1185321655728	1546
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 90	1185321655728	1547
+TextRegion cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 90	1185321655728	1545
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 93	1185321655728	1549
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 93	1185321655728	1550
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 93	1185321655728	1551
+Inches cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 93	1185321655728	1552
+Region cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 93	1185321655728	1548
+SheetRenderer cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 126	1185321655728	1553
+The method getRenderer() is undefined for the type JigsawSheet	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawSheet.java	line 126	1185321655728	1554
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 7	1185321655697	1468
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 8	1185321655697	1469
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 9	1185321655697	1470
+PatternDots cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 13	1185321655697	1471
+PatternDots cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 13	1185321655697	1472
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 14	1185321655697	1473
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 15	1185321655697	1474
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 16	1185321655697	1475
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 29	1185321655697	1476
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 29	1185321655697	1477
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 29	1185321655697	1478
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 29	1185321655697	1479
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 29	1185321655697	1480
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 30	1185321655697	1481
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 30	1185321655697	1482
+inkSamples cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 31	1185321655697	1483
+lastSample cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 32	1185321655697	1484
+inkSamples cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 41	1185321655697	1485
+PenSample cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 41	1185321655697	1486
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 45	1185321655697	1488
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 45	1185321655697	1487
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 54	1185321655697	1489
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 54	1185321655697	1490
+DOTS cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 55	1185321655697	1494
+inkSamples cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 55	1185321655697	1493
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 55	1185321655697	1491
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 55	1185321655697	1492
+inkStrokes cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 56	1185321655697	1495
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 61	1185321655697	1496
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 61	1185321655697	1497
+inkStrokes cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawStrokeDataHandler.java	line 62	1185321655697	1498
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 5	1185321655666	1453
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 6	1185321655666	1454
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 7	1185321655666	1455
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 28	1185321655666	1456
+pages cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 51	1185321655666	1457
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 51	1185321655666	1458
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 61	1185321655666	1459
+pages cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 62	1185321655666	1460
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 68	1185321655666	1461
+pages cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 69	1185321655666	1462
+TiledPatternGenerator cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 107	1185321655666	1463
+TiledPatternGenerator cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 107	1185321655666	1464
+Sheet cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 108	1185321655666	1465
+SheetRenderer cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 113	1185321655666	1466
+pages cannot be resolved or is not a field	Jigsaw/src/edu/berkeley/cs160/jigsaw	JigsawWorkbook.java	line 126	1185321655666	1467
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JpegGenerator.java	line 15	1185321655635	1447
+The import edu.stanford cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JpegGenerator.java	line 16	1185321655635	1448
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JpegGenerator.java	line 48	1185321655635	1449
+GraphicsUtils cannot be resolved	Jigsaw/src/edu/berkeley/cs160/jigsaw	JpegGenerator.java	line 53	1185321655635	1450
+InkStroke cannot be resolved to a type	Jigsaw/src/edu/berkeley/cs160/jigsaw	JpegGenerator.java	line 60	1185321655635	1451
