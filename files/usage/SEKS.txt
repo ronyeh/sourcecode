@@ -1,0 +1,247 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 6	1185321676237	3655
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 7	1185321676237	3656
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 8	1185321676237	3657
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 9	1185321676237	3658
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 25	1185321676237	3659
+The method createPostIt() is undefined for the type PaperUI	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 25	1185321676237	3660
+Application cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 26	1185321676237	3661
+Application cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 26	1185321676237	3662
+Pen cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 29	1185321676237	3663
+Pen cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 29	1185321676237	3664
+PaperToolkit cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 35	1185321676237	3665
+PaperToolkit cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell	PaperBuddy.java	line 35	1185321676237	3666
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 5	1185321676237	3582
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 6	1185321676237	3583
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 7	1185321676237	3584
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 8	1185321676237	3585
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 9	1185321676237	3586
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 15	1185321676237	3587
+The method createPostIt() is undefined for the type PaperUI	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 15	1185321676237	3588
+SheetRenderer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 16	1185321676237	3589
+SheetRenderer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 16	1185321676237	3590
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 23	1185321676237	3591
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 27	1185321676237	3592
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 27	1185321676237	3593
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 28	1185321676237	3594
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 28	1185321676237	3595
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 42	1185321676237	3598
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 42	1185321676237	3599
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 42	1185321676237	3596
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 42	1185321676237	3597
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 47	1185321676237	3600
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 47	1185321676237	3601
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 51	1185321676237	3604
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 51	1185321676237	3605
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 51	1185321676237	3602
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 51	1185321676237	3603
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 56	1185321676237	3608
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 56	1185321676237	3609
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 56	1185321676237	3606
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 56	1185321676237	3607
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 57	1185321676237	3612
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 57	1185321676237	3613
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 57	1185321676237	3610
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 57	1185321676237	3611
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 62	1185321676237	3614
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 62	1185321676237	3615
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 63	1185321676237	3616
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 63	1185321676237	3617
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 71	1185321676237	3618
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 71	1185321676237	3619
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 75	1185321676237	3621
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 75	1185321676237	3622
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 75	1185321676237	3620
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 78	1185321676237	3625
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 78	1185321676237	3626
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 78	1185321676237	3623
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 78	1185321676237	3624
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 83	1185321676237	3627
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 83	1185321676237	3628
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 84	1185321676237	3629
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 84	1185321676237	3630
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 85	1185321676237	3631
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 85	1185321676237	3632
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 86	1185321676237	3633
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 86	1185321676237	3634
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 87	1185321676237	3635
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 87	1185321676237	3636
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 93	1185321676237	3639
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 93	1185321676237	3640
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 93	1185321676237	3637
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 93	1185321676237	3638
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 95	1185321676237	3643
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 95	1185321676237	3644
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 95	1185321676237	3641
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 95	1185321676237	3642
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 98	1185321676237	3645
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 98	1185321676237	3646
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 101	1185321676237	3647
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 101	1185321676237	3648
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 114	1185321676237	3649
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 114	1185321676237	3650
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 121	1185321676237	3653
+Inches cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 121	1185321676237	3654
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 121	1185321676237	3651
+TextRegion cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/paper	PaperUI.java	line 121	1185321676237	3652
+The method getHWR(String) is undefined for the type MainWindow	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 134	1185321676174	3565
+The method getHWR(String) is undefined for the type MainWindow	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 135	1185321676174	3566
+The method getHWR(String) is undefined for the type MainWindow	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 136	1185321676174	3567
+The method getHWR(String) is undefined for the type MainWindow	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 137	1185321676174	3568
+The method getHWR(String) is undefined for the type MainWindow	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 349	1185321676174	3569
+The method getCurrentPanel() is undefined for the type InkPanelListModel	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	CalendarWizard.java	line 492	1185321676174	3570
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 12	1185321676081	3543
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 13	1185321676081	3544
+The type InkPanelListModel must implement the inherited abstract method ListModel.getElementAt(int)	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 23	1185321676081	3545
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 25	1185321676081	3546
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 42	1185321676081	3547
+Ink cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 54	1185321676081	3548
+currentPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 65	1185321676081	3549
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 65	1185321676081	3550
+currentPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 66	1185321676081	3551
+MainWindow.writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 67	1185321676081	3552
+MainWindow.writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 68	1185321676081	3553
+currentPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 72	1185321676081	3554
+currentPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 73	1185321676081	3555
+currentPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 74	1185321676081	3556
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 79	1185321676081	3557
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListModel.java	line 82	1185321676081	3558
+Type mismatch: cannot convert from Object to Component	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	InkPanelListRenderer.java	line 13	1185321676065	3541
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 64	1185321676034	3433
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 65	1185321676034	3434
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 66	1185321676034	3435
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 67	1185321676034	3436
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 68	1185321676034	3437
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 69	1185321676034	3438
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 70	1185321676034	3439
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 71	1185321676034	3440
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 72	1185321676034	3441
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 136	1185321676034	3442
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 137	1185321676034	3443
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 138	1185321676034	3444
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 139	1185321676034	3445
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 140	1185321676034	3446
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 141	1185321676034	3447
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 142	1185321676034	3448
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 143	1185321676034	3449
+hwrEndDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 145	1185321676034	3450
+hwrEndDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 147	1185321676034	3451
+hwrEndTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 149	1185321676034	3452
+hwrStartDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 151	1185321676034	3453
+hwrStartTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 153	1185321676034	3454
+hwrMainRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 155	1185321676034	3455
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 186	1185321676034	3456
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 187	1185321676034	3457
+InkCollector cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 188	1185321676034	3458
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 201	1185321676034	3459
+browseInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 208	1185321676034	3460
+The method getAllInk() is undefined for the type Object	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 208	1185321676034	3461
+browseInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 209	1185321676034	3462
+Sheet cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 225	1185321676034	3463
+InkCollector cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 253	1185321676034	3464
+Region cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 255	1185321676034	3465
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 257	1185321676034	3466
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 270	1185321676034	3467
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 283	1185321676034	3468
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 296	1185321676034	3469
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 311	1185321676034	3470
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 324	1185321676034	3471
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 354	1185321676034	3472
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 357	1185321676034	3474
+hwrEmail cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 357	1185321676034	3473
+hwrEmail cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 358	1185321676034	3475
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 361	1185321676034	3477
+hwrSubject cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 361	1185321676034	3476
+hwrSubject cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 362	1185321676034	3478
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 365	1185321676034	3480
+hwrStartTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 365	1185321676034	3479
+hwrStartTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 366	1185321676034	3481
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 369	1185321676034	3483
+hwrEndTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 369	1185321676034	3482
+hwrEndTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 370	1185321676034	3484
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 373	1185321676034	3486
+hwrStartDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 373	1185321676034	3485
+hwrStartDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 374	1185321676034	3487
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 377	1185321676034	3489
+hwrEndDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 377	1185321676034	3488
+hwrEndDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 378	1185321676034	3490
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 380	1185321676034	3491
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 389	1185321676034	3492
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 398	1185321676034	3493
+ClickAdapter cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 407	1185321676034	3494
+InkCollector cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 418	1185321676034	3496
+noteInkWell cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 418	1185321676034	3495
+ContentFilterListener cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 419	1185321676034	3498
+noteInkWell cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 419	1185321676034	3497
+HandwritingRecognizer cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 426	1185321676034	3500
+hwrMainRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 426	1185321676034	3499
+noteInkWell cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 433	1185321676034	3502
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 433	1185321676034	3501
+hwrMainRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 434	1185321676034	3504
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 434	1185321676034	3503
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 436	1185321676034	3506
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 436	1185321676034	3505
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 437	1185321676034	3507
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 437	1185321676034	3508
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 437	1185321676034	3509
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 437	1185321676034	3510
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 438	1185321676034	3511
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 439	1185321676034	3512
+writingRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 439	1185321676034	3513
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 440	1185321676034	3514
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 441	1185321676034	3515
+browseInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 451	1185321676034	3516
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 451	1185321676034	3517
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 528	1185321676034	3518
+hwrMainRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 532	1185321676034	3519
+hwrStartTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 533	1185321676034	3520
+hwrEndTime cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 534	1185321676034	3521
+hwrStartDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 535	1185321676034	3522
+hwrEndDate cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 536	1185321676034	3523
+hwrEmail cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 537	1185321676034	3524
+hwrSubject cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 538	1185321676034	3525
+The method getCurrentPanel() is undefined for the type InkPanelListModel	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 542	1185321676034	3526
+The method getCurrentPanel() is undefined for the type InkPanelListModel	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 598	1185321676034	3527
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 651	1185321676034	3528
+noteInkPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 695	1185321676034	3529
+Ink cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 725	1185321676034	3530
+hwrSubject cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 1524	1185321676034	3531
+hwrEmail cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	MainWindow.java	line 1557	1185321676034	3532
+MainWindow.hwrMainRegion cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/shell/swing	TodoWindow.java	line 325	1185321675924	3431
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EmailNote.java	line 2	1185321675862	3417
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EmailNote.java	line 10	1185321675862	3418
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EmailNote.java	line 12	1185321675862	3419
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EventNote.java	line 2	1185321675846	3413
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EventNote.java	line 10	1185321675846	3414
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	EventNote.java	line 12	1185321675846	3415
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 7	1185321675831	3385
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 8	1185321675831	3386
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 9	1185321675831	3387
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 10	1185321675831	3388
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 11	1185321675831	3389
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 15	1185321675831	3390
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 19	1185321675831	3392
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 19	1185321675831	3391
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 20	1185321675831	3393
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 23	1185321675831	3394
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 34	1185321675831	3395
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 37	1185321675831	3396
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 52	1185321675831	3397
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 52	1185321675831	3398
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 53	1185321675831	3399
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 53	1185321675831	3400
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 53	1185321675831	3401
+The method getMyPanel() is undefined for the type Note	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 55	1185321675831	3402
+The method getMyPanel() is undefined for the type Note	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 57	1185321675831	3403
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 71	1185321675831	3404
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 73	1185321675831	3405
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 74	1185321675831	3406
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 74	1185321675831	3407
+Ink cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 78	1185321675831	3409
+The method getMyPanel() is undefined for the type Note	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	Note.java	line 78	1185321675831	3408
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TeamNote.java	line 2	1185321675768	3375
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TeamNote.java	line 10	1185321675768	3376
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TeamNote.java	line 12	1185321675768	3377
+The import edu.stanford cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TodoNote.java	line 2	1185321675737	3372
+InkPanel cannot be resolved to a type	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TodoNote.java	line 10	1185321675737	3373
+myPanel cannot be resolved	SEKS_PaperBuddy/src/edu/berkeley/cs160/paperbuddy/util	TodoNote.java	line 12	1185321675737	3374

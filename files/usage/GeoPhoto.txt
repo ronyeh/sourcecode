@@ -1,0 +1,99 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	GeoPhoto/org/geophoto	BatchHandle.java	line 12	1185321655072	1232
+The import edu cannot be resolved	GeoPhoto/org/geophoto	BatchHandle.java	line 13	1185321655072	1233
+The import edu cannot be resolved	GeoPhoto/org/geophoto	BatchHandle.java	line 14	1185321655072	1234
+The import edu cannot be resolved	GeoPhoto/org/geophoto	BatchHandle.java	line 15	1185321655072	1235
+The import edu cannot be resolved	GeoPhoto/org/geophoto	BatchHandle.java	line 16	1185321655072	1236
+Application cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 29	1185321655072	1237
+BatchedEventHandler cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 30	1185321655072	1238
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 31	1185321655072	1239
+The constructor Object(String) is undefined	GeoPhoto/org/geophoto	BatchHandle.java	line 38	1185321655072	1240
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 39	1185321655072	1241
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 41	1185321655072	1242
+BatchedEventHandler cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 67	1185321655072	1243
+InkStroke cannot be resolved to a type	GeoPhoto/org/geophoto	BatchHandle.java	line 108	1185321655072	1244
+The import edu cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 75	1185321655010	1213
+The import edu cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 76	1185321655010	1214
+PaperToolkit cannot be resolved to a type	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 144	1185321655010	1215
+PaperToolkit cannot be resolved to a type	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 144	1185321655010	1216
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 145	1185321655010	1217
+paperToolkit cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1137	1185321655010	1218
+mySheet cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1349	1185321655010	1220
+The method createMap() is undefined for the type MapPaperUI	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1349	1185321655010	1221
+mySheet cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1351	1185321655010	1222
+paperToolkit cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1352	1185321655010	1223
+paperToolkit cannot be resolved	GeoPhoto/org/geophoto	GeoPhotoHiFiPrototype.java	line 1353	1185321655010	1224
+The import edu cannot be resolved	GeoPhoto/org/geophoto	MapPaperUI.java	line 20	1185321654947	1136
+The import edu cannot be resolved	GeoPhoto/org/geophoto	MapPaperUI.java	line 21	1185321654947	1137
+The import edu cannot be resolved	GeoPhoto/org/geophoto	MapPaperUI.java	line 22	1185321654947	1138
+The import edu cannot be resolved	GeoPhoto/org/geophoto	MapPaperUI.java	line 23	1185321654947	1139
+The import edu cannot be resolved	GeoPhoto/org/geophoto	MapPaperUI.java	line 24	1185321654947	1140
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 122	1185321654947	1142
+The method createMap() is undefined for the type MapPaperUI	GeoPhoto/org/geophoto	MapPaperUI.java	line 122	1185321654947	1143
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 129	1185321654947	1144
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 134	1185321654947	1145
+Sheet cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 134	1185321654947	1146
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 137	1185321654947	1149
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 137	1185321654947	1150
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 137	1185321654947	1147
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 137	1185321654947	1148
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 143	1185321654947	1153
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 143	1185321654947	1154
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 143	1185321654947	1151
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 143	1185321654947	1152
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 145	1185321654947	1157
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 145	1185321654947	1158
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 145	1185321654947	1155
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 145	1185321654947	1156
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 147	1185321654947	1161
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 147	1185321654947	1162
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 147	1185321654947	1159
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 147	1185321654947	1160
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 149	1185321654947	1165
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 149	1185321654947	1166
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 149	1185321654947	1163
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 149	1185321654947	1164
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 151	1185321654947	1169
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 151	1185321654947	1170
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 151	1185321654947	1167
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 151	1185321654947	1168
+ImageRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 158	1185321654947	1171
+ImageRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 158	1185321654947	1172
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 158	1185321654947	1173
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 158	1185321654947	1174
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 164	1185321654947	1175
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 164	1185321654947	1176
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 167	1185321654947	1179
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 167	1185321654947	1180
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 167	1185321654947	1177
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 167	1185321654947	1178
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 171	1185321654947	1181
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 171	1185321654947	1182
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 174	1185321654963	1185
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 174	1185321654963	1186
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 174	1185321654947	1183
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 174	1185321654947	1184
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 178	1185321654963	1187
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 178	1185321654963	1188
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 181	1185321654963	1191
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 181	1185321654963	1192
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 181	1185321654963	1189
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 181	1185321654963	1190
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 185	1185321654963	1193
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 185	1185321654963	1194
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 188	1185321654963	1197
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 188	1185321654963	1198
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 188	1185321654963	1195
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 188	1185321654963	1196
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 192	1185321654963	1199
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 192	1185321654963	1200
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 195	1185321654963	1203
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 195	1185321654963	1204
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 195	1185321654963	1201
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 195	1185321654963	1202
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 199	1185321654963	1205
+Region cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 199	1185321654963	1206
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 202	1185321654963	1209
+Inches cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 202	1185321654963	1210
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 202	1185321654963	1207
+TextRegion cannot be resolved to a type	GeoPhoto/org/geophoto	MapPaperUI.java	line 202	1185321654963	1208

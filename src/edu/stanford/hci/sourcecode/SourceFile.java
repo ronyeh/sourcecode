@@ -11,8 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import edu.stanford.hci.r3.util.DebugUtils;
-
 /**
  * <p>
  * Represents all aspects of a Java Source File. =) For Static Analysis.

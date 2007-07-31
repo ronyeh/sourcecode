@@ -1,0 +1,17 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu.stanford cannot be resolved	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 21	1185321677158	4131
+The import edu.stanford cannot be resolved	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 22	1185321677158	4132
+The import edu.stanford cannot be resolved	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 23	1185321677158	4133
+The import edu.stanford cannot be resolved	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 24	1185321677158	4134
+Points cannot be resolved	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 130	1185321677158	4140
+Units cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 130	1185321677158	4139
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 140	1185321677158	4141
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 140	1185321677158	4142
+PenSample cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 144	1185321677158	4143
+PenSample cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 144	1185321677158	4144
+PenSample cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 155	1185321677158	4145
+PenSample cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 155	1185321677158	4146
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 163	1185321677158	4147
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 163	1185321677158	4148
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 180	1185321677158	4149
+InkStroke cannot be resolved to a type	ThePenIsMightier/src/edu/berkeley/cs160/blogpad	BatchParser.java	line 189	1185321677158	4150

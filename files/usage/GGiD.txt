@@ -1,0 +1,182 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	GGiD/article_app	H2JConverter.java	line 15	1185321654666	1105
+The import edu cannot be resolved	GGiD/article_app	H2JConverter.java	line 16	1185321654666	1106
+The import edu cannot be resolved	GGiD/article_app	H2JConverter.java	line 17	1185321654666	1107
+The import edu cannot be resolved	GGiD/article_app	H2JConverter.java	line 18	1185321654666	1108
+The import edu cannot be resolved	GGiD/article_app	H2JConverter.java	line 19	1185321654666	1109
+TiledPatternGenerator cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 66	1185321654666	1110
+TiledPatternGenerator cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 66	1185321654666	1111
+Sheet cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 68	1185321654666	1112
+Sheet cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 68	1185321654666	1113
+Application cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 77	1185321654666	1114
+Application cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 77	1185321654666	1115
+PaperToolkit cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 78	1185321654666	1116
+PaperToolkit cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 78	1185321654666	1117
+Pen cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 83	1185321654666	1118
+Pen cannot be resolved to a type	GGiD/article_app	H2JConverter.java	line 83	1185321654666	1119
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 17	1185321654651	1082
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 18	1185321654651	1083
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 19	1185321654651	1084
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 20	1185321654651	1085
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 21	1185321654651	1086
+The import edu cannot be resolved	GGiD/article_app	P2JPanel.java	line 22	1185321654651	1087
+InkPanel cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 24	1185321654651	1088
+ImageRegion cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 28	1185321654651	1089
+Region cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 29	1185321654651	1090
+ImageRegion cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 35	1185321654651	1091
+Region cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 49	1185321654651	1092
+The method paintComponent(Graphics) of type P2JPanel must override or implement a supertype method	GGiD/article_app	P2JPanel.java	line 65	1185321654651	1093
+GraphicsUtils cannot be resolved	GGiD/article_app	P2JPanel.java	line 71	1185321654651	1094
+articleRegion cannot be resolved	GGiD/article_app	P2JPanel.java	line 87	1185321654651	1095
+articleRegion cannot be resolved	GGiD/article_app	P2JPanel.java	line 89	1185321654651	1096
+articleRegion cannot be resolved	GGiD/article_app	P2JPanel.java	line 89	1185321654651	1098
+The method getHeight(ImageObserver) in the type Image is not applicable for the arguments (P2JPanel)	GGiD/article_app	P2JPanel.java	line 89	1185321654651	1099
+The method getWidth(ImageObserver) in the type Image is not applicable for the arguments (P2JPanel)	GGiD/article_app	P2JPanel.java	line 89	1185321654651	1097
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, P2JPanel)	GGiD/article_app	P2JPanel.java	line 90	1185321654651	1100
+Ink cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 93	1185321654651	1101
+inkWell cannot be resolved	GGiD/article_app	P2JPanel.java	line 93	1185321654651	1102
+InkStroke cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 104	1185321654651	1103
+InkStroke cannot be resolved to a type	GGiD/article_app	P2JPanel.java	line 105	1185321654651	1104
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 22	1185321654635	1029
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 23	1185321654635	1030
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 24	1185321654635	1031
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 25	1185321654635	1032
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 26	1185321654635	1033
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 27	1185321654635	1034
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 28	1185321654635	1035
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 29	1185321654635	1036
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 30	1185321654635	1037
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 31	1185321654635	1038
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 32	1185321654635	1039
+The import edu cannot be resolved	GGiD/article_app	P2JUI.java	line 33	1185321654635	1040
+Sheet cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 49	1185321654635	1041
+HandwritingRecognizer cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 70	1185321654635	1043
+Ink cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 71	1185321654635	1044
+Ink cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 72	1185321654635	1045
+Sheet cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 79	1185321654635	1046
+TextRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 84	1185321654635	1047
+Size cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 86	1185321654635	1048
+Region cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 103	1185321654635	1049
+ImageRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 106	1185321654635	1050
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 107	1185321654635	1051
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 110	1185321654635	1052
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 110	1185321654635	1053
+ContentFilterListener cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 111	1185321654635	1054
+ImageRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 121	1185321654635	1055
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 122	1185321654635	1056
+ClickAdapter cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 125	1185321654635	1057
+ImageRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 136	1185321654635	1058
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 137	1185321654635	1059
+ClickAdapter cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 140	1185321654635	1060
+Region cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 151	1185321654635	1061
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 152	1185321654635	1062
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 154	1185321654635	1063
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 154	1185321654635	1064
+ContentFilterListener cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 155	1185321654635	1065
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 171	1185321654635	1066
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 175	1185321654635	1067
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 175	1185321654635	1068
+ContentFilterListener cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 176	1185321654635	1069
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 188	1185321654635	1070
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 192	1185321654635	1071
+InkCollector cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 192	1185321654635	1072
+ContentFilterListener cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 193	1185321654635	1073
+Region cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 204	1185321654635	1074
+Type mismatch: cannot convert from P2JPanel to JPanel	GGiD/article_app	P2JUI.java	line 205	1185321654635	1075
+ClickAdapter cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 208	1185321654635	1076
+TextRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 269	1185321654635	1077
+TextRegion cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 269	1185321654635	1078
+Ink cannot be resolved to a type	GGiD/article_app	P2JUI.java	line 296	1185321654635	1079
+The method repaint() is undefined for the type P2JPanel	GGiD/article_app	P2JUI.java	line 304	1185321654635	1080
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 4	1185321654619	937
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 5	1185321654619	938
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 6	1185321654619	939
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 7	1185321654619	940
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 8	1185321654619	941
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 9	1185321654619	942
+The import edu cannot be resolved	GGiD/article_app	PaperUI.java	line 10	1185321654619	943
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 25	1185321654619	944
+TiledPatternGenerator cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 25	1185321654619	945
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 26	1185321654619	946
+The method createMap() is undefined for the type PaperUI	GGiD/article_app	PaperUI.java	line 26	1185321654619	947
+SheetRenderer cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 27	1185321654619	948
+SheetRenderer cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 27	1185321654619	949
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 31	1185321654619	950
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 33	1185321654619	951
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 33	1185321654619	952
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 35	1185321654619	955
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 35	1185321654619	956
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 35	1185321654619	953
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 35	1185321654619	954
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 40	1185321654619	959
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 40	1185321654619	960
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 40	1185321654619	957
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 40	1185321654619	958
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	963
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	964
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	965
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	966
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	961
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 43	1185321654619	962
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 47	1185321654619	969
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 47	1185321654619	970
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 47	1185321654619	967
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 47	1185321654619	968
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	973
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	974
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	975
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	976
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	971
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 50	1185321654619	972
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 54	1185321654619	979
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 54	1185321654619	980
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 54	1185321654619	977
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 54	1185321654619	978
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	983
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	984
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	985
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	986
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	981
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 57	1185321654619	982
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 61	1185321654619	989
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 61	1185321654619	990
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 61	1185321654619	987
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 61	1185321654619	988
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	993
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	994
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	995
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	996
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	991
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 74	1185321654619	992
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 78	1185321654619	999
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 78	1185321654619	1000
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 78	1185321654619	997
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 78	1185321654619	998
+ImageRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 83	1185321654619	1002
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 83	1185321654619	1003
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 83	1185321654619	1004
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 83	1185321654619	1001
+ImageRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 89	1185321654619	1006
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 89	1185321654619	1007
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 89	1185321654619	1008
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 89	1185321654619	1005
+ImageRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 94	1185321654619	1010
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 94	1185321654619	1011
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 94	1185321654619	1012
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 94	1185321654619	1009
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 99	1185321654619	1015
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 99	1185321654619	1016
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 99	1185321654619	1013
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 99	1185321654619	1014
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1019
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1020
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1021
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1022
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1017
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 102	1185321654619	1018
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 106	1185321654619	1025
+Inches cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 106	1185321654619	1026
+Region cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 106	1185321654619	1023
+TextRegion cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 106	1185321654619	1024
+Sheet cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 112	1185321654619	1027
+TiledPatternGenerator cannot be resolved to a type	GGiD/article_app	PaperUI.java	line 112	1185321654619	1028

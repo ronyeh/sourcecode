@@ -1,0 +1,117 @@
+Severity and Description	Path	Resource	Location	Creation Time	Id
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 20	1185321654510	898
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 21	1185321654510	899
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 22	1185321654510	900
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 23	1185321654510	901
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 24	1185321654510	902
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 25	1185321654510	903
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 26	1185321654510	904
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 27	1185321654510	905
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 28	1185321654510	906
+The import edu cannot be resolved	ET	AnswerKeyUI.java	line 29	1185321654510	907
+Pen cannot be resolved to a type	ET	AnswerKeyUI.java	line 48	1185321654510	909
+PDFSheet cannot be resolved to a type	ET	AnswerKeyUI.java	line 64	1185321654510	910
+PDFSheet cannot be resolved to a type	ET	AnswerKeyUI.java	line 64	1185321654510	911
+ImageRegion cannot be resolved to a type	ET	AnswerKeyUI.java	line 77	1185321654510	912
+ImageRegion cannot be resolved to a type	ET	AnswerKeyUI.java	line 77	1185321654510	913
+Inches cannot be resolved to a type	ET	AnswerKeyUI.java	line 77	1185321654510	914
+Inches cannot be resolved to a type	ET	AnswerKeyUI.java	line 77	1185321654510	915
+ContentFilterListener cannot be resolved to a type	ET	AnswerKeyUI.java	line 85	1185321654510	916
+Type mismatch: cannot convert from AnswerKeyUIPanel to JPanel	ET	AnswerKeyUI.java	line 96	1185321654510	917
+PatternLocationToSheetLocationMapping cannot be resolved to a type	ET	AnswerKeyUI.java	line 105	1185321654510	918
+PatternLocationToSheetLocationMapping cannot be resolved to a type	ET	AnswerKeyUI.java	line 105	1185321654510	919
+PatternDots cannot be resolved to a type	ET	AnswerKeyUI.java	line 114	1185321654510	920
+PatternDots cannot be resolved to a type	ET	AnswerKeyUI.java	line 114	1185321654510	921
+PatternDots cannot be resolved to a type	ET	AnswerKeyUI.java	line 115	1185321654510	922
+PatternDots cannot be resolved to a type	ET	AnswerKeyUI.java	line 115	1185321654510	923
+Application cannot be resolved to a type	ET	AnswerKeyUI.java	line 117	1185321654510	924
+Application cannot be resolved to a type	ET	AnswerKeyUI.java	line 117	1185321654510	925
+pen cannot be resolved	ET	AnswerKeyUI.java	line 124	1185321654510	926
+Pen cannot be resolved to a type	ET	AnswerKeyUI.java	line 124	1185321654510	927
+pen cannot be resolved	ET	AnswerKeyUI.java	line 125	1185321654510	928
+PaperToolkit cannot be resolved to a type	ET	AnswerKeyUI.java	line 127	1185321654510	929
+PaperToolkit cannot be resolved to a type	ET	AnswerKeyUI.java	line 127	1185321654510	930
+Ink cannot be resolved to a type	ET	AnswerKeyUI.java	line 210	1185321654510	931
+Ink cannot be resolved to a type	ET	AnswerKeyUI.java	line 211	1185321654510	932
+The method getNewInkOnly() is undefined for the type InkCollector	ET	AnswerKeyUI.java	line 211	1185321654510	933
+The method removeLastBatchOfInk() is undefined for the type AnswerKeyUIPanel	ET	AnswerKeyUI.java	line 263	1185321654510	934
+The import edu cannot be resolved	ET	AnswerKeyUIPanel.java	line 10	1185321654494	876
+The import edu cannot be resolved	ET	AnswerKeyUIPanel.java	line 11	1185321654494	877
+The import edu cannot be resolved	ET	AnswerKeyUIPanel.java	line 12	1185321654494	878
+The import edu cannot be resolved	ET	AnswerKeyUIPanel.java	line 13	1185321654494	879
+The import edu cannot be resolved	ET	AnswerKeyUIPanel.java	line 14	1185321654494	880
+InkPanel cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 16	1185321654494	881
+ImageRegion cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 19	1185321654494	882
+ImageRegion cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 20	1185321654494	883
+The method setBackground(Color) is undefined for the type AnswerKeyUIPanel	ET	AnswerKeyUIPanel.java	line 22	1185321654494	884
+mapRegion cannot be resolved or is not a field	ET	AnswerKeyUIPanel.java	line 26	1185321654494	885
+The method paintComponent(Graphics) of type AnswerKeyUIPanel must override or implement a supertype method	ET	AnswerKeyUIPanel.java	line 33	1185321654494	886
+The method paintComponent(Graphics) is undefined for the type Object	ET	AnswerKeyUIPanel.java	line 34	1185321654494	887
+GraphicsUtils cannot be resolved	ET	AnswerKeyUIPanel.java	line 36	1185321654494	888
+mapRegion cannot be resolved	ET	AnswerKeyUIPanel.java	line 42	1185321654494	889
+mapRegion cannot be resolved	ET	AnswerKeyUIPanel.java	line 42	1185321654494	891
+The method getHeight(ImageObserver) in the type Image is not applicable for the arguments (AnswerKeyUIPanel)	ET	AnswerKeyUIPanel.java	line 42	1185321654494	892
+The method getWidth(ImageObserver) in the type Image is not applicable for the arguments (AnswerKeyUIPanel)	ET	AnswerKeyUIPanel.java	line 42	1185321654494	890
+The method drawImage(Image, AffineTransform, ImageObserver) in the type Graphics2D is not applicable for the arguments (Image, AffineTransform, AnswerKeyUIPanel)	ET	AnswerKeyUIPanel.java	line 43	1185321654494	893
+Ink cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 44	1185321654494	894
+inkWell cannot be resolved	ET	AnswerKeyUIPanel.java	line 44	1185321654494	895
+InkStroke cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 47	1185321654494	896
+InkStroke cannot be resolved to a type	ET	AnswerKeyUIPanel.java	line 48	1185321654494	897
+The import javax.media cannot be resolved	ET	ExtractPagesAsThumbnails.java	line 32	1185321654385	834
+The import com.sun.media.jai cannot be resolved	ET	ExtractPagesAsThumbnails.java	line 36	1185321654385	835
+TIFFEncodeParam cannot be resolved to a type	ET	ExtractPagesAsThumbnails.java	line 262	1185321654385	837
+TIFFEncodeParam cannot be resolved to a type	ET	ExtractPagesAsThumbnails.java	line 264	1185321654385	838
+TIFFEncodeParam cannot be resolved	ET	ExtractPagesAsThumbnails.java	line 265	1185321654385	839
+JAI cannot be resolved	ET	ExtractPagesAsThumbnails.java	line 267	1185321654385	840
+The import edu cannot be resolved	ET	InkCollector.java	line 5	1185321654260	754
+The import edu cannot be resolved	ET	InkCollector.java	line 6	1185321654260	755
+The import edu cannot be resolved	ET	InkCollector.java	line 7	1185321654260	756
+The import edu cannot be resolved	ET	InkCollector.java	line 8	1185321654260	757
+The import edu cannot be resolved	ET	InkCollector.java	line 9	1185321654260	758
+The import edu cannot be resolved	ET	InkCollector.java	line 10	1185321654260	759
+The import edu cannot be resolved	ET	InkCollector.java	line 11	1185321654260	760
+The import edu cannot be resolved	ET	InkCollector.java	line 12	1185321654260	761
+The import edu cannot be resolved	ET	InkCollector.java	line 13	1185321654260	762
+ContentFilter cannot be resolved to a type	ET	InkCollector.java	line 27	1185321654260	763
+PatternDots cannot be resolved to a type	ET	InkCollector.java	line 31	1185321654260	764
+PatternDots cannot be resolved to a type	ET	InkCollector.java	line 31	1185321654260	765
+Pixels cannot be resolved to a type	ET	InkCollector.java	line 32	1185321654260	766
+Pixels cannot be resolved to a type	ET	InkCollector.java	line 32	1185321654260	767
+PenSample cannot be resolved to a type	ET	InkCollector.java	line 36	1185321654276	768
+PenSample cannot be resolved to a type	ET	InkCollector.java	line 36	1185321654276	769
+InkStroke cannot be resolved to a type	ET	InkCollector.java	line 44	1185321654276	770
+InkStroke cannot be resolved to a type	ET	InkCollector.java	line 44	1185321654276	771
+strokes cannot be resolved	ET	InkCollector.java	line 50	1185321654276	772
+currentStrokeSamples cannot be resolved	ET	InkCollector.java	line 51	1185321654276	773
+PenEvent cannot be resolved to a type	ET	InkCollector.java	line 61	1185321654276	774
+PercentageCoordinates cannot be resolved to a type	ET	InkCollector.java	line 62	1185321654276	775
+Units cannot be resolved to a type	ET	InkCollector.java	line 63	1185321654276	776
+Units cannot be resolved to a type	ET	InkCollector.java	line 64	1185321654276	777
+currentStrokeSamples cannot be resolved	ET	InkCollector.java	line 68	1185321654276	778
+currentStrokeSamples cannot be resolved	ET	InkCollector.java	line 69	1185321654276	779
+PenSample cannot be resolved to a type	ET	InkCollector.java	line 69	1185321654276	780
+PIXELS cannot be resolved	ET	InkCollector.java	line 69	1185321654276	781
+PIXELS cannot be resolved	ET	InkCollector.java	line 69	1185321654276	782
+currentStrokeSamples cannot be resolved	ET	InkCollector.java	line 72	1185321654276	785
+DOTS cannot be resolved	ET	InkCollector.java	line 72	1185321654276	786
+InkStroke cannot be resolved to a type	ET	InkCollector.java	line 72	1185321654276	784
+strokes cannot be resolved	ET	InkCollector.java	line 72	1185321654276	783
+The method notifyAllListenersOfNewContent() is undefined for the type InkCollector	ET	InkCollector.java	line 73	1185321654276	787
+currentStrokeSamples cannot be resolved	ET	InkCollector.java	line 76	1185321654276	788
+PenSample cannot be resolved to a type	ET	InkCollector.java	line 76	1185321654276	789
+PIXELS cannot be resolved	ET	InkCollector.java	line 76	1185321654276	790
+PIXELS cannot be resolved	ET	InkCollector.java	line 76	1185321654276	791
+Ink cannot be resolved to a type	ET	InkCollector.java	line 82	1185321654276	792
+Ink cannot be resolved to a type	ET	InkCollector.java	line 83	1185321654276	793
+strokes cannot be resolved	ET	InkCollector.java	line 83	1185321654276	794
+Ink cannot be resolved to a type	ET	InkCollector.java	line 88	1185321654276	795
+Ink cannot be resolved to a type	ET	InkCollector.java	line 89	1185321654276	796
+Ink cannot be resolved to a type	ET	InkCollector.java	line 89	1185321654276	797
+InkStroke cannot be resolved to a type	ET	InkCollector.java	line 89	1185321654276	798
+strokes cannot be resolved	ET	InkCollector.java	line 89	1185321654276	799
+strokes cannot be resolved	ET	InkCollector.java	line 89	1185321654276	800
+strokes cannot be resolved	ET	InkCollector.java	line 90	1185321654276	801
+strokes cannot be resolved	ET	InkCollector.java	line 97	1185321654276	802
+Ink cannot be resolved to a type	ET	InkCollector.java	line 104	1185321654276	803
+strokes cannot be resolved	ET	InkCollector.java	line 104	1185321654276	804
+strokes cannot be resolved	ET	InkCollector.java	line 111	1185321654276	805
