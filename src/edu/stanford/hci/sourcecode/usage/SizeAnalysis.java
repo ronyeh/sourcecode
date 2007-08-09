@@ -20,30 +20,36 @@ import edu.stanford.hci.sourcecode.Statistics;
  */
 public class SizeAnalysis {
 
-	public SizeAnalysis(File rootDirectory) {
+	public SizeAnalysis(File projectRoot) {
+		DebugUtils.println("Project: " + projectRoot.getName());
 
-		// each subdirectory is a project
-		File[] projectRootDirectories = rootDirectory.listFiles();
-		for (File projectRoot : projectRootDirectories) {
+		// how many statements in each project?
+		Statistics statistics = new Statistics(projectRoot);
 
-			DebugUtils.println("Project: " + projectRoot.getName());
+		int numClasses = statistics.getNumClasses();
+		int numStatements = statistics.getNumStatements();
 
-			// how many statements in each project?
-			Statistics statistics = new Statistics(projectRoot);
-
-			int numClasses = statistics.getNumClasses();
-			int numStatements = statistics.getNumStatements();
-
-			DebugUtils.println("Project " + projectRoot.getName() + " has "
-					+ numStatements + " total statements across " + numClasses
-					+ " classes.");
-			DebugUtils.println("\n\n\n");
-		}
+		DebugUtils.println("Project " + projectRoot.getName() + " has "
+				+ numStatements + " total statements across " + numClasses
+				+ " classes.");
+		DebugUtils.println("\n\n\n");
 	}
 
 	public static void main(String[] args) {
-		new SizeAnalysis(
-				new File(
-						"C:/Documents and Settings/Ron Yeh/My Documents/Projects/CS160"));
+		
+		// DiamondsEdge
+		// PaperTable
+		// PaperPostits
+		new SizeAnalysis(new File("C:/Documents and Settings/Ron Yeh/My Documents/Projects/PaperTable"));
+	}
+
+	private static void test_AnalyzeMultipleProjects() {
+		File rootDirectory = new File(
+				"C:/Documents and Settings/Ron Yeh/My Documents/Projects/CS160");
+		// each subdirectory is a project
+		File[] projectRootDirectories = rootDirectory.listFiles();
+		for (File projectRoot : projectRootDirectories) {
+			new SizeAnalysis(projectRoot);
+		}
 	}
 }
