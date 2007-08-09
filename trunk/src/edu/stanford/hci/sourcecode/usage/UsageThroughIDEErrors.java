@@ -6,12 +6,14 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Collections;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import edu.stanford.hci.r3.util.ArrayUtils;
 import edu.stanford.hci.r3.util.DebugUtils;
 import edu.stanford.hci.r3.util.files.FileUtils;
 
@@ -41,14 +43,16 @@ import edu.stanford.hci.r3.util.files.FileUtils;
  * @author <a href="http://graphics.stanford.edu/~ronyeh">Ron B Yeh</a>
  *         (ronyeh(AT)cs.stanford.edu)
  */
-public class Problems {
+public class UsageThroughIDEErrors {
 
 	private Pattern patternImport;
 	private Pattern patternTypeNotFound;
 
 	private HashMap<String, Integer> countOfTypes = new HashMap<String, Integer>();
-	
-	public Problems(File rootPath) {
+
+	private Set<String> sameLineClassProject = new HashSet<String>();
+
+	public UsageThroughIDEErrors(File rootPath) {
 
 		setupPatternMatchers();
 
@@ -82,20 +86,40 @@ public class Problems {
 
 						String typeName = matcherType.group(1);
 
-						
 						// check if there was a new instance created
 						// do this by loading the actual file, and detecting a
 						// call to new TypeName()
 						// if (sourceLine.contains("new " + typeName)) {
 						// DebugUtils.println(line);
 						// }
-						
-						// add to our statistics
-						if (countOfTypes.containsKey(typeName)) {
-							countOfTypes.put(typeName, countOfTypes.get(typeName)+1); // increment
+
+						// split the fields (tab delimited) so that we can find
+						// the class, line number, and project name
+						String[] fields = line.split("\t");
+
+						// create a string out of the type_path_file_linenumber
+						String uniqueID = typeName + "_" + fields[1] + "_"
+								+ fields[2] + "_" + fields[3];
+
+						if (sameLineClassProject.contains(uniqueID)) {
+							// do nothing
+							System.out
+									.println("Duplicate " + uniqueID
+											+ " \t: "
+											+ Thread.currentThread()
+													.getStackTrace()[1]);
 						} else {
-							countOfTypes.put(typeName, 1); // initialize
+							sameLineClassProject.add(uniqueID);
+
+							// add to our statistics
+							if (countOfTypes.containsKey(typeName)) {
+								countOfTypes.put(typeName, countOfTypes
+										.get(typeName) + 1); // increment
+							} else {
+								countOfTypes.put(typeName, 1); // initialize
+							}
 						}
+
 					}
 				}
 				br.close();
@@ -107,8 +131,6 @@ public class Problems {
 
 		}
 
-		
-		
 		// discard the first line
 
 		// parse each tab-delimited line
@@ -126,7 +148,7 @@ public class Problems {
 		// period... It gives us an idea of usage.
 		DebugUtils.println(countOfTypes);
 		// sort and visualize?
-		
+
 		for (String key : countOfTypes.keySet()) {
 			System.out.println(key + "\t" + countOfTypes.get(key));
 		}
@@ -139,8 +161,8 @@ public class Problems {
 	}
 
 	public static void main(String[] args) {
-		new Problems(
-				new File(
-						"C:/Documents and Settings/Ron Yeh/My Documents/Projects/SourceCodeAnalysis/files/usage"));
+		new UsageThroughIDEErrors(new File(
+				"C:/Documents and Settings/Ron Yeh/My Documents/"
+						+ "Projects/SourceCodeAnalysis/files/usage"));
 	}
 }
