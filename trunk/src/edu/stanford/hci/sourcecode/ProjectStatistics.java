@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
+import papertoolkit.util.DebugUtils;
 
 public class ProjectStatistics {
 

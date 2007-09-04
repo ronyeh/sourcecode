@@ -2,7 +2,7 @@ package edu.stanford.hci.sourcecode.usage;
 
 import java.io.File;
 
-import edu.stanford.hci.r3.util.DebugUtils;
+import papertoolkit.util.DebugUtils;
 import edu.stanford.hci.sourcecode.Statistics;
 
 /**

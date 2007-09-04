@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
+import papertoolkit.util.DebugUtils;
 
 /**
  * <p>
