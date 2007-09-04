@@ -13,9 +13,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import edu.stanford.hci.r3.util.ArrayUtils;
-import edu.stanford.hci.r3.util.DebugUtils;
-import edu.stanford.hci.r3.util.files.FileUtils;
+import papertoolkit.util.DebugUtils;
+import papertoolkit.util.files.FileUtils;
 
 /**
  * <p>

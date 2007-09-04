@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import edu.stanford.hci.r3.util.DebugUtils;
-import edu.stanford.hci.r3.util.files.FileUtils;
+import papertoolkit.util.DebugUtils;
+import papertoolkit.util.files.FileUtils;
 import edu.stanford.hci.sourcecode.DiscoverSourceFiles;
 import edu.stanford.hci.sourcecode.ProjectIterator;
 import edu.stanford.hci.sourcecode.SourceFile;

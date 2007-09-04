@@ -9,9 +9,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
-import edu.stanford.hci.r3.util.SystemUtils;
-import edu.stanford.hci.r3.util.files.FileUtils;
+import papertoolkit.util.DebugUtils;
+import papertoolkit.util.files.FileUtils;
 
 /**
  * <p>

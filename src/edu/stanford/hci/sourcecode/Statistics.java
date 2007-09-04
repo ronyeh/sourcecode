@@ -3,7 +3,7 @@ package edu.stanford.hci.sourcecode;
 import java.io.File;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
+import papertoolkit.util.DebugUtils;
 
 // count java files starting from a certain directory
 

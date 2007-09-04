@@ -3,8 +3,7 @@ package edu.stanford.hci.sourcecode.html;
 import java.io.File;
 import java.util.List;
 
-import edu.stanford.hci.r3.util.DebugUtils;
-import edu.stanford.hci.r3.util.files.FileUtils;
+import papertoolkit.util.files.FileUtils;
 import edu.stanford.hci.sourcecode.SourceFile;
 
 /**
