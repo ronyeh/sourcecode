@@ -32,7 +32,7 @@ public class SizeAnalysis {
 		DebugUtils.println("Project " + projectRoot.getName() + " has "
 				+ numStatements + " total statements across " + numClasses
 				+ " classes.");
-		DebugUtils.println("\n\n\n");
+		DebugUtils.println("/n/n/n");
 	}
 
 	public static void main(String[] args) {
@@ -40,7 +40,9 @@ public class SizeAnalysis {
 		// DiamondsEdge
 		// PaperTable
 		// PaperPostits
-		new SizeAnalysis(new File("C:/Documents and Settings/Ron Yeh/My Documents/Projects/PaperTable"));
+		// JS&A Interactive Prototype
+		
+		new SizeAnalysis(new File("C:/Documents and Settings/Ron Yeh/My Documents/Projects/CS160/Other/JSandA_InteractivePrototype"));
 	}
 
 	private static void test_AnalyzeMultipleProjects() {
